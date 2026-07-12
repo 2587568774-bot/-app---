@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
 import { PlaceCard } from '@/components/place-card';
+import { AdSlot } from '@/components/ad-slot';
 import { WeatherStrip } from '@/components/weather-strip';
 import { getCityBySlug, listCountiesForCity, pickName } from '@/lib/regions/data-server';
 
@@ -49,6 +50,8 @@ export default async function CityDetailPage({
       </div>
 
       <WeatherStrip lat={city.lat} lng={city.lng} />
+
+      <AdSlot show />
 
       <section className="grid gap-4 md:grid-cols-3">
         <div className="rounded-2xl border border-ink/10 bg-white p-5">

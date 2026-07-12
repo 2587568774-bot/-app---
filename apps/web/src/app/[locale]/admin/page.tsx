@@ -52,6 +52,11 @@ export default async function AdminHomePage({
           desc="Approve or reject open guide applications."
         />
         <AdminLink
+          href={`/${locale}/admin/premium`}
+          title="Premium grants"
+          desc="Manually activate members after personal payment."
+        />
+        <AdminLink
           href={`/${locale}/admin/inquiries`}
           title="Inquiry inbox"
           desc="Track traveler leads sent to guides."

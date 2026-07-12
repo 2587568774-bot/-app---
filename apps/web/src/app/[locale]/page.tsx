@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { PlaceCard } from '@/components/place-card';
 import { SearchBox } from '@/components/search-box';
+import { AdSlot } from '@/components/ad-slot';
 import { getFeaturedCities, stats } from '@/lib/regions/data-server';
 
 export default async function HomePage({
@@ -47,6 +48,8 @@ export default async function HomePage({
           {s.cities} cities · {s.counties} counties loaded
         </p>
       </section>
+
+      <AdSlot show />
 
       <section className="space-y-4">
         <div className="flex items-end justify-between gap-3">

@@ -63,3 +63,15 @@ M0 done. M0–M2: monorepo, region browse/search/weather, admin region CMS draft
 - Public: /[locale]/guides, detail, apply, inquiry form
 - Admin: /[locale]/admin/guides review + /[locale]/admin/inquiries inbox
 - Local store: pps/web/src/data/guides-store.json (until Supabase is connected)
+
+
+## Premium (M4 shell)
+
+- Pricing page explains personal payment + admin grant
+- /[locale]/admin/premium manual grant/extend by email
+- Premium status check + offline pack save by email
+- Ad slots on home/city pages
+- Local store: pps/web/src/data/premium-store.json\r
+
+
+Status: M0–M4 complete on local data layer. Next: connect Supabase + optional Stripe.
