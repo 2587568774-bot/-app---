@@ -49,10 +49,17 @@ update public.profiles set role = 'admin' where id = '<your-user-uuid>';
 
 ## Status
 
-M0 done. M0–M2: monorepo, region browse/search/weather, admin region CMS draft editor. Next: M3 guides.
+M0 done. M0–M2: monorepo, region browse/search/weather, admin region CMS draft editor. M3 guides list/apply/review/inquiries live on local JSON store. Next: M4 Premium.
 
 ## Admin CMS (M2 shell)
 
 - /[locale]/admin dashboard
 - /[locale]/admin/regions completeness list
 - Edit form saves to pps/web/src/data/admin-drafts.json (local draft; Supabase write later)
+
+
+## Guide marketplace (M3 shell)
+
+- Public: /[locale]/guides, detail, apply, inquiry form
+- Admin: /[locale]/admin/guides review + /[locale]/admin/inquiries inbox
+- Local store: pps/web/src/data/guides-store.json (until Supabase is connected)
