@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { listAdminRegions, readDrafts } from '@/lib/regions/admin';
 import { stats } from '@/lib/regions/data-server';
+import { listAllGuides, listInquiries } from '@/lib/guides/store';
 
 export default async function AdminHomePage({
   params,
@@ -16,41 +17,45 @@ export default async function AdminHomePage({
   const low = regions.filter((r) => r.completeness < 55).length;
   const drafts = readDrafts();
   const draftCount = Object.keys(drafts.cities).length + Object.keys(drafts.counties).length;
+  const guides = listAllGuides();
+  const pendingGuides = guides.filter((g) => g.status === 'pending').length;
+  const inquiries = listInquiries();
+  const newInquiries = inquiries.filter((i) => i.status === 'new').length;
 
   return (
     <div className="space-y-8">
       <div>
         <h1 className="text-3xl font-semibold">{t('title')}</h1>
         <p className="mt-2 text-ink/60">
-          Local CMS shell for region content. Production auth/RLS will use Supabase admin role later.
+          Local CMS shell for regions + guides. Supabase role lock / production writes come later.
         </p>
       </div>
 
-      <div className="grid gap-4 md:grid-cols-4">
+      <div className="grid gap-4 md:grid-cols-3 xl:grid-cols-6">
         <Stat label="Cities" value={String(s.cities)} />
         <Stat label="Counties" value={String(s.counties)} />
         <Stat label="Low completeness" value={String(low)} />
-        <Stat label="Local drafts" value={String(draftCount)} />
+        <Stat label="Region drafts" value={String(draftCount)} />
+        <Stat label="Pending guides" value={String(pendingGuides)} />
+        <Stat label="New inquiries" value={String(newInquiries)} />
       </div>
 
-      <div className="grid gap-4 md:grid-cols-2">
-        <Link
+      <div className="grid gap-4 md:grid-cols-3">
+        <AdminLink
           href={`/${locale}/admin/regions`}
-          className="rounded-2xl border border-ink/10 bg-white p-6 shadow-sm hover:border-plateau/40"
-        >
-          <h2 className="text-lg font-semibold">Region CMS</h2>
-          <p className="mt-2 text-sm text-ink/65">
-            Browse province tree, edit names/blurbs/metrics, track completeness, save local drafts.
-          </p>
-        </Link>
-        <div className="rounded-2xl border border-dashed border-ink/15 bg-white/70 p-6">
-          <h2 className="text-lg font-semibold">Next admin modules</h2>
-          <ul className="mt-2 list-disc space-y-1 pl-5 text-sm text-ink/65">
-            <li>Guide review queue (M3)</li>
-            <li>Manual Premium grant (M4)</li>
-            <li>Media upload to Supabase Storage</li>
-          </ul>
-        </div>
+          title="Region CMS"
+          desc="Edit place content, track completeness, save local drafts."
+        />
+        <AdminLink
+          href={`/${locale}/admin/guides`}
+          title="Guide review"
+          desc="Approve or reject open guide applications."
+        />
+        <AdminLink
+          href={`/${locale}/admin/inquiries`}
+          title="Inquiry inbox"
+          desc="Track traveler leads sent to guides."
+        />
       </div>
     </div>
   );
@@ -62,5 +67,14 @@ function Stat({ label, value }: { label: string; value: string }) {
       <p className="text-sm text-ink/50">{label}</p>
       <p className="mt-1 text-2xl font-semibold">{value}</p>
     </div>
+  );
+}
+
+function AdminLink({ href, title, desc }: { href: string; title: string; desc: string }) {
+  return (
+    <Link href={href} className="rounded-2xl border border-ink/10 bg-white p-6 shadow-sm hover:border-plateau/40">
+      <h2 className="text-lg font-semibold">{title}</h2>
+      <p className="mt-2 text-sm text-ink/65">{desc}</p>
+    </Link>
   );
 }

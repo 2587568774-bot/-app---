@@ -57,7 +57,8 @@
     "premium": "Premium status"
   },
   "guides": {
-    "empty": "Guide marketplace UI shell is ready. Applications and listings ship in M3.",
-    "title": "Guides"
+    "title": "Guides",
+    "empty": "No guides yet.",
+    "apply": "Become a guide"
   }
 }

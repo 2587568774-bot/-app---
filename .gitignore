@@ -28,3 +28,9 @@ yarn-error.log*
 
 # Supabase temp
 supabase/.temp
+
+build-log.txt
+
+
+apps/web/src/data/admin-drafts.local.json
+

@@ -1,0 +1,53 @@
+{
+  "updated_at": "2026-07-12T00:00:00.000Z",
+  "guides": [
+    {
+      "id": "g-dali-anna",
+      "status": "approved",
+      "display_name": "Anna Li",
+      "headline": "Dali slow-travel & Bai culture guide",
+      "bio": "5 years helping overseas travelers and remote workers settle around Erhai. Fluent in English and Mandarin.",
+      "years_experience": 5,
+      "languages": ["en", "zh-Hans"],
+      "service_region_slugs": ["dali", "dali-city", "dali-eryuan"],
+      "specialties": ["culture", "food", "relocation"],
+      "priority_score": 80,
+      "contact_email": "anna.guide@example.com",
+      "cover_url": null,
+      "created_at": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "g-xishuangbanna-somchai",
+      "status": "approved",
+      "display_name": "Somchai Wang",
+      "headline": "Xishuangbanna nature & tea routes",
+      "bio": "Local rainforest and tea mountain routes for first-time visitors. Thai + English + Chinese.",
+      "years_experience": 8,
+      "languages": ["en", "zh-Hans", "th"],
+      "service_region_slugs": ["xishuangbanna", "xishuangbanna-jinghong", "xishuangbanna-menghai"],
+      "specialties": ["nature", "tea", "food"],
+      "priority_score": 70,
+      "contact_email": "somchai.guide@example.com",
+      "cover_url": null,
+      "created_at": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "g-pending-demo",
+      "status": "pending",
+      "display_name": "Pending Demo",
+      "headline": "Awaiting review sample",
+      "bio": "This application is waiting for admin approval.",
+      "years_experience": 2,
+      "languages": ["en"],
+      "service_region_slugs": ["kunming"],
+      "specialties": ["city"],
+      "priority_score": 10,
+      "contact_email": "pending@example.com",
+      "cover_url": null,
+      "created_at": "2026-07-10T00:00:00.000Z",
+      "reject_reason": null
+    }
+  ],
+  "applications": [],
+  "inquiries": []
+}
