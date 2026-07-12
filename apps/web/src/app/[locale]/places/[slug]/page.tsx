@@ -11,7 +11,7 @@ export default async function PlaceDetailPage({
 }) {
   const { locale, slug } = await params;
   setRequestLocale(locale);
-  const found = getCountyBySlug(slug);
+  const found = await getCountyBySlug(slug);
   if (!found) notFound();
 
   const { city, county } = found;

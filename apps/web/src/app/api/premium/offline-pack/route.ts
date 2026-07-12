@@ -13,8 +13,8 @@ export async function POST(request: Request) {
   const saved = saveOfflinePack(email, region_slug);
   if ('error' in saved) return NextResponse.json(saved, { status: 403 });
 
-  const city = getCityBySlug(region_slug);
-  const county = !city ? getCountyBySlug(region_slug) : null;
+  const city = await getCityBySlug(region_slug);
+  const county = !city ? await getCountyBySlug(region_slug) : null;
   const payload = city
     ? {
         type: 'city',

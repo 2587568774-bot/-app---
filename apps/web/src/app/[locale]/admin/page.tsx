@@ -12,7 +12,7 @@ export default async function AdminHomePage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations('admin');
-  const s = stats();
+  const s = await stats();
   const regions = listAdminRegions('zh-Hans');
   const low = regions.filter((r) => r.completeness < 55).length;
   const drafts = readDrafts();

@@ -24,6 +24,10 @@ supabase/migrations      Postgres schema + RLS
 docs/                    product specs & plans
 ```
 
+## Supabase
+
+See [docs/setup-supabase.md](docs/setup-supabase.md) for dual-mode setup (DATA_SOURCE=auto).
+
 ## Quick start (Web)
 
 ```bash

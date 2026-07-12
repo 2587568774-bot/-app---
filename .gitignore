@@ -34,3 +34,8 @@ build-log.txt
 
 apps/web/src/data/admin-drafts.local.json
 
+
+push-err.txt
+push-out.txt
+build-log.txt
+

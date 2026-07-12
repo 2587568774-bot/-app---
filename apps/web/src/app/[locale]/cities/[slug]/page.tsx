@@ -13,12 +13,12 @@ export default async function CityDetailPage({
 }) {
   const { locale, slug } = await params;
   setRequestLocale(locale);
-  const city = getCityBySlug(slug);
+  const city = await getCityBySlug(slug);
   if (!city) notFound();
 
   const name = pickName(city.names, locale);
   const summary = pickName(city.summary, locale);
-  const counties = listCountiesForCity(slug, locale);
+  const counties = await listCountiesForCity(slug, locale);
 
   return (
     <div className="space-y-8">

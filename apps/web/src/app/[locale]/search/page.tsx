@@ -13,7 +13,7 @@ export default async function SearchPage({
   const { locale } = await params;
   const { q = '' } = await searchParams;
   setRequestLocale(locale);
-  const results = searchPlaces(q, locale);
+  const results = await searchPlaces(q, locale);
 
   return (
     <div className="space-y-8">

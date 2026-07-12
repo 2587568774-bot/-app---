@@ -14,8 +14,8 @@ export default async function HomePage({
   setRequestLocale(locale);
   const t = await getTranslations('home');
   const features = [t('f1'), t('f2'), t('f3'), t('f4')];
-  const featured = getFeaturedCities(locale);
-  const s = stats();
+  const featured = await getFeaturedCities(locale);
+  const s = await stats();
 
   return (
     <div className="space-y-10">

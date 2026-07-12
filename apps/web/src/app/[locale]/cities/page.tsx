@@ -10,15 +10,15 @@ export default async function CitiesPage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const cities = listCities(locale);
-  const s = stats();
+  const cities = await listCities(locale);
+  const s = await stats();
 
   return (
     <div className="space-y-8">
       <div className="space-y-3">
         <h1 className="text-3xl font-semibold">Cities of Yunnan</h1>
         <p className="text-ink/60">
-          {s.cities} cities / prefectures · {s.counties} counties
+          {s.cities} cities / prefectures · {s.counties} counties · source: {s.source}
         </p>
         <SearchBox locale={locale} placeholder="Search Dali, 丽江, Shangri-La..." />
       </div>
