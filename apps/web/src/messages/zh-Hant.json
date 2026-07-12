@@ -1,0 +1,23 @@
+{
+  "meta": { "title": "看見雲南", "description": "按縣了解雲南：天氣、生活成本、嚮導等。" },
+  "nav": { "discover": "探索", "guides": "嚮導", "pricing": "會員", "account": "我的", "login": "登入", "admin": "後台" },
+  "home": {
+    "badge": "海外版",
+    "title": "看見雲南，下沉到每一個縣",
+    "subtitle": "天氣、氣候、海拔、美食、景色、生活成本、移居友好度，並連接本地嚮導。",
+    "ctaExplore": "開始探索",
+    "ctaPremium": "開通會員 · $19.90/月",
+    "featuresTitle": "你將獲得",
+    "f1": "全省到縣級的結構化目錄",
+    "f2": "多語言地區資訊",
+    "f3": "嚮導開放入駐",
+    "f4": "會員：去廣告、離線包、優先匹配嚮導",
+    "status": "第一階段基建已啟動。接下來接入區劃資料與 Supabase。"
+  },
+  "pricing": { "title": "會員", "price": "$19.90 / 月", "b1": "去廣告", "b2": "離線包", "b3": "嚮導優先匹配", "note": "早期支援個人收款後由管理員開通。", "cta": "前往帳戶 / 申請開通" },
+  "account": { "title": "我的", "signedOut": "尚未登入。", "loginHint": "配置 Supabase 後可使用郵箱登入連結。", "premium": "會員狀態", "unknown": "連接 Supabase 後可載入資料與訂閱。" },
+  "login": { "title": "登入", "email": "郵箱", "send": "發送登入連結", "google": "使用 Google 繼續", "hint": "請先配置 Supabase 環境變數。" },
+  "guides": { "title": "嚮導", "empty": "嚮導模組介面已就緒，入駐與列表將在 M3 完成。" },
+  "admin": { "title": "管理後台", "locked": "後台殼頁面。連接 Supabase 且角色為 admin 後可用。" },
+  "common": { "brand": "看見雲南", "tagline": "See Yunnan" }
+}

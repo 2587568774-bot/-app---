@@ -1,4 +1,4 @@
-﻿# See Yunnan / 看见云南
+# See Yunnan / 看见云南
 
 Overseas-facing Yunnan place guide (province → county) with local guides and Premium subscription.
 
@@ -13,8 +13,40 @@ Overseas-facing Yunnan place guide (province → county) with local guides and P
 - Guides: open application, review, inquiry leads
 - Premium: **$19.90/month** — ad-free, offline packs, priority guide matching
 - Guide commission (future orders): **15%**
+- Early monetization: personal collection + admin grant supported before Stripe
+
+## Repo structure
+
+```
+apps/web                 Next.js user site + /admin shell
+packages/shared          locales, price, shared constants
+supabase/migrations      Postgres schema + RLS
+docs/                    product specs & plans
+```
+
+## Quick start (Web)
+
+```bash
+# from repo root
+npm install
+cp apps/web/.env.example apps/web/.env.local
+# fill Supabase URL + anon key
+npm run dev
+```
+
+Open http://localhost:3000/en
+
+## Supabase
+
+1. Create a Supabase project
+2. Run SQL in `supabase/migrations/20260712_0001_init.sql`
+3. Put keys into `apps/web/.env.local`
+4. Promote your user to admin:
+
+```sql
+update public.profiles set role = 'admin' where id = '<your-user-uuid>';
+```
 
 ## Status
 
-Design approved 2026-07-12. Implementation plan ready; coding not started.
-
+M0 foundation: monorepo scaffold, schema, i18n shell, auth UI.

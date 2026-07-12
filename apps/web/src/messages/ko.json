@@ -1,0 +1,23 @@
+{
+  "meta": { "title": "See Yunnan", "description": "윈난을 현 단위로 알아보세요. 날씨, 생활비, 가이드 등." },
+  "nav": { "discover": "탐색", "guides": "가이드", "pricing": "프리미엄", "account": "계정", "login": "로그인", "admin": "관리" },
+  "home": {
+    "badge": "해외판",
+    "title": "현 단위로 만나는 윈난",
+    "subtitle": "날씨, 기후, 고도, 음식, 경치, 생활비, 이주 친화도 — 그리고 현지 가이드 연결.",
+    "ctaExplore": "탐색 시작",
+    "ctaPremium": "프리미엄 · $19.90/월",
+    "featuresTitle": "제공 기능",
+    "f1": "성→현 전체 디렉터리",
+    "f2": "다국어 지역 정보",
+    "f3": "가이드 공개 신청",
+    "f4": "광고 제거·오프라인·우선 매칭",
+    "status": "1단계 기반이 준비되었습니다. 다음으로 지역 데이터와 Supabase 연결."
+  },
+  "pricing": { "title": "프리미엄", "price": "$19.90 / 월", "b1": "광고 제거", "b2": "오프라인 팩", "b3": "가이드 우선 매칭", "note": "초기에는 개인 결제 후 관리자 부여 가능.", "cta": "계정으로 이동" },
+  "account": { "title": "계정", "signedOut": "로그인되지 않았습니다.", "loginHint": "Supabase 설정 후 매직 링크 사용.", "premium": "프리미엄 상태", "unknown": "Supabase 연결 후 프로필 로드." },
+  "login": { "title": "로그인", "email": "이메일", "send": "링크 보내기", "google": "Google로 계속", "hint": "먼저 Supabase 환경 변수를 설정하세요." },
+  "guides": { "title": "가이드", "empty": "가이드 UI 셸 준비 완료. 신청/목록은 M3." },
+  "admin": { "title": "관리자", "locked": "관리 셸. admin 역할 필요." },
+  "common": { "brand": "See Yunnan", "tagline": "看见云南" }
+}

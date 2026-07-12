@@ -1,0 +1,4 @@
+﻿# See Yunnan — shared package
+node_modules
+dist
+*.tsbuildinfo

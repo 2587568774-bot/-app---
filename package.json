@@ -1,0 +1,19 @@
+{
+  "name": "see-yunnan",
+  "private": true,
+  "version": "0.1.0",
+  "description": "See Yunnan / 看见云南 — overseas Yunnan guide (Web + Supabase first)",
+  "scripts": {
+    "dev": "npm run dev --workspace=apps/web",
+    "build": "npm run build --workspace=apps/web",
+    "lint": "npm run lint --workspace=apps/web",
+    "typecheck": "npm run typecheck --workspace=apps/web"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}

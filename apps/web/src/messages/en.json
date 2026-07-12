@@ -1,0 +1,62 @@
+{
+    "meta":  {
+                 "description":  "Discover Yunnan county by county — weather, life cost, guides, and more.",
+                 "title":  "See Yunnan"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "title":  "Log in",
+                  "hint":  "Auth works after you add NEXT_PUBLIC_SUPABASE_URL and NEXT_PUBLIC_SUPABASE_ANON_KEY.",
+                  "send":  "Send magic link",
+                  "google":  "Continue with Google"
+              },
+    "home":  {
+                 "featuresTitle":  "What you get",
+                 "subtitle":  "Weather, climate, altitude, food, scenery, cost of living, and migration friendliness — then connect with local guides.",
+                 "f4":  "Premium: ad-free, offline packs, priority matching",
+                 "f1":  "Full province map down to county level",
+                 "ctaExplore":  "Explore places",
+                 "f3":  "Local guides with open applications",
+                 "status":  "Phase 1 foundation is live. Region data and Supabase wiring come next.",
+                 "badge":  "Overseas edition",
+                 "f2":  "Structured place intel in multiple languages",
+                 "title":  "See Yunnan, county by county",
+                 "ctaPremium":  "Go Premium · $19.90/mo"
+             },
+    "admin":  {
+                  "locked":  "Admin console shell. Requires profiles.role = admin after Supabase is connected.",
+                  "title":  "Admin"
+              },
+    "nav":  {
+                "account":  "Account",
+                "discover":  "Discover",
+                "login":  "Log in",
+                "guides":  "Guides",
+                "pricing":  "Premium",
+                "admin":  "Admin"
+            },
+    "common":  {
+                   "tagline":  "看见云南",
+                   "brand":  "See Yunnan"
+               },
+    "pricing":  {
+                    "cta":  "View account / request access",
+                    "b2":  "Offline packs for selected places",
+                    "note":  "Early stage: personal payment + admin grant is supported before Stripe is fully connected.",
+                    "b1":  "Ad-free browsing",
+                    "price":  "$19.90 / month",
+                    "title":  "Premium",
+                    "b3":  "Priority guide matching"
+                },
+    "account":  {
+                    "unknown":  "Connect Supabase to load profile and subscription.",
+                    "title":  "Account",
+                    "signedOut":  "You are not signed in.",
+                    "loginHint":  "Use email magic link after Supabase env keys are configured.",
+                    "premium":  "Premium status"
+                },
+    "guides":  {
+                   "empty":  "Guide marketplace UI shell is ready. Applications and listings ship in M3.",
+                   "title":  "Guides"
+               }
+}

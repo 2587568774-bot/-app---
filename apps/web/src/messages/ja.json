@@ -1,0 +1,23 @@
+{
+  "meta": { "title": "See Yunnan", "description": "雲南を県単位で知る。天気・生活コスト・ガイドなど。" },
+  "nav": { "discover": "探す", "guides": "ガイド", "pricing": "プレミアム", "account": "アカウント", "login": "ログイン", "admin": "管理" },
+  "home": {
+    "badge": "海外版",
+    "title": "県ごとに、雲南を見る",
+    "subtitle": "天気、気候、標高、食、景色、生活コスト、移住しやすさ。そして現地ガイドとつながる。",
+    "ctaExplore": "探索を始める",
+    "ctaPremium": "プレミアム · $19.90/月",
+    "featuresTitle": "できること",
+    "f1": "省から県までのディレクトリ",
+    "f2": "多言語の地域情報",
+    "f3": "ガイドの公開応募",
+    "f4": "広告なし・オフライン・優先マッチ",
+    "status": "フェーズ1基盤が稼働中。次は地域データと Supabase 接続です。"
+  },
+  "pricing": { "title": "プレミアム", "price": "$19.90 / 月", "b1": "広告なし", "b2": "オフラインパック", "b3": "ガイド優先マッチ", "note": "初期は個人決済＋管理者付与に対応。", "cta": "アカウントへ" },
+  "account": { "title": "アカウント", "signedOut": "未ログインです。", "loginHint": "Supabase 設定後にマジックリンクが使えます。", "premium": "プレミアム状態", "unknown": "Supabase 接続後にプロフィールを読み込みます。" },
+  "login": { "title": "ログイン", "email": "メール", "send": "リンクを送信", "google": "Google で続ける", "hint": "先に Supabase 環境変数を設定してください。" },
+  "guides": { "title": "ガイド", "empty": "ガイド UI シェル準備完了。応募と一覧は M3。" },
+  "admin": { "title": "管理画面", "locked": "管理シェル。admin ロールが必要です。" },
+  "common": { "brand": "See Yunnan", "tagline": "看見雲南" }
+}
