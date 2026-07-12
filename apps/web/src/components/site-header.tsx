@@ -1,4 +1,4 @@
-﻿'use client';
+'use client';
 
 import Link from 'next/link';
 import { useLocale, useTranslations } from 'next-intl';
@@ -9,11 +9,12 @@ export function SiteHeader() {
   const tc = useTranslations('common');
   const locale = useLocale() as AppLocale;
 
-  const links = [
-    { href: `/${locale}`, label: t('discover') },
+    const links = [
+    { href: `/${locale}/cities`, label: t('discover') },
     { href: `/${locale}/guides`, label: t('guides') },
     { href: `/${locale}/pricing`, label: t('pricing') },
     { href: `/${locale}/account`, label: t('account') },
+    { href: `/${locale}/admin`, label: t('admin') },
   ];
 
   return (

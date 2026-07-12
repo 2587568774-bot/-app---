@@ -24,8 +24,9 @@
     "ctaPremium": "Go Premium · $19.90/mo"
   },
   "admin": {
-    "locked": "Admin console shell. Requires profiles.role = admin after Supabase is connected.",
-    "title": "Admin"
+    "title": "Admin",
+    "locked": "Use Region CMS to polish content. Supabase role lock comes later.",
+    "regions": "Regions"
   },
   "nav": {
     "account": "Account",

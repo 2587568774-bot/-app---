@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { PlaceCard } from '@/components/place-card';
 import { SearchBox } from '@/components/search-box';
-import { getFeaturedCities, stats } from '@/lib/regions/data';
+import { getFeaturedCities, stats } from '@/lib/regions/data-server';
 
 export default async function HomePage({
   params,

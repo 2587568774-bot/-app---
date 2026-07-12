@@ -49,4 +49,10 @@ update public.profiles set role = 'admin' where id = '<your-user-uuid>';
 
 ## Status
 
-M0 done. M1 in progress/live: 16 cities + 129 counties, browse/search/weather via local JSON fallback; Supabase seed SQL ready.
+M0 done. M0–M2: monorepo, region browse/search/weather, admin region CMS draft editor. Next: M3 guides.
+
+## Admin CMS (M2 shell)
+
+- /[locale]/admin dashboard
+- /[locale]/admin/regions completeness list
+- Edit form saves to pps/web/src/data/admin-drafts.json (local draft; Supabase write later)

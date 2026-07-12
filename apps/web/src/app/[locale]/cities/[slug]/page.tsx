@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
 import { PlaceCard } from '@/components/place-card';
 import { WeatherStrip } from '@/components/weather-strip';
-import { getCityBySlug, listCountiesForCity, pickName } from '@/lib/regions/data';
+import { getCityBySlug, listCountiesForCity, pickName } from '@/lib/regions/data-server';
 
 export default async function CityDetailPage({
   params,

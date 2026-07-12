@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
 import { WeatherStrip } from '@/components/weather-strip';
-import { getCountyBySlug, pickName } from '@/lib/regions/data';
+import { getCountyBySlug, pickName } from '@/lib/regions/data-server';
 
 export default async function PlaceDetailPage({
   params,

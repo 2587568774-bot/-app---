@@ -24,8 +24,9 @@
     "ctaPremium": "开通会员 · $19.90/月"
   },
   "admin": {
-    "locked": "后台壳页面。连接 Supabase 且角色为 admin 后可用。",
-    "title": "管理后台"
+    "title": "管理后台",
+    "locked": "可用区划 CMS 精修内容。Supabase 管理员权限稍后接入。",
+    "regions": "区划管理"
   },
   "nav": {
     "account": "我的",

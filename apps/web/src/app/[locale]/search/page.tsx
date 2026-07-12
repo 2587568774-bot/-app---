@@ -1,7 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import { PlaceCard } from '@/components/place-card';
 import { SearchBox } from '@/components/search-box';
-import { searchPlaces } from '@/lib/regions/data';
+import { searchPlaces } from '@/lib/regions/data-server';
 
 export default async function SearchPage({
   params,
