@@ -3,6 +3,7 @@
 Overseas-facing Yunnan place guide (province → county) with local guides and Premium subscription.
 
 - **Design spec:** [docs/superpowers/specs/2026-07-12-see-yunnan-design.md](docs/superpowers/specs/2026-07-12-see-yunnan-design.md)
+- **Implementation plan:** [docs/superpowers/plans/2026-07-12-see-yunnan-implementation-plan.md](docs/superpowers/plans/2026-07-12-see-yunnan-implementation-plan.md)
 - **Phase 1:** Web (user + admin) + Supabase
 - **Later:** iOS (SwiftUI) on the same backend
 
@@ -15,4 +16,5 @@ Overseas-facing Yunnan place guide (province → county) with local guides and P
 
 ## Status
 
-Design approved 2026-07-12. Implementation not started.
+Design approved 2026-07-12. Implementation plan ready; coding not started.
+
