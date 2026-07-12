@@ -1,62 +1,62 @@
 {
-    "meta":  {
-                 "description":  "按县了解云南：天气、生活成本、向导等。",
-                 "title":  "看见云南"
-             },
-    "login":  {
-                  "email":  "邮箱",
-                  "title":  "登录",
-                  "hint":  "请先配置 Supabase 环境变量。",
-                  "send":  "发送登录链接",
-                  "google":  "使用 Google 继续"
-              },
-    "home":  {
-                 "featuresTitle":  "你将获得",
-                 "subtitle":  "天气、气候、海拔、美食、景色、生活成本、移居友好度，并连接本地向导。",
-                 "f4":  "会员：去广告、离线包、优先匹配向导",
-                 "f1":  "全省到县级的结构化目录",
-                 "ctaExplore":  "开始探索",
-                 "f3":  "向导开放入驻",
-                 "status":  "第一阶段基建已启动。接下来接入区划数据与 Supabase。",
-                 "badge":  "海外版",
-                 "f2":  "多语言地区信息",
-                 "title":  "看见云南，下沉到每一个县",
-                 "ctaPremium":  "开通会员 · $19.90/月"
-             },
-    "admin":  {
-                  "locked":  "后台壳页面。连接 Supabase 且角色为 admin 后可用。",
-                  "title":  "管理后台"
-              },
-    "nav":  {
-                "account":  "我的",
-                "discover":  "探索",
-                "login":  "登录",
-                "guides":  "向导",
-                "pricing":  "会员",
-                "admin":  "后台"
-            },
-    "common":  {
-                   "tagline":  "See Yunnan",
-                   "brand":  "看见云南"
-               },
-    "pricing":  {
-                    "cta":  "前往账户 / 申请开通",
-                    "b2":  "离线包",
-                    "note":  "早期支持个人收款后由管理员开通。",
-                    "b1":  "去广告",
-                    "price":  "$19.90 / 月",
-                    "title":  "会员",
-                    "b3":  "向导优先匹配"
-                },
-    "account":  {
-                    "unknown":  "连接 Supabase 后可加载资料与订阅。",
-                    "title":  "我的",
-                    "signedOut":  "尚未登录。",
-                    "loginHint":  "配置 Supabase 后可使用邮箱登录链接。",
-                    "premium":  "会员状态"
-                },
-    "guides":  {
-                   "empty":  "向导模块界面已就绪，入驻与列表将在 M3 完成。",
-                   "title":  "向导"
-               }
+  "meta": {
+    "description": "按县了解云南：天气、生活成本、向导等。",
+    "title": "看见云南"
+  },
+  "login": {
+    "email": "邮箱",
+    "title": "登录",
+    "hint": "请先配置 Supabase 环境变量。",
+    "send": "发送登录链接",
+    "google": "使用 Google 继续"
+  },
+  "home": {
+    "featuresTitle": "你将获得",
+    "subtitle": "天气、气候、海拔、美食、景色、生活成本、移居友好度，并连接本地向导。",
+    "f4": "会员：去广告、离线包、优先匹配向导",
+    "f1": "全省到县级的结构化目录",
+    "ctaExplore": "浏览城市",
+    "f3": "向导开放入驻",
+    "status": "M1 已上线：全省市县目录、搜索与实时天气。",
+    "badge": "海外版",
+    "f2": "多语言地区信息",
+    "title": "看见云南，下沉到每一个县",
+    "ctaPremium": "开通会员 · $19.90/月"
+  },
+  "admin": {
+    "locked": "后台壳页面。连接 Supabase 且角色为 admin 后可用。",
+    "title": "管理后台"
+  },
+  "nav": {
+    "account": "我的",
+    "discover": "探索",
+    "login": "登录",
+    "guides": "向导",
+    "pricing": "会员",
+    "admin": "后台"
+  },
+  "common": {
+    "tagline": "See Yunnan",
+    "brand": "看见云南"
+  },
+  "pricing": {
+    "cta": "前往账户 / 申请开通",
+    "b2": "离线包",
+    "note": "早期支持个人收款后由管理员开通。",
+    "b1": "去广告",
+    "price": "$19.90 / 月",
+    "title": "会员",
+    "b3": "向导优先匹配"
+  },
+  "account": {
+    "unknown": "连接 Supabase 后可加载资料与订阅。",
+    "title": "我的",
+    "signedOut": "尚未登录。",
+    "loginHint": "配置 Supabase 后可使用邮箱登录链接。",
+    "premium": "会员状态"
+  },
+  "guides": {
+    "empty": "向导模块界面已就绪，入驻与列表将在 M3 完成。",
+    "title": "向导"
+  }
 }

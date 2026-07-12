@@ -49,4 +49,4 @@ update public.profiles set role = 'admin' where id = '<your-user-uuid>';
 
 ## Status
 
-M0 foundation: monorepo scaffold, schema, i18n shell, auth UI.
+M0 done. M1 in progress/live: 16 cities + 129 counties, browse/search/weather via local JSON fallback; Supabase seed SQL ready.

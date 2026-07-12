@@ -1,0 +1,3028 @@
+{
+  "province": {
+    "code": "530000",
+    "slug": "yunnan",
+    "level": "province",
+    "lat": 25.0453,
+    "lng": 102.7097,
+    "altitude_m": 1890,
+    "names": {
+      "zh-Hans": "云南省",
+      "en": "Yunnan Province",
+      "zh-Hant": "雲南省",
+      "ja": "雲南省",
+      "ko": "윈난성"
+    }
+  },
+  "cities": [
+    {
+      "code": "530100",
+      "slug": "kunming",
+      "level": "city",
+      "lat": 25.0389,
+      "lng": 102.7183,
+      "altitude_m": 1891,
+      "is_featured": true,
+      "climate_type": "subtropical_plateau",
+      "cost_of_living_index": 62,
+      "migration_friendliness": 8.5,
+      "best_months": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "names": {
+        "zh-Hans": "昆明市",
+        "en": "Kunming",
+        "zh-Hant": "昆明市",
+        "ja": "Kunming",
+        "ko": "Kunming"
+      },
+      "summary": {
+        "zh-Hans": "昆明市是云南重要地区，海拔约1891米。",
+        "en": "Kunming is a key prefecture-level area in Yunnan at about 1891 m elevation."
+      },
+      "food_blurb": "过桥米线、汽锅鸡、宜良烤鸭",
+      "scenery_blurb": "滇池、西山、翠湖",
+      "migration_blurb": "四季如春，医疗与教育配套全省最好，适合长期居住。",
+      "counties": [
+        {
+          "code": "530102",
+          "slug": "kunming-wuhua",
+          "level": "county",
+          "lat": 25.0436,
+          "lng": 102.7072,
+          "altitude_m": 1890,
+          "names": {
+            "zh-Hans": "五华区",
+            "en": "Wuhua",
+            "zh-Hant": "五华区",
+            "ja": "Wuhua",
+            "ko": "Wuhua"
+          },
+          "summary": {
+            "zh-Hans": "五华区隶属昆明市，海拔约1890米。",
+            "en": "Wuhua is in Kunming, about 1890 m elevation."
+          }
+        },
+        {
+          "code": "530103",
+          "slug": "kunming-panlong",
+          "level": "county",
+          "lat": 25.0706,
+          "lng": 102.752,
+          "altitude_m": 1900,
+          "names": {
+            "zh-Hans": "盘龙区",
+            "en": "Panlong",
+            "zh-Hant": "盘龙区",
+            "ja": "Panlong",
+            "ko": "Panlong"
+          },
+          "summary": {
+            "zh-Hans": "盘龙区隶属昆明市，海拔约1900米。",
+            "en": "Panlong is in Kunming, about 1900 m elevation."
+          }
+        },
+        {
+          "code": "530111",
+          "slug": "kunming-guandu",
+          "level": "county",
+          "lat": 25.015,
+          "lng": 102.7436,
+          "altitude_m": 1895,
+          "names": {
+            "zh-Hans": "官渡区",
+            "en": "Guandu",
+            "zh-Hant": "官渡区",
+            "ja": "Guandu",
+            "ko": "Guandu"
+          },
+          "summary": {
+            "zh-Hans": "官渡区隶属昆明市，海拔约1895米。",
+            "en": "Guandu is in Kunming, about 1895 m elevation."
+          }
+        },
+        {
+          "code": "530112",
+          "slug": "kunming-xishan",
+          "level": "county",
+          "lat": 25.0383,
+          "lng": 102.6647,
+          "altitude_m": 1900,
+          "names": {
+            "zh-Hans": "西山区",
+            "en": "Xishan",
+            "zh-Hant": "西山区",
+            "ja": "Xishan",
+            "ko": "Xishan"
+          },
+          "summary": {
+            "zh-Hans": "西山区隶属昆明市，海拔约1900米。",
+            "en": "Xishan is in Kunming, about 1900 m elevation."
+          }
+        },
+        {
+          "code": "530113",
+          "slug": "kunming-dongchuan",
+          "level": "county",
+          "lat": 26.0829,
+          "lng": 103.1877,
+          "altitude_m": 1254,
+          "names": {
+            "zh-Hans": "东川区",
+            "en": "Dongchuan",
+            "zh-Hant": "东川区",
+            "ja": "Dongchuan",
+            "ko": "Dongchuan"
+          },
+          "summary": {
+            "zh-Hans": "东川区隶属昆明市，海拔约1254米。",
+            "en": "Dongchuan is in Kunming, about 1254 m elevation."
+          }
+        },
+        {
+          "code": "530114",
+          "slug": "kunming-chenggong",
+          "level": "county",
+          "lat": 24.8893,
+          "lng": 102.8014,
+          "altitude_m": 1906,
+          "names": {
+            "zh-Hans": "呈贡区",
+            "en": "Chenggong",
+            "zh-Hant": "呈贡区",
+            "ja": "Chenggong",
+            "ko": "Chenggong"
+          },
+          "summary": {
+            "zh-Hans": "呈贡区隶属昆明市，海拔约1906米。",
+            "en": "Chenggong is in Kunming, about 1906 m elevation."
+          }
+        },
+        {
+          "code": "530115",
+          "slug": "kunming-jinning",
+          "level": "county",
+          "lat": 24.6669,
+          "lng": 102.5949,
+          "altitude_m": 1890,
+          "names": {
+            "zh-Hans": "晋宁区",
+            "en": "Jinning",
+            "zh-Hant": "晋宁区",
+            "ja": "Jinning",
+            "ko": "Jinning"
+          },
+          "summary": {
+            "zh-Hans": "晋宁区隶属昆明市，海拔约1890米。",
+            "en": "Jinning is in Kunming, about 1890 m elevation."
+          }
+        },
+        {
+          "code": "530124",
+          "slug": "kunming-fumin",
+          "level": "county",
+          "lat": 25.2219,
+          "lng": 102.4971,
+          "altitude_m": 1690,
+          "names": {
+            "zh-Hans": "富民县",
+            "en": "Fumin",
+            "zh-Hant": "富民县",
+            "ja": "Fumin",
+            "ko": "Fumin"
+          },
+          "summary": {
+            "zh-Hans": "富民县隶属昆明市，海拔约1690米。",
+            "en": "Fumin is in Kunming, about 1690 m elevation."
+          }
+        },
+        {
+          "code": "530125",
+          "slug": "kunming-yiliang",
+          "level": "county",
+          "lat": 24.9198,
+          "lng": 103.1459,
+          "altitude_m": 1530,
+          "names": {
+            "zh-Hans": "宜良县",
+            "en": "Yiliang",
+            "zh-Hant": "宜良县",
+            "ja": "Yiliang",
+            "ko": "Yiliang"
+          },
+          "summary": {
+            "zh-Hans": "宜良县隶属昆明市，海拔约1530米。",
+            "en": "Yiliang is in Kunming, about 1530 m elevation."
+          }
+        },
+        {
+          "code": "530126",
+          "slug": "kunming-shilin",
+          "level": "county",
+          "lat": 24.7715,
+          "lng": 103.2905,
+          "altitude_m": 1680,
+          "names": {
+            "zh-Hans": "石林彝族自治县",
+            "en": "Shilin",
+            "zh-Hant": "石林彝族自治县",
+            "ja": "Shilin",
+            "ko": "Shilin"
+          },
+          "summary": {
+            "zh-Hans": "石林彝族自治县隶属昆明市，海拔约1680米。",
+            "en": "Shilin is in Kunming, about 1680 m elevation."
+          }
+        },
+        {
+          "code": "530127",
+          "slug": "kunming-songming",
+          "level": "county",
+          "lat": 25.339,
+          "lng": 103.0369,
+          "altitude_m": 1910,
+          "names": {
+            "zh-Hans": "嵩明县",
+            "en": "Songming",
+            "zh-Hant": "嵩明县",
+            "ja": "Songming",
+            "ko": "Songming"
+          },
+          "summary": {
+            "zh-Hans": "嵩明县隶属昆明市，海拔约1910米。",
+            "en": "Songming is in Kunming, about 1910 m elevation."
+          }
+        },
+        {
+          "code": "530128",
+          "slug": "kunming-luquan",
+          "level": "county",
+          "lat": 25.5513,
+          "lng": 102.4697,
+          "altitude_m": 1670,
+          "names": {
+            "zh-Hans": "禄劝彝族苗族自治县",
+            "en": "Luquan",
+            "zh-Hant": "禄劝彝族苗族自治县",
+            "ja": "Luquan",
+            "ko": "Luquan"
+          },
+          "summary": {
+            "zh-Hans": "禄劝彝族苗族自治县隶属昆明市，海拔约1670米。",
+            "en": "Luquan is in Kunming, about 1670 m elevation."
+          }
+        },
+        {
+          "code": "530129",
+          "slug": "kunming-xundian",
+          "level": "county",
+          "lat": 25.5595,
+          "lng": 103.2566,
+          "altitude_m": 1870,
+          "names": {
+            "zh-Hans": "寻甸回族彝族自治县",
+            "en": "Xundian",
+            "zh-Hant": "寻甸回族彝族自治县",
+            "ja": "Xundian",
+            "ko": "Xundian"
+          },
+          "summary": {
+            "zh-Hans": "寻甸回族彝族自治县隶属昆明市，海拔约1870米。",
+            "en": "Xundian is in Kunming, about 1870 m elevation."
+          }
+        },
+        {
+          "code": "530181",
+          "slug": "kunming-anning",
+          "level": "county",
+          "lat": 24.9195,
+          "lng": 102.478,
+          "altitude_m": 1800,
+          "names": {
+            "zh-Hans": "安宁市",
+            "en": "Anning",
+            "zh-Hant": "安宁市",
+            "ja": "Anning",
+            "ko": "Anning"
+          },
+          "summary": {
+            "zh-Hans": "安宁市隶属昆明市，海拔约1800米。",
+            "en": "Anning is in Kunming, about 1800 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "530300",
+      "slug": "qujing",
+      "level": "city",
+      "lat": 25.5016,
+      "lng": 103.7979,
+      "altitude_m": 1873,
+      "is_featured": false,
+      "climate_type": "subtropical_plateau",
+      "cost_of_living_index": 48,
+      "migration_friendliness": 7,
+      "best_months": [
+        4,
+        5,
+        9,
+        10
+      ],
+      "names": {
+        "zh-Hans": "曲靖市",
+        "en": "Qujing",
+        "zh-Hant": "曲靖市",
+        "ja": "Qujing",
+        "ko": "Qujing"
+      },
+      "summary": {
+        "zh-Hans": "曲靖市是云南重要地区，海拔约1873米。",
+        "en": "Qujing is a key prefecture-level area in Yunnan at about 1873 m elevation."
+      },
+      "food_blurb": "宣威火腿、沾益辣子鸡",
+      "scenery_blurb": "珠江源、罗平油菜花",
+      "migration_blurb": "滇东交通枢纽，生活成本低于昆明。",
+      "counties": [
+        {
+          "code": "530302",
+          "slug": "qujing-qilin",
+          "level": "county",
+          "lat": 25.5051,
+          "lng": 103.805,
+          "altitude_m": 1870,
+          "names": {
+            "zh-Hans": "麒麟区",
+            "en": "Qilin",
+            "zh-Hant": "麒麟区",
+            "ja": "Qilin",
+            "ko": "Qilin"
+          },
+          "summary": {
+            "zh-Hans": "麒麟区隶属曲靖市，海拔约1870米。",
+            "en": "Qilin is in Qujing, about 1870 m elevation."
+          }
+        },
+        {
+          "code": "530303",
+          "slug": "qujing-zhanyi",
+          "level": "county",
+          "lat": 25.6005,
+          "lng": 103.8223,
+          "altitude_m": 1900,
+          "names": {
+            "zh-Hans": "沾益区",
+            "en": "Zhanyi",
+            "zh-Hant": "沾益区",
+            "ja": "Zhanyi",
+            "ko": "Zhanyi"
+          },
+          "summary": {
+            "zh-Hans": "沾益区隶属曲靖市，海拔约1900米。",
+            "en": "Zhanyi is in Qujing, about 1900 m elevation."
+          }
+        },
+        {
+          "code": "530304",
+          "slug": "qujing-malong",
+          "level": "county",
+          "lat": 25.4281,
+          "lng": 103.5785,
+          "altitude_m": 2000,
+          "names": {
+            "zh-Hans": "马龙区",
+            "en": "Malong",
+            "zh-Hant": "马龙区",
+            "ja": "Malong",
+            "ko": "Malong"
+          },
+          "summary": {
+            "zh-Hans": "马龙区隶属曲靖市，海拔约2000米。",
+            "en": "Malong is in Qujing, about 2000 m elevation."
+          }
+        },
+        {
+          "code": "530322",
+          "slug": "qujing-luliang",
+          "level": "county",
+          "lat": 25.0297,
+          "lng": 103.6669,
+          "altitude_m": 1840,
+          "names": {
+            "zh-Hans": "陆良县",
+            "en": "Luliang",
+            "zh-Hant": "陆良县",
+            "ja": "Luliang",
+            "ko": "Luliang"
+          },
+          "summary": {
+            "zh-Hans": "陆良县隶属曲靖市，海拔约1840米。",
+            "en": "Luliang is in Qujing, about 1840 m elevation."
+          }
+        },
+        {
+          "code": "530323",
+          "slug": "qujing-shizong",
+          "level": "county",
+          "lat": 24.8256,
+          "lng": 103.9908,
+          "altitude_m": 1850,
+          "names": {
+            "zh-Hans": "师宗县",
+            "en": "Shizong",
+            "zh-Hant": "师宗县",
+            "ja": "Shizong",
+            "ko": "Shizong"
+          },
+          "summary": {
+            "zh-Hans": "师宗县隶属曲靖市，海拔约1850米。",
+            "en": "Shizong is in Qujing, about 1850 m elevation."
+          }
+        },
+        {
+          "code": "530324",
+          "slug": "qujing-luoping",
+          "level": "county",
+          "lat": 24.8856,
+          "lng": 104.3087,
+          "altitude_m": 1480,
+          "names": {
+            "zh-Hans": "罗平县",
+            "en": "Luoping",
+            "zh-Hant": "罗平县",
+            "ja": "Luoping",
+            "ko": "Luoping"
+          },
+          "summary": {
+            "zh-Hans": "罗平县隶属曲靖市，海拔约1480米。",
+            "en": "Luoping is in Qujing, about 1480 m elevation."
+          }
+        },
+        {
+          "code": "530325",
+          "slug": "qujing-fuyuan",
+          "level": "county",
+          "lat": 25.6742,
+          "lng": 104.255,
+          "altitude_m": 1830,
+          "names": {
+            "zh-Hans": "富源县",
+            "en": "Fuyuan",
+            "zh-Hant": "富源县",
+            "ja": "Fuyuan",
+            "ko": "Fuyuan"
+          },
+          "summary": {
+            "zh-Hans": "富源县隶属曲靖市，海拔约1830米。",
+            "en": "Fuyuan is in Qujing, about 1830 m elevation."
+          }
+        },
+        {
+          "code": "530326",
+          "slug": "qujing-huize",
+          "level": "county",
+          "lat": 26.4174,
+          "lng": 103.2971,
+          "altitude_m": 2120,
+          "names": {
+            "zh-Hans": "会泽县",
+            "en": "Huize",
+            "zh-Hant": "会泽县",
+            "ja": "Huize",
+            "ko": "Huize"
+          },
+          "summary": {
+            "zh-Hans": "会泽县隶属曲靖市，海拔约2120米。",
+            "en": "Huize is in Qujing, about 2120 m elevation."
+          }
+        },
+        {
+          "code": "530381",
+          "slug": "qujing-xuanwei",
+          "level": "county",
+          "lat": 26.2193,
+          "lng": 104.1045,
+          "altitude_m": 1980,
+          "names": {
+            "zh-Hans": "宣威市",
+            "en": "Xuanwei",
+            "zh-Hant": "宣威市",
+            "ja": "Xuanwei",
+            "ko": "Xuanwei"
+          },
+          "summary": {
+            "zh-Hans": "宣威市隶属曲靖市，海拔约1980米。",
+            "en": "Xuanwei is in Qujing, about 1980 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "530400",
+      "slug": "yuxi",
+      "level": "city",
+      "lat": 24.3505,
+      "lng": 102.5439,
+      "altitude_m": 1637,
+      "is_featured": false,
+      "climate_type": "subtropical_plateau",
+      "cost_of_living_index": 50,
+      "migration_friendliness": 7.2,
+      "best_months": [
+        3,
+        4,
+        10,
+        11
+      ],
+      "names": {
+        "zh-Hans": "玉溪市",
+        "en": "Yuxi",
+        "zh-Hant": "玉溪市",
+        "ja": "Yuxi",
+        "ko": "Yuxi"
+      },
+      "summary": {
+        "zh-Hans": "玉溪市是云南重要地区，海拔约1637米。",
+        "en": "Yuxi is a key prefecture-level area in Yunnan at about 1637 m elevation."
+      },
+      "food_blurb": "抚仙湖铜锅鱼、澄江藕粉",
+      "scenery_blurb": "抚仙湖、星云湖",
+      "migration_blurb": "毗邻昆明，湖区与轻工业并存。",
+      "counties": [
+        {
+          "code": "530402",
+          "slug": "yuxi-hongta",
+          "level": "county",
+          "lat": 24.3541,
+          "lng": 102.5432,
+          "altitude_m": 1630,
+          "names": {
+            "zh-Hans": "红塔区",
+            "en": "Hongta",
+            "zh-Hant": "红塔区",
+            "ja": "Hongta",
+            "ko": "Hongta"
+          },
+          "summary": {
+            "zh-Hans": "红塔区隶属玉溪市，海拔约1630米。",
+            "en": "Hongta is in Yuxi, about 1630 m elevation."
+          }
+        },
+        {
+          "code": "530403",
+          "slug": "yuxi-jiangchuan",
+          "level": "county",
+          "lat": 24.2874,
+          "lng": 102.7498,
+          "altitude_m": 1730,
+          "names": {
+            "zh-Hans": "江川区",
+            "en": "Jiangchuan",
+            "zh-Hant": "江川区",
+            "ja": "Jiangchuan",
+            "ko": "Jiangchuan"
+          },
+          "summary": {
+            "zh-Hans": "江川区隶属玉溪市，海拔约1730米。",
+            "en": "Jiangchuan is in Yuxi, about 1730 m elevation."
+          }
+        },
+        {
+          "code": "530423",
+          "slug": "yuxi-tonghai",
+          "level": "county",
+          "lat": 24.1122,
+          "lng": 102.76,
+          "altitude_m": 1800,
+          "names": {
+            "zh-Hans": "通海县",
+            "en": "Tonghai",
+            "zh-Hant": "通海县",
+            "ja": "Tonghai",
+            "ko": "Tonghai"
+          },
+          "summary": {
+            "zh-Hans": "通海县隶属玉溪市，海拔约1800米。",
+            "en": "Tonghai is in Yuxi, about 1800 m elevation."
+          }
+        },
+        {
+          "code": "530424",
+          "slug": "yuxi-huaning",
+          "level": "county",
+          "lat": 24.1926,
+          "lng": 102.9283,
+          "altitude_m": 1600,
+          "names": {
+            "zh-Hans": "华宁县",
+            "en": "Huaning",
+            "zh-Hant": "华宁县",
+            "ja": "Huaning",
+            "ko": "Huaning"
+          },
+          "summary": {
+            "zh-Hans": "华宁县隶属玉溪市，海拔约1600米。",
+            "en": "Huaning is in Yuxi, about 1600 m elevation."
+          }
+        },
+        {
+          "code": "530425",
+          "slug": "yuxi-yimen",
+          "level": "county",
+          "lat": 24.6717,
+          "lng": 102.1635,
+          "altitude_m": 1570,
+          "names": {
+            "zh-Hans": "易门县",
+            "en": "Yimen",
+            "zh-Hant": "易门县",
+            "ja": "Yimen",
+            "ko": "Yimen"
+          },
+          "summary": {
+            "zh-Hans": "易门县隶属玉溪市，海拔约1570米。",
+            "en": "Yimen is in Yuxi, about 1570 m elevation."
+          }
+        },
+        {
+          "code": "530426",
+          "slug": "yuxi-eshan",
+          "level": "county",
+          "lat": 24.1733,
+          "lng": 102.4058,
+          "altitude_m": 1540,
+          "names": {
+            "zh-Hans": "峨山彝族自治县",
+            "en": "Eshan",
+            "zh-Hant": "峨山彝族自治县",
+            "ja": "Eshan",
+            "ko": "Eshan"
+          },
+          "summary": {
+            "zh-Hans": "峨山彝族自治县隶属玉溪市，海拔约1540米。",
+            "en": "Eshan is in Yuxi, about 1540 m elevation."
+          }
+        },
+        {
+          "code": "530427",
+          "slug": "yuxi-xinping",
+          "level": "county",
+          "lat": 24.07,
+          "lng": 101.9906,
+          "altitude_m": 1480,
+          "names": {
+            "zh-Hans": "新平彝族傣族自治县",
+            "en": "Xinping",
+            "zh-Hant": "新平彝族傣族自治县",
+            "ja": "Xinping",
+            "ko": "Xinping"
+          },
+          "summary": {
+            "zh-Hans": "新平彝族傣族自治县隶属玉溪市，海拔约1480米。",
+            "en": "Xinping is in Yuxi, about 1480 m elevation."
+          }
+        },
+        {
+          "code": "530428",
+          "slug": "yuxi-yuanjiang",
+          "level": "county",
+          "lat": 23.5965,
+          "lng": 101.9981,
+          "altitude_m": 400,
+          "names": {
+            "zh-Hans": "元江哈尼族彝族傣族自治县",
+            "en": "Yuanjiang",
+            "zh-Hant": "元江哈尼族彝族傣族自治县",
+            "ja": "Yuanjiang",
+            "ko": "Yuanjiang"
+          },
+          "summary": {
+            "zh-Hans": "元江哈尼族彝族傣族自治县隶属玉溪市，海拔约400米。",
+            "en": "Yuanjiang is in Yuxi, about 400 m elevation."
+          }
+        },
+        {
+          "code": "530481",
+          "slug": "yuxi-chengjiang",
+          "level": "county",
+          "lat": 24.6757,
+          "lng": 102.9166,
+          "altitude_m": 1740,
+          "names": {
+            "zh-Hans": "澄江市",
+            "en": "Chengjiang",
+            "zh-Hant": "澄江市",
+            "ja": "Chengjiang",
+            "ko": "Chengjiang"
+          },
+          "summary": {
+            "zh-Hans": "澄江市隶属玉溪市，海拔约1740米。",
+            "en": "Chengjiang is in Yuxi, about 1740 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "530500",
+      "slug": "baoshan",
+      "level": "city",
+      "lat": 25.112,
+      "lng": 99.1618,
+      "altitude_m": 1655,
+      "is_featured": false,
+      "climate_type": "subtropical_monsoon",
+      "cost_of_living_index": 45,
+      "migration_friendliness": 6.8,
+      "best_months": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "names": {
+        "zh-Hans": "保山市",
+        "en": "Baoshan",
+        "zh-Hant": "保山市",
+        "ja": "Baoshan",
+        "ko": "Baoshan"
+      },
+      "summary": {
+        "zh-Hans": "保山市是云南重要地区，海拔约1655米。",
+        "en": "Baoshan is a key prefecture-level area in Yunnan at about 1655 m elevation."
+      },
+      "food_blurb": "蒲缥甜梨、腾冲大救驾",
+      "scenery_blurb": "高黎贡山、火山热海",
+      "migration_blurb": "滇西门户，腾冲旅居热度高。",
+      "counties": [
+        {
+          "code": "530502",
+          "slug": "baoshan-longyang",
+          "level": "county",
+          "lat": 25.1121,
+          "lng": 99.1656,
+          "altitude_m": 1655,
+          "names": {
+            "zh-Hans": "隆阳区",
+            "en": "Longyang",
+            "zh-Hant": "隆阳区",
+            "ja": "Longyang",
+            "ko": "Longyang"
+          },
+          "summary": {
+            "zh-Hans": "隆阳区隶属保山市，海拔约1655米。",
+            "en": "Longyang is in Baoshan, about 1655 m elevation."
+          }
+        },
+        {
+          "code": "530521",
+          "slug": "baoshan-shidian",
+          "level": "county",
+          "lat": 24.7231,
+          "lng": 99.1837,
+          "altitude_m": 1470,
+          "names": {
+            "zh-Hans": "施甸县",
+            "en": "Shidian",
+            "zh-Hant": "施甸县",
+            "ja": "Shidian",
+            "ko": "Shidian"
+          },
+          "summary": {
+            "zh-Hans": "施甸县隶属保山市，海拔约1470米。",
+            "en": "Shidian is in Baoshan, about 1470 m elevation."
+          }
+        },
+        {
+          "code": "530523",
+          "slug": "baoshan-longling",
+          "level": "county",
+          "lat": 24.5881,
+          "lng": 98.6893,
+          "altitude_m": 1540,
+          "names": {
+            "zh-Hans": "龙陵县",
+            "en": "Longling",
+            "zh-Hant": "龙陵县",
+            "ja": "Longling",
+            "ko": "Longling"
+          },
+          "summary": {
+            "zh-Hans": "龙陵县隶属保山市，海拔约1540米。",
+            "en": "Longling is in Baoshan, about 1540 m elevation."
+          }
+        },
+        {
+          "code": "530524",
+          "slug": "baoshan-changning",
+          "level": "county",
+          "lat": 24.8278,
+          "lng": 99.6051,
+          "altitude_m": 1670,
+          "names": {
+            "zh-Hans": "昌宁县",
+            "en": "Changning",
+            "zh-Hant": "昌宁县",
+            "ja": "Changning",
+            "ko": "Changning"
+          },
+          "summary": {
+            "zh-Hans": "昌宁县隶属保山市，海拔约1670米。",
+            "en": "Changning is in Baoshan, about 1670 m elevation."
+          }
+        },
+        {
+          "code": "530581",
+          "slug": "baoshan-tengchong",
+          "level": "county",
+          "lat": 25.0203,
+          "lng": 98.491,
+          "altitude_m": 1640,
+          "names": {
+            "zh-Hans": "腾冲市",
+            "en": "Tengchong",
+            "zh-Hant": "腾冲市",
+            "ja": "Tengchong",
+            "ko": "Tengchong"
+          },
+          "summary": {
+            "zh-Hans": "腾冲市隶属保山市，海拔约1640米。",
+            "en": "Tengchong is in Baoshan, about 1640 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "530600",
+      "slug": "zhaotong",
+      "level": "city",
+      "lat": 27.3383,
+      "lng": 103.7172,
+      "altitude_m": 1920,
+      "is_featured": false,
+      "climate_type": "temperate_highland",
+      "cost_of_living_index": 40,
+      "migration_friendliness": 5.8,
+      "best_months": [
+        4,
+        5,
+        9,
+        10
+      ],
+      "names": {
+        "zh-Hans": "昭通市",
+        "en": "Zhaotong",
+        "zh-Hant": "昭通市",
+        "ja": "Zhaotong",
+        "ko": "Zhaotong"
+      },
+      "summary": {
+        "zh-Hans": "昭通市是云南重要地区，海拔约1920米。",
+        "en": "Zhaotong is a key prefecture-level area in Yunnan at about 1920 m elevation."
+      },
+      "food_blurb": "天麻、苹果、酱肉",
+      "scenery_blurb": "大山包黑颈鹤、横江峡谷",
+      "migration_blurb": "滇东北，气候凉爽，基础设施持续改善。",
+      "counties": [
+        {
+          "code": "530602",
+          "slug": "zhaotong-zhaoyang",
+          "level": "county",
+          "lat": 27.32,
+          "lng": 103.7065,
+          "altitude_m": 1920,
+          "names": {
+            "zh-Hans": "昭阳区",
+            "en": "Zhaoyang",
+            "zh-Hant": "昭阳区",
+            "ja": "Zhaoyang",
+            "ko": "Zhaoyang"
+          },
+          "summary": {
+            "zh-Hans": "昭阳区隶属昭通市，海拔约1920米。",
+            "en": "Zhaoyang is in Zhaotong, about 1920 m elevation."
+          }
+        },
+        {
+          "code": "530621",
+          "slug": "zhaotong-ludian",
+          "level": "county",
+          "lat": 27.1916,
+          "lng": 103.558,
+          "altitude_m": 1910,
+          "names": {
+            "zh-Hans": "鲁甸县",
+            "en": "Ludian",
+            "zh-Hant": "鲁甸县",
+            "ja": "Ludian",
+            "ko": "Ludian"
+          },
+          "summary": {
+            "zh-Hans": "鲁甸县隶属昭通市，海拔约1910米。",
+            "en": "Ludian is in Zhaotong, about 1910 m elevation."
+          }
+        },
+        {
+          "code": "530622",
+          "slug": "zhaotong-qiaojia",
+          "level": "county",
+          "lat": 26.9114,
+          "lng": 102.924,
+          "altitude_m": 840,
+          "names": {
+            "zh-Hans": "巧家县",
+            "en": "Qiaojia",
+            "zh-Hant": "巧家县",
+            "ja": "Qiaojia",
+            "ko": "Qiaojia"
+          },
+          "summary": {
+            "zh-Hans": "巧家县隶属昭通市，海拔约840米。",
+            "en": "Qiaojia is in Zhaotong, about 840 m elevation."
+          }
+        },
+        {
+          "code": "530623",
+          "slug": "zhaotong-yanjin",
+          "level": "county",
+          "lat": 28.1087,
+          "lng": 104.234,
+          "altitude_m": 420,
+          "names": {
+            "zh-Hans": "盐津县",
+            "en": "Yanjin",
+            "zh-Hant": "盐津县",
+            "ja": "Yanjin",
+            "ko": "Yanjin"
+          },
+          "summary": {
+            "zh-Hans": "盐津县隶属昭通市，海拔约420米。",
+            "en": "Yanjin is in Zhaotong, about 420 m elevation."
+          }
+        },
+        {
+          "code": "530624",
+          "slug": "zhaotong-daguan",
+          "level": "county",
+          "lat": 27.7481,
+          "lng": 103.8916,
+          "altitude_m": 1100,
+          "names": {
+            "zh-Hans": "大关县",
+            "en": "Daguan",
+            "zh-Hant": "大关县",
+            "ja": "Daguan",
+            "ko": "Daguan"
+          },
+          "summary": {
+            "zh-Hans": "大关县隶属昭通市，海拔约1100米。",
+            "en": "Daguan is in Zhaotong, about 1100 m elevation."
+          }
+        },
+        {
+          "code": "530625",
+          "slug": "zhaotong-yongshan",
+          "level": "county",
+          "lat": 28.2289,
+          "lng": 103.638,
+          "altitude_m": 900,
+          "names": {
+            "zh-Hans": "永善县",
+            "en": "Yongshan",
+            "zh-Hant": "永善县",
+            "ja": "Yongshan",
+            "ko": "Yongshan"
+          },
+          "summary": {
+            "zh-Hans": "永善县隶属昭通市，海拔约900米。",
+            "en": "Yongshan is in Zhaotong, about 900 m elevation."
+          }
+        },
+        {
+          "code": "530626",
+          "slug": "zhaotong-suijiang",
+          "level": "county",
+          "lat": 28.5921,
+          "lng": 103.956,
+          "altitude_m": 400,
+          "names": {
+            "zh-Hans": "绥江县",
+            "en": "Suijiang",
+            "zh-Hant": "绥江县",
+            "ja": "Suijiang",
+            "ko": "Suijiang"
+          },
+          "summary": {
+            "zh-Hans": "绥江县隶属昭通市，海拔约400米。",
+            "en": "Suijiang is in Zhaotong, about 400 m elevation."
+          }
+        },
+        {
+          "code": "530627",
+          "slug": "zhaotong-zhenxiong",
+          "level": "county",
+          "lat": 27.4416,
+          "lng": 104.873,
+          "altitude_m": 1680,
+          "names": {
+            "zh-Hans": "镇雄县",
+            "en": "Zhenxiong",
+            "zh-Hant": "镇雄县",
+            "ja": "Zhenxiong",
+            "ko": "Zhenxiong"
+          },
+          "summary": {
+            "zh-Hans": "镇雄县隶属昭通市，海拔约1680米。",
+            "en": "Zhenxiong is in Zhaotong, about 1680 m elevation."
+          }
+        },
+        {
+          "code": "530628",
+          "slug": "zhaotong-yiliang-zt",
+          "level": "county",
+          "lat": 27.6254,
+          "lng": 104.0485,
+          "altitude_m": 1100,
+          "names": {
+            "zh-Hans": "彝良县",
+            "en": "Yiliang (ZT)",
+            "zh-Hant": "彝良县",
+            "ja": "Yiliang (ZT)",
+            "ko": "Yiliang (ZT)"
+          },
+          "summary": {
+            "zh-Hans": "彝良县隶属昭通市，海拔约1100米。",
+            "en": "Yiliang (ZT) is in Zhaotong, about 1100 m elevation."
+          }
+        },
+        {
+          "code": "530629",
+          "slug": "zhaotong-weixin",
+          "level": "county",
+          "lat": 27.8434,
+          "lng": 105.048,
+          "altitude_m": 1180,
+          "names": {
+            "zh-Hans": "威信县",
+            "en": "Weixin",
+            "zh-Hant": "威信县",
+            "ja": "Weixin",
+            "ko": "Weixin"
+          },
+          "summary": {
+            "zh-Hans": "威信县隶属昭通市，海拔约1180米。",
+            "en": "Weixin is in Zhaotong, about 1180 m elevation."
+          }
+        },
+        {
+          "code": "530681",
+          "slug": "zhaotong-shuifu",
+          "level": "county",
+          "lat": 28.6299,
+          "lng": 104.4159,
+          "altitude_m": 300,
+          "names": {
+            "zh-Hans": "水富市",
+            "en": "Shuifu",
+            "zh-Hant": "水富市",
+            "ja": "Shuifu",
+            "ko": "Shuifu"
+          },
+          "summary": {
+            "zh-Hans": "水富市隶属昭通市，海拔约300米。",
+            "en": "Shuifu is in Zhaotong, about 300 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "530700",
+      "slug": "lijiang",
+      "level": "city",
+      "lat": 26.855,
+      "lng": 100.227,
+      "altitude_m": 2418,
+      "is_featured": true,
+      "climate_type": "plateau_monsoon",
+      "cost_of_living_index": 55,
+      "migration_friendliness": 7.6,
+      "best_months": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ],
+      "names": {
+        "zh-Hans": "丽江市",
+        "en": "Lijiang",
+        "zh-Hant": "丽江市",
+        "ja": "Lijiang",
+        "ko": "Lijiang"
+      },
+      "summary": {
+        "zh-Hans": "丽江市是云南重要地区，海拔约2418米。",
+        "en": "Lijiang is a key prefecture-level area in Yunnan at about 2418 m elevation."
+      },
+      "food_blurb": "丽江粑粑、腊排骨火锅",
+      "scenery_blurb": "玉龙雪山、古城、泸沽湖",
+      "migration_blurb": "旅居热门，文旅产业强，旺季较吵。",
+      "counties": [
+        {
+          "code": "530702",
+          "slug": "lijiang-gucheng",
+          "level": "county",
+          "lat": 26.8772,
+          "lng": 100.2259,
+          "altitude_m": 2410,
+          "names": {
+            "zh-Hans": "古城区",
+            "en": "Gucheng",
+            "zh-Hant": "古城区",
+            "ja": "Gucheng",
+            "ko": "Gucheng"
+          },
+          "summary": {
+            "zh-Hans": "古城区隶属丽江市，海拔约2410米。",
+            "en": "Gucheng is in Lijiang, about 2410 m elevation."
+          }
+        },
+        {
+          "code": "530721",
+          "slug": "lijiang-yulong",
+          "level": "county",
+          "lat": 26.8212,
+          "lng": 100.2369,
+          "altitude_m": 2400,
+          "names": {
+            "zh-Hans": "玉龙纳西族自治县",
+            "en": "Yulong",
+            "zh-Hant": "玉龙纳西族自治县",
+            "ja": "Yulong",
+            "ko": "Yulong"
+          },
+          "summary": {
+            "zh-Hans": "玉龙纳西族自治县隶属丽江市，海拔约2400米。",
+            "en": "Yulong is in Lijiang, about 2400 m elevation."
+          }
+        },
+        {
+          "code": "530722",
+          "slug": "lijiang-yongsheng",
+          "level": "county",
+          "lat": 26.6842,
+          "lng": 100.7508,
+          "altitude_m": 2140,
+          "names": {
+            "zh-Hans": "永胜县",
+            "en": "Yongsheng",
+            "zh-Hant": "永胜县",
+            "ja": "Yongsheng",
+            "ko": "Yongsheng"
+          },
+          "summary": {
+            "zh-Hans": "永胜县隶属丽江市，海拔约2140米。",
+            "en": "Yongsheng is in Lijiang, about 2140 m elevation."
+          }
+        },
+        {
+          "code": "530723",
+          "slug": "lijiang-huaping",
+          "level": "county",
+          "lat": 26.6292,
+          "lng": 101.2662,
+          "altitude_m": 1170,
+          "names": {
+            "zh-Hans": "华坪县",
+            "en": "Huaping",
+            "zh-Hant": "华坪县",
+            "ja": "Huaping",
+            "ko": "Huaping"
+          },
+          "summary": {
+            "zh-Hans": "华坪县隶属丽江市，海拔约1170米。",
+            "en": "Huaping is in Lijiang, about 1170 m elevation."
+          }
+        },
+        {
+          "code": "530724",
+          "slug": "lijiang-ninglang",
+          "level": "county",
+          "lat": 27.282,
+          "lng": 100.852,
+          "altitude_m": 2680,
+          "names": {
+            "zh-Hans": "宁蒗彝族自治县",
+            "en": "Ninglang",
+            "zh-Hant": "宁蒗彝族自治县",
+            "ja": "Ninglang",
+            "ko": "Ninglang"
+          },
+          "summary": {
+            "zh-Hans": "宁蒗彝族自治县隶属丽江市，海拔约2680米。",
+            "en": "Ninglang is in Lijiang, about 2680 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "530800",
+      "slug": "puer",
+      "level": "city",
+      "lat": 22.7773,
+      "lng": 100.9726,
+      "altitude_m": 1302,
+      "is_featured": false,
+      "climate_type": "subtropical_monsoon",
+      "cost_of_living_index": 44,
+      "migration_friendliness": 6.9,
+      "best_months": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "names": {
+        "zh-Hans": "普洱市",
+        "en": "Pu'er",
+        "zh-Hant": "普洱市",
+        "ja": "Pu'er",
+        "ko": "Pu'er"
+      },
+      "summary": {
+        "zh-Hans": "普洱市是云南重要地区，海拔约1302米。",
+        "en": "Pu'er is a key prefecture-level area in Yunnan at about 1302 m elevation."
+      },
+      "food_blurb": "普洱茶、牛干巴",
+      "scenery_blurb": "茶山、墨江北回归线标志园",
+      "migration_blurb": "茶产业突出，气候温润，节奏慢。",
+      "counties": [
+        {
+          "code": "530802",
+          "slug": "puer-simao",
+          "level": "county",
+          "lat": 22.7869,
+          "lng": 100.9772,
+          "altitude_m": 1300,
+          "names": {
+            "zh-Hans": "思茅区",
+            "en": "Simao",
+            "zh-Hant": "思茅区",
+            "ja": "Simao",
+            "ko": "Simao"
+          },
+          "summary": {
+            "zh-Hans": "思茅区隶属普洱市，海拔约1300米。",
+            "en": "Simao is in Pu'er, about 1300 m elevation."
+          }
+        },
+        {
+          "code": "530821",
+          "slug": "puer-ninger",
+          "level": "county",
+          "lat": 23.0484,
+          "lng": 101.0459,
+          "altitude_m": 1320,
+          "names": {
+            "zh-Hans": "宁洱哈尼族彝族自治县",
+            "en": "Ning'er",
+            "zh-Hant": "宁洱哈尼族彝族自治县",
+            "ja": "Ning'er",
+            "ko": "Ning'er"
+          },
+          "summary": {
+            "zh-Hans": "宁洱哈尼族彝族自治县隶属普洱市，海拔约1320米。",
+            "en": "Ning'er is in Pu'er, about 1320 m elevation."
+          }
+        },
+        {
+          "code": "530822",
+          "slug": "puer-mojiang",
+          "level": "county",
+          "lat": 23.4319,
+          "lng": 101.6876,
+          "altitude_m": 1280,
+          "names": {
+            "zh-Hans": "墨江哈尼族自治县",
+            "en": "Mojiang",
+            "zh-Hant": "墨江哈尼族自治县",
+            "ja": "Mojiang",
+            "ko": "Mojiang"
+          },
+          "summary": {
+            "zh-Hans": "墨江哈尼族自治县隶属普洱市，海拔约1280米。",
+            "en": "Mojiang is in Pu'er, about 1280 m elevation."
+          }
+        },
+        {
+          "code": "530823",
+          "slug": "puer-jingdong",
+          "level": "county",
+          "lat": 24.4467,
+          "lng": 100.84,
+          "altitude_m": 1160,
+          "names": {
+            "zh-Hans": "景东彝族自治县",
+            "en": "Jingdong",
+            "zh-Hant": "景东彝族自治县",
+            "ja": "Jingdong",
+            "ko": "Jingdong"
+          },
+          "summary": {
+            "zh-Hans": "景东彝族自治县隶属普洱市，海拔约1160米。",
+            "en": "Jingdong is in Pu'er, about 1160 m elevation."
+          }
+        },
+        {
+          "code": "530824",
+          "slug": "puer-jinggu",
+          "level": "county",
+          "lat": 23.5003,
+          "lng": 100.7026,
+          "altitude_m": 920,
+          "names": {
+            "zh-Hans": "景谷傣族彝族自治县",
+            "en": "Jinggu",
+            "zh-Hant": "景谷傣族彝族自治县",
+            "ja": "Jinggu",
+            "ko": "Jinggu"
+          },
+          "summary": {
+            "zh-Hans": "景谷傣族彝族自治县隶属普洱市，海拔约920米。",
+            "en": "Jinggu is in Pu'er, about 920 m elevation."
+          }
+        },
+        {
+          "code": "530825",
+          "slug": "puer-zhenyuan",
+          "level": "county",
+          "lat": 24.0044,
+          "lng": 101.1085,
+          "altitude_m": 1100,
+          "names": {
+            "zh-Hans": "镇沅彝族哈尼族拉祜族自治县",
+            "en": "Zhenyuan",
+            "zh-Hant": "镇沅彝族哈尼族拉祜族自治县",
+            "ja": "Zhenyuan",
+            "ko": "Zhenyuan"
+          },
+          "summary": {
+            "zh-Hans": "镇沅彝族哈尼族拉祜族自治县隶属普洱市，海拔约1100米。",
+            "en": "Zhenyuan is in Pu'er, about 1100 m elevation."
+          }
+        },
+        {
+          "code": "530826",
+          "slug": "puer-jiangcheng",
+          "level": "county",
+          "lat": 22.5859,
+          "lng": 101.8591,
+          "altitude_m": 1120,
+          "names": {
+            "zh-Hans": "江城哈尼族彝族自治县",
+            "en": "Jiangcheng",
+            "zh-Hant": "江城哈尼族彝族自治县",
+            "ja": "Jiangcheng",
+            "ko": "Jiangcheng"
+          },
+          "summary": {
+            "zh-Hans": "江城哈尼族彝族自治县隶属普洱市，海拔约1120米。",
+            "en": "Jiangcheng is in Pu'er, about 1120 m elevation."
+          }
+        },
+        {
+          "code": "530827",
+          "slug": "puer-menglian",
+          "level": "county",
+          "lat": 22.3291,
+          "lng": 99.5842,
+          "altitude_m": 1000,
+          "names": {
+            "zh-Hans": "孟连傣族拉祜族佤族自治县",
+            "en": "Menglian",
+            "zh-Hant": "孟连傣族拉祜族佤族自治县",
+            "ja": "Menglian",
+            "ko": "Menglian"
+          },
+          "summary": {
+            "zh-Hans": "孟连傣族拉祜族佤族自治县隶属普洱市，海拔约1000米。",
+            "en": "Menglian is in Pu'er, about 1000 m elevation."
+          }
+        },
+        {
+          "code": "530828",
+          "slug": "puer-lancang",
+          "level": "county",
+          "lat": 22.5559,
+          "lng": 99.9312,
+          "altitude_m": 1050,
+          "names": {
+            "zh-Hans": "澜沧拉祜族自治县",
+            "en": "Lancang",
+            "zh-Hant": "澜沧拉祜族自治县",
+            "ja": "Lancang",
+            "ko": "Lancang"
+          },
+          "summary": {
+            "zh-Hans": "澜沧拉祜族自治县隶属普洱市，海拔约1050米。",
+            "en": "Lancang is in Pu'er, about 1050 m elevation."
+          }
+        },
+        {
+          "code": "530829",
+          "slug": "puer-ximeng",
+          "level": "county",
+          "lat": 22.6442,
+          "lng": 99.5901,
+          "altitude_m": 1200,
+          "names": {
+            "zh-Hans": "西盟佤族自治县",
+            "en": "Ximeng",
+            "zh-Hant": "西盟佤族自治县",
+            "ja": "Ximeng",
+            "ko": "Ximeng"
+          },
+          "summary": {
+            "zh-Hans": "西盟佤族自治县隶属普洱市，海拔约1200米。",
+            "en": "Ximeng is in Pu'er, about 1200 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "530900",
+      "slug": "lincang",
+      "level": "city",
+      "lat": 23.8866,
+      "lng": 100.0869,
+      "altitude_m": 1502,
+      "is_featured": false,
+      "climate_type": "subtropical_monsoon",
+      "cost_of_living_index": 42,
+      "migration_friendliness": 6.4,
+      "best_months": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "names": {
+        "zh-Hans": "临沧市",
+        "en": "Lincang",
+        "zh-Hant": "临沧市",
+        "ja": "Lincang",
+        "ko": "Lincang"
+      },
+      "summary": {
+        "zh-Hans": "临沧市是云南重要地区，海拔约1502米。",
+        "en": "Lincang is a key prefecture-level area in Yunnan at about 1502 m elevation."
+      },
+      "food_blurb": "滇红茶、坚果",
+      "scenery_blurb": "沧源崖画、边境风光",
+      "migration_blurb": "边境城市，生态好，配套逐步提升。",
+      "counties": [
+        {
+          "code": "530902",
+          "slug": "lincang-linxiang",
+          "level": "county",
+          "lat": 23.8951,
+          "lng": 100.0821,
+          "altitude_m": 1500,
+          "names": {
+            "zh-Hans": "临翔区",
+            "en": "Linxiang",
+            "zh-Hant": "临翔区",
+            "ja": "Linxiang",
+            "ko": "Linxiang"
+          },
+          "summary": {
+            "zh-Hans": "临翔区隶属临沧市，海拔约1500米。",
+            "en": "Linxiang is in Lincang, about 1500 m elevation."
+          }
+        },
+        {
+          "code": "530921",
+          "slug": "lincang-fengqing",
+          "level": "county",
+          "lat": 24.5803,
+          "lng": 99.9284,
+          "altitude_m": 1570,
+          "names": {
+            "zh-Hans": "凤庆县",
+            "en": "Fengqing",
+            "zh-Hant": "凤庆县",
+            "ja": "Fengqing",
+            "ko": "Fengqing"
+          },
+          "summary": {
+            "zh-Hans": "凤庆县隶属临沧市，海拔约1570米。",
+            "en": "Fengqing is in Lincang, about 1570 m elevation."
+          }
+        },
+        {
+          "code": "530922",
+          "slug": "lincang-yunxian",
+          "level": "county",
+          "lat": 24.4391,
+          "lng": 100.1308,
+          "altitude_m": 1100,
+          "names": {
+            "zh-Hans": "云县",
+            "en": "Yun County",
+            "zh-Hant": "云县",
+            "ja": "Yun County",
+            "ko": "Yun County"
+          },
+          "summary": {
+            "zh-Hans": "云县隶属临沧市，海拔约1100米。",
+            "en": "Yun County is in Lincang, about 1100 m elevation."
+          }
+        },
+        {
+          "code": "530923",
+          "slug": "lincang-yongde",
+          "level": "county",
+          "lat": 24.0282,
+          "lng": 99.2537,
+          "altitude_m": 1600,
+          "names": {
+            "zh-Hans": "永德县",
+            "en": "Yongde",
+            "zh-Hant": "永德县",
+            "ja": "Yongde",
+            "ko": "Yongde"
+          },
+          "summary": {
+            "zh-Hans": "永德县隶属临沧市，海拔约1600米。",
+            "en": "Yongde is in Lincang, about 1600 m elevation."
+          }
+        },
+        {
+          "code": "530924",
+          "slug": "lincang-zhenkang",
+          "level": "county",
+          "lat": 23.7625,
+          "lng": 98.8253,
+          "altitude_m": 1020,
+          "names": {
+            "zh-Hans": "镇康县",
+            "en": "Zhenkang",
+            "zh-Hant": "镇康县",
+            "ja": "Zhenkang",
+            "ko": "Zhenkang"
+          },
+          "summary": {
+            "zh-Hans": "镇康县隶属临沧市，海拔约1020米。",
+            "en": "Zhenkang is in Lincang, about 1020 m elevation."
+          }
+        },
+        {
+          "code": "530925",
+          "slug": "lincang-shuangjiang",
+          "level": "county",
+          "lat": 23.4731,
+          "lng": 99.8277,
+          "altitude_m": 1040,
+          "names": {
+            "zh-Hans": "双江拉祜族佤族布朗族傣族自治县",
+            "en": "Shuangjiang",
+            "zh-Hant": "双江拉祜族佤族布朗族傣族自治县",
+            "ja": "Shuangjiang",
+            "ko": "Shuangjiang"
+          },
+          "summary": {
+            "zh-Hans": "双江拉祜族佤族布朗族傣族自治县隶属临沧市，海拔约1040米。",
+            "en": "Shuangjiang is in Lincang, about 1040 m elevation."
+          }
+        },
+        {
+          "code": "530926",
+          "slug": "lincang-gengma",
+          "level": "county",
+          "lat": 23.5378,
+          "lng": 99.3971,
+          "altitude_m": 1100,
+          "names": {
+            "zh-Hans": "耿马傣族佤族自治县",
+            "en": "Gengma",
+            "zh-Hant": "耿马傣族佤族自治县",
+            "ja": "Gengma",
+            "ko": "Gengma"
+          },
+          "summary": {
+            "zh-Hans": "耿马傣族佤族自治县隶属临沧市，海拔约1100米。",
+            "en": "Gengma is in Lincang, about 1100 m elevation."
+          }
+        },
+        {
+          "code": "530927",
+          "slug": "lincang-cangyuan",
+          "level": "county",
+          "lat": 23.1469,
+          "lng": 99.246,
+          "altitude_m": 1270,
+          "names": {
+            "zh-Hans": "沧源佤族自治县",
+            "en": "Cangyuan",
+            "zh-Hant": "沧源佤族自治县",
+            "ja": "Cangyuan",
+            "ko": "Cangyuan"
+          },
+          "summary": {
+            "zh-Hans": "沧源佤族自治县隶属临沧市，海拔约1270米。",
+            "en": "Cangyuan is in Lincang, about 1270 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "532300",
+      "slug": "chuxiong",
+      "level": "city",
+      "lat": 25.0419,
+      "lng": 101.546,
+      "altitude_m": 1773,
+      "is_featured": false,
+      "climate_type": "subtropical_plateau",
+      "cost_of_living_index": 46,
+      "migration_friendliness": 6.7,
+      "best_months": [
+        3,
+        4,
+        10,
+        11
+      ],
+      "names": {
+        "zh-Hans": "楚雄彝族自治州",
+        "en": "Chuxiong",
+        "zh-Hant": "楚雄彝族自治州",
+        "ja": "Chuxiong",
+        "ko": "Chuxiong"
+      },
+      "summary": {
+        "zh-Hans": "楚雄彝族自治州是云南重要地区，海拔约1773米。",
+        "en": "Chuxiong is a key prefecture-level area in Yunnan at about 1773 m elevation."
+      },
+      "food_blurb": "彝族菜、野生菌",
+      "scenery_blurb": "世界恐龙谷、紫溪山",
+      "migration_blurb": "滇中节点城市，生活节奏适中。",
+      "counties": [
+        {
+          "code": "532301",
+          "slug": "chuxiong-city",
+          "level": "county",
+          "lat": 25.0329,
+          "lng": 101.5459,
+          "altitude_m": 1770,
+          "names": {
+            "zh-Hans": "楚雄市",
+            "en": "Chuxiong City",
+            "zh-Hant": "楚雄市",
+            "ja": "Chuxiong City",
+            "ko": "Chuxiong City"
+          },
+          "summary": {
+            "zh-Hans": "楚雄市隶属楚雄彝族自治州，海拔约1770米。",
+            "en": "Chuxiong City is in Chuxiong, about 1770 m elevation."
+          }
+        },
+        {
+          "code": "532302",
+          "slug": "chuxiong-lufeng",
+          "level": "county",
+          "lat": 25.1481,
+          "lng": 102.0756,
+          "altitude_m": 1560,
+          "names": {
+            "zh-Hans": "禄丰市",
+            "en": "Lufeng",
+            "zh-Hant": "禄丰市",
+            "ja": "Lufeng",
+            "ko": "Lufeng"
+          },
+          "summary": {
+            "zh-Hans": "禄丰市隶属楚雄彝族自治州，海拔约1560米。",
+            "en": "Lufeng is in Chuxiong, about 1560 m elevation."
+          }
+        },
+        {
+          "code": "532322",
+          "slug": "chuxiong-shuangbai",
+          "level": "county",
+          "lat": 24.6889,
+          "lng": 101.6419,
+          "altitude_m": 1970,
+          "names": {
+            "zh-Hans": "双柏县",
+            "en": "Shuangbai",
+            "zh-Hant": "双柏县",
+            "ja": "Shuangbai",
+            "ko": "Shuangbai"
+          },
+          "summary": {
+            "zh-Hans": "双柏县隶属楚雄彝族自治州，海拔约1970米。",
+            "en": "Shuangbai is in Chuxiong, about 1970 m elevation."
+          }
+        },
+        {
+          "code": "532323",
+          "slug": "chuxiong-mouding",
+          "level": "county",
+          "lat": 25.3131,
+          "lng": 101.543,
+          "altitude_m": 1760,
+          "names": {
+            "zh-Hans": "牟定县",
+            "en": "Mouding",
+            "zh-Hant": "牟定县",
+            "ja": "Mouding",
+            "ko": "Mouding"
+          },
+          "summary": {
+            "zh-Hans": "牟定县隶属楚雄彝族自治州，海拔约1760米。",
+            "en": "Mouding is in Chuxiong, about 1760 m elevation."
+          }
+        },
+        {
+          "code": "532324",
+          "slug": "chuxiong-nanhua",
+          "level": "county",
+          "lat": 25.1923,
+          "lng": 101.2746,
+          "altitude_m": 1860,
+          "names": {
+            "zh-Hans": "南华县",
+            "en": "Nanhua",
+            "zh-Hant": "南华县",
+            "ja": "Nanhua",
+            "ko": "Nanhua"
+          },
+          "summary": {
+            "zh-Hans": "南华县隶属楚雄彝族自治州，海拔约1860米。",
+            "en": "Nanhua is in Chuxiong, about 1860 m elevation."
+          }
+        },
+        {
+          "code": "532325",
+          "slug": "chuxiong-yaoan",
+          "level": "county",
+          "lat": 25.5042,
+          "lng": 101.2417,
+          "altitude_m": 1870,
+          "names": {
+            "zh-Hans": "姚安县",
+            "en": "Yao'an",
+            "zh-Hant": "姚安县",
+            "ja": "Yao'an",
+            "ko": "Yao'an"
+          },
+          "summary": {
+            "zh-Hans": "姚安县隶属楚雄彝族自治州，海拔约1870米。",
+            "en": "Yao'an is in Chuxiong, about 1870 m elevation."
+          }
+        },
+        {
+          "code": "532326",
+          "slug": "chuxiong-dayao",
+          "level": "county",
+          "lat": 25.7211,
+          "lng": 101.3366,
+          "altitude_m": 1860,
+          "names": {
+            "zh-Hans": "大姚县",
+            "en": "Dayao",
+            "zh-Hant": "大姚县",
+            "ja": "Dayao",
+            "ko": "Dayao"
+          },
+          "summary": {
+            "zh-Hans": "大姚县隶属楚雄彝族自治州，海拔约1860米。",
+            "en": "Dayao is in Chuxiong, about 1860 m elevation."
+          }
+        },
+        {
+          "code": "532327",
+          "slug": "chuxiong-yongren",
+          "level": "county",
+          "lat": 26.0562,
+          "lng": 101.6669,
+          "altitude_m": 1540,
+          "names": {
+            "zh-Hans": "永仁县",
+            "en": "Yongren",
+            "zh-Hant": "永仁县",
+            "ja": "Yongren",
+            "ko": "Yongren"
+          },
+          "summary": {
+            "zh-Hans": "永仁县隶属楚雄彝族自治州，海拔约1540米。",
+            "en": "Yongren is in Chuxiong, about 1540 m elevation."
+          }
+        },
+        {
+          "code": "532328",
+          "slug": "chuxiong-yuanmou",
+          "level": "county",
+          "lat": 25.7044,
+          "lng": 101.8708,
+          "altitude_m": 1120,
+          "names": {
+            "zh-Hans": "元谋县",
+            "en": "Yuanmou",
+            "zh-Hant": "元谋县",
+            "ja": "Yuanmou",
+            "ko": "Yuanmou"
+          },
+          "summary": {
+            "zh-Hans": "元谋县隶属楚雄彝族自治州，海拔约1120米。",
+            "en": "Yuanmou is in Chuxiong, about 1120 m elevation."
+          }
+        },
+        {
+          "code": "532329",
+          "slug": "chuxiong-wuding",
+          "level": "county",
+          "lat": 25.5303,
+          "lng": 102.4039,
+          "altitude_m": 1720,
+          "names": {
+            "zh-Hans": "武定县",
+            "en": "Wuding",
+            "zh-Hant": "武定县",
+            "ja": "Wuding",
+            "ko": "Wuding"
+          },
+          "summary": {
+            "zh-Hans": "武定县隶属楚雄彝族自治州，海拔约1720米。",
+            "en": "Wuding is in Chuxiong, about 1720 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "532500",
+      "slug": "honghe",
+      "level": "city",
+      "lat": 23.3631,
+      "lng": 103.3756,
+      "altitude_m": 1307,
+      "is_featured": false,
+      "climate_type": "subtropical_monsoon",
+      "cost_of_living_index": 47,
+      "migration_friendliness": 7.1,
+      "best_months": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "names": {
+        "zh-Hans": "红河哈尼族彝族自治州",
+        "en": "Honghe",
+        "zh-Hant": "红河哈尼族彝族自治州",
+        "ja": "Honghe",
+        "ko": "Honghe"
+      },
+      "summary": {
+        "zh-Hans": "红河哈尼族彝族自治州是云南重要地区，海拔约1307米。",
+        "en": "Honghe is a key prefecture-level area in Yunnan at about 1307 m elevation."
+      },
+      "food_blurb": "过桥米线发源地之一、建水烧烤",
+      "scenery_blurb": "元阳梯田、建水古城",
+      "migration_blurb": "文旅与边贸并存，南部湿热北部温和。",
+      "counties": [
+        {
+          "code": "532501",
+          "slug": "honghe-gejiu",
+          "level": "county",
+          "lat": 23.3591,
+          "lng": 103.16,
+          "altitude_m": 1680,
+          "names": {
+            "zh-Hans": "个旧市",
+            "en": "Gejiu",
+            "zh-Hant": "个旧市",
+            "ja": "Gejiu",
+            "ko": "Gejiu"
+          },
+          "summary": {
+            "zh-Hans": "个旧市隶属红河哈尼族彝族自治州，海拔约1680米。",
+            "en": "Gejiu is in Honghe, about 1680 m elevation."
+          }
+        },
+        {
+          "code": "532502",
+          "slug": "honghe-kaiyuan",
+          "level": "county",
+          "lat": 23.7133,
+          "lng": 103.2666,
+          "altitude_m": 1050,
+          "names": {
+            "zh-Hans": "开远市",
+            "en": "Kaiyuan",
+            "zh-Hant": "开远市",
+            "ja": "Kaiyuan",
+            "ko": "Kaiyuan"
+          },
+          "summary": {
+            "zh-Hans": "开远市隶属红河哈尼族彝族自治州，海拔约1050米。",
+            "en": "Kaiyuan is in Honghe, about 1050 m elevation."
+          }
+        },
+        {
+          "code": "532503",
+          "slug": "honghe-mengzi",
+          "level": "county",
+          "lat": 23.3962,
+          "lng": 103.3649,
+          "altitude_m": 1300,
+          "names": {
+            "zh-Hans": "蒙自市",
+            "en": "Mengzi",
+            "zh-Hant": "蒙自市",
+            "ja": "Mengzi",
+            "ko": "Mengzi"
+          },
+          "summary": {
+            "zh-Hans": "蒙自市隶属红河哈尼族彝族自治州，海拔约1300米。",
+            "en": "Mengzi is in Honghe, about 1300 m elevation."
+          }
+        },
+        {
+          "code": "532504",
+          "slug": "honghe-mile",
+          "level": "county",
+          "lat": 24.4107,
+          "lng": 103.4145,
+          "altitude_m": 1430,
+          "names": {
+            "zh-Hans": "弥勒市",
+            "en": "Mile",
+            "zh-Hant": "弥勒市",
+            "ja": "Mile",
+            "ko": "Mile"
+          },
+          "summary": {
+            "zh-Hans": "弥勒市隶属红河哈尼族彝族自治州，海拔约1430米。",
+            "en": "Mile is in Honghe, about 1430 m elevation."
+          }
+        },
+        {
+          "code": "532523",
+          "slug": "honghe-pingbian",
+          "level": "county",
+          "lat": 22.987,
+          "lng": 103.687,
+          "altitude_m": 1410,
+          "names": {
+            "zh-Hans": "屏边苗族自治县",
+            "en": "Pingbian",
+            "zh-Hant": "屏边苗族自治县",
+            "ja": "Pingbian",
+            "ko": "Pingbian"
+          },
+          "summary": {
+            "zh-Hans": "屏边苗族自治县隶属红河哈尼族彝族自治州，海拔约1410米。",
+            "en": "Pingbian is in Honghe, about 1410 m elevation."
+          }
+        },
+        {
+          "code": "532524",
+          "slug": "honghe-jianshui",
+          "level": "county",
+          "lat": 23.6347,
+          "lng": 102.8266,
+          "altitude_m": 1320,
+          "names": {
+            "zh-Hans": "建水县",
+            "en": "Jianshui",
+            "zh-Hant": "建水县",
+            "ja": "Jianshui",
+            "ko": "Jianshui"
+          },
+          "summary": {
+            "zh-Hans": "建水县隶属红河哈尼族彝族自治州，海拔约1320米。",
+            "en": "Jianshui is in Honghe, about 1320 m elevation."
+          }
+        },
+        {
+          "code": "532525",
+          "slug": "honghe-shiping",
+          "level": "county",
+          "lat": 23.7059,
+          "lng": 102.4945,
+          "altitude_m": 1420,
+          "names": {
+            "zh-Hans": "石屏县",
+            "en": "Shiping",
+            "zh-Hant": "石屏县",
+            "ja": "Shiping",
+            "ko": "Shiping"
+          },
+          "summary": {
+            "zh-Hans": "石屏县隶属红河哈尼族彝族自治州，海拔约1420米。",
+            "en": "Shiping is in Honghe, about 1420 m elevation."
+          }
+        },
+        {
+          "code": "532527",
+          "slug": "honghe-luxi",
+          "level": "county",
+          "lat": 24.532,
+          "lng": 103.7662,
+          "altitude_m": 1700,
+          "names": {
+            "zh-Hans": "泸西县",
+            "en": "Luxi",
+            "zh-Hant": "泸西县",
+            "ja": "Luxi",
+            "ko": "Luxi"
+          },
+          "summary": {
+            "zh-Hans": "泸西县隶属红河哈尼族彝族自治州，海拔约1700米。",
+            "en": "Luxi is in Honghe, about 1700 m elevation."
+          }
+        },
+        {
+          "code": "532528",
+          "slug": "honghe-yuanyang",
+          "level": "county",
+          "lat": 23.2197,
+          "lng": 102.8352,
+          "altitude_m": 1540,
+          "names": {
+            "zh-Hans": "元阳县",
+            "en": "Yuanyang",
+            "zh-Hant": "元阳县",
+            "ja": "Yuanyang",
+            "ko": "Yuanyang"
+          },
+          "summary": {
+            "zh-Hans": "元阳县隶属红河哈尼族彝族自治州，海拔约1540米。",
+            "en": "Yuanyang is in Honghe, about 1540 m elevation."
+          }
+        },
+        {
+          "code": "532529",
+          "slug": "honghe-honghe-county",
+          "level": "county",
+          "lat": 23.369,
+          "lng": 102.4206,
+          "altitude_m": 1100,
+          "names": {
+            "zh-Hans": "红河县",
+            "en": "Honghe County",
+            "zh-Hant": "红河县",
+            "ja": "Honghe County",
+            "ko": "Honghe County"
+          },
+          "summary": {
+            "zh-Hans": "红河县隶属红河哈尼族彝族自治州，海拔约1100米。",
+            "en": "Honghe County is in Honghe, about 1100 m elevation."
+          }
+        },
+        {
+          "code": "532530",
+          "slug": "honghe-jinping",
+          "level": "county",
+          "lat": 22.7795,
+          "lng": 103.2264,
+          "altitude_m": 1260,
+          "names": {
+            "zh-Hans": "金平苗族瑶族傣族自治县",
+            "en": "Jinping",
+            "zh-Hant": "金平苗族瑶族傣族自治县",
+            "ja": "Jinping",
+            "ko": "Jinping"
+          },
+          "summary": {
+            "zh-Hans": "金平苗族瑶族傣族自治县隶属红河哈尼族彝族自治州，海拔约1260米。",
+            "en": "Jinping is in Honghe, about 1260 m elevation."
+          }
+        },
+        {
+          "code": "532531",
+          "slug": "honghe-lvchun",
+          "level": "county",
+          "lat": 22.9937,
+          "lng": 102.3929,
+          "altitude_m": 1640,
+          "names": {
+            "zh-Hans": "绿春县",
+            "en": "Lvchun",
+            "zh-Hant": "绿春县",
+            "ja": "Lvchun",
+            "ko": "Lvchun"
+          },
+          "summary": {
+            "zh-Hans": "绿春县隶属红河哈尼族彝族自治州，海拔约1640米。",
+            "en": "Lvchun is in Honghe, about 1640 m elevation."
+          }
+        },
+        {
+          "code": "532532",
+          "slug": "honghe-hekou",
+          "level": "county",
+          "lat": 22.5293,
+          "lng": 103.9393,
+          "altitude_m": 100,
+          "names": {
+            "zh-Hans": "河口瑶族自治县",
+            "en": "Hekou",
+            "zh-Hant": "河口瑶族自治县",
+            "ja": "Hekou",
+            "ko": "Hekou"
+          },
+          "summary": {
+            "zh-Hans": "河口瑶族自治县隶属红河哈尼族彝族自治州，海拔约100米。",
+            "en": "Hekou is in Honghe, about 100 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "532600",
+      "slug": "wenshan",
+      "level": "city",
+      "lat": 23.3695,
+      "lng": 104.244,
+      "altitude_m": 1260,
+      "is_featured": false,
+      "climate_type": "subtropical_monsoon",
+      "cost_of_living_index": 43,
+      "migration_friendliness": 6.5,
+      "best_months": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "names": {
+        "zh-Hans": "文山壮族苗族自治州",
+        "en": "Wenshan",
+        "zh-Hant": "文山壮族苗族自治州",
+        "ja": "Wenshan",
+        "ko": "Wenshan"
+      },
+      "summary": {
+        "zh-Hans": "文山壮族苗族自治州是云南重要地区，海拔约1260米。",
+        "en": "Wenshan is a key prefecture-level area in Yunnan at about 1260 m elevation."
+      },
+      "food_blurb": "三七、酸汤鸡",
+      "scenery_blurb": "普者黑、坝美",
+      "migration_blurb": "滇东南，喀斯特景观多，旅居潜力上升。",
+      "counties": [
+        {
+          "code": "532601",
+          "slug": "wenshan-city",
+          "level": "county",
+          "lat": 23.3865,
+          "lng": 104.2447,
+          "altitude_m": 1260,
+          "names": {
+            "zh-Hans": "文山市",
+            "en": "Wenshan City",
+            "zh-Hant": "文山市",
+            "ja": "Wenshan City",
+            "ko": "Wenshan City"
+          },
+          "summary": {
+            "zh-Hans": "文山市隶属文山壮族苗族自治州，海拔约1260米。",
+            "en": "Wenshan City is in Wenshan, about 1260 m elevation."
+          }
+        },
+        {
+          "code": "532622",
+          "slug": "wenshan-yanshan",
+          "level": "county",
+          "lat": 23.6058,
+          "lng": 104.3371,
+          "altitude_m": 1540,
+          "names": {
+            "zh-Hans": "砚山县",
+            "en": "Yanshan",
+            "zh-Hant": "砚山县",
+            "ja": "Yanshan",
+            "ko": "Yanshan"
+          },
+          "summary": {
+            "zh-Hans": "砚山县隶属文山壮族苗族自治州，海拔约1540米。",
+            "en": "Yanshan is in Wenshan, about 1540 m elevation."
+          }
+        },
+        {
+          "code": "532623",
+          "slug": "wenshan-xichou",
+          "level": "county",
+          "lat": 23.4378,
+          "lng": 104.6726,
+          "altitude_m": 1450,
+          "names": {
+            "zh-Hans": "西畴县",
+            "en": "Xichou",
+            "zh-Hant": "西畴县",
+            "ja": "Xichou",
+            "ko": "Xichou"
+          },
+          "summary": {
+            "zh-Hans": "西畴县隶属文山壮族苗族自治州，海拔约1450米。",
+            "en": "Xichou is in Wenshan, about 1450 m elevation."
+          }
+        },
+        {
+          "code": "532624",
+          "slug": "wenshan-malipo",
+          "level": "county",
+          "lat": 23.1247,
+          "lng": 104.7027,
+          "altitude_m": 1100,
+          "names": {
+            "zh-Hans": "麻栗坡县",
+            "en": "Malipo",
+            "zh-Hant": "麻栗坡县",
+            "ja": "Malipo",
+            "ko": "Malipo"
+          },
+          "summary": {
+            "zh-Hans": "麻栗坡县隶属文山壮族苗族自治州，海拔约1100米。",
+            "en": "Malipo is in Wenshan, about 1100 m elevation."
+          }
+        },
+        {
+          "code": "532625",
+          "slug": "wenshan-maguan",
+          "level": "county",
+          "lat": 23.0129,
+          "lng": 104.3941,
+          "altitude_m": 1330,
+          "names": {
+            "zh-Hans": "马关县",
+            "en": "Maguan",
+            "zh-Hant": "马关县",
+            "ja": "Maguan",
+            "ko": "Maguan"
+          },
+          "summary": {
+            "zh-Hans": "马关县隶属文山壮族苗族自治州，海拔约1330米。",
+            "en": "Maguan is in Wenshan, about 1330 m elevation."
+          }
+        },
+        {
+          "code": "532626",
+          "slug": "wenshan-qiubei",
+          "level": "county",
+          "lat": 24.0409,
+          "lng": 104.1944,
+          "altitude_m": 1450,
+          "names": {
+            "zh-Hans": "丘北县",
+            "en": "Qiubei",
+            "zh-Hant": "丘北县",
+            "ja": "Qiubei",
+            "ko": "Qiubei"
+          },
+          "summary": {
+            "zh-Hans": "丘北县隶属文山壮族苗族自治州，海拔约1450米。",
+            "en": "Qiubei is in Wenshan, about 1450 m elevation."
+          }
+        },
+        {
+          "code": "532627",
+          "slug": "wenshan-guangnan",
+          "level": "county",
+          "lat": 24.0464,
+          "lng": 105.0551,
+          "altitude_m": 1250,
+          "names": {
+            "zh-Hans": "广南县",
+            "en": "Guangnan",
+            "zh-Hant": "广南县",
+            "ja": "Guangnan",
+            "ko": "Guangnan"
+          },
+          "summary": {
+            "zh-Hans": "广南县隶属文山壮族苗族自治州，海拔约1250米。",
+            "en": "Guangnan is in Wenshan, about 1250 m elevation."
+          }
+        },
+        {
+          "code": "532628",
+          "slug": "wenshan-funing",
+          "level": "county",
+          "lat": 23.6253,
+          "lng": 105.6309,
+          "altitude_m": 680,
+          "names": {
+            "zh-Hans": "富宁县",
+            "en": "Funing",
+            "zh-Hant": "富宁县",
+            "ja": "Funing",
+            "ko": "Funing"
+          },
+          "summary": {
+            "zh-Hans": "富宁县隶属文山壮族苗族自治州，海拔约680米。",
+            "en": "Funing is in Wenshan, about 680 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "532800",
+      "slug": "xishuangbanna",
+      "level": "city",
+      "lat": 22.0017,
+      "lng": 100.7979,
+      "altitude_m": 552,
+      "is_featured": true,
+      "climate_type": "tropical_monsoon",
+      "cost_of_living_index": 52,
+      "migration_friendliness": 7.4,
+      "best_months": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "names": {
+        "zh-Hans": "西双版纳傣族自治州",
+        "en": "Xishuangbanna",
+        "zh-Hant": "西双版纳傣族自治州",
+        "ja": "Xishuangbanna",
+        "ko": "Xishuangbanna"
+      },
+      "summary": {
+        "zh-Hans": "西双版纳傣族自治州是云南重要地区，海拔约552米。",
+        "en": "Xishuangbanna is a key prefecture-level area in Yunnan at about 552 m elevation."
+      },
+      "food_blurb": "傣味、菠萝饭、烧烤",
+      "scenery_blurb": "热带雨林、勐泐大佛寺",
+      "migration_blurb": "冬季避寒热门，潮湿炎热需适应。",
+      "counties": [
+        {
+          "code": "532801",
+          "slug": "xishuangbanna-jinghong",
+          "level": "county",
+          "lat": 22,
+          "lng": 100.7717,
+          "altitude_m": 550,
+          "names": {
+            "zh-Hans": "景洪市",
+            "en": "Jinghong",
+            "zh-Hant": "景洪市",
+            "ja": "Jinghong",
+            "ko": "Jinghong"
+          },
+          "summary": {
+            "zh-Hans": "景洪市隶属西双版纳傣族自治州，海拔约550米。",
+            "en": "Jinghong is in Xishuangbanna, about 550 m elevation."
+          }
+        },
+        {
+          "code": "532822",
+          "slug": "xishuangbanna-menghai",
+          "level": "county",
+          "lat": 21.9573,
+          "lng": 100.4525,
+          "altitude_m": 1170,
+          "names": {
+            "zh-Hans": "勐海县",
+            "en": "Menghai",
+            "zh-Hant": "勐海县",
+            "ja": "Menghai",
+            "ko": "Menghai"
+          },
+          "summary": {
+            "zh-Hans": "勐海县隶属西双版纳傣族自治州，海拔约1170米。",
+            "en": "Menghai is in Xishuangbanna, about 1170 m elevation."
+          }
+        },
+        {
+          "code": "532823",
+          "slug": "xishuangbanna-mengla",
+          "level": "county",
+          "lat": 21.4794,
+          "lng": 101.5646,
+          "altitude_m": 640,
+          "names": {
+            "zh-Hans": "勐腊县",
+            "en": "Mengla",
+            "zh-Hant": "勐腊县",
+            "ja": "Mengla",
+            "ko": "Mengla"
+          },
+          "summary": {
+            "zh-Hans": "勐腊县隶属西双版纳傣族自治州，海拔约640米。",
+            "en": "Mengla is in Xishuangbanna, about 640 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "532900",
+      "slug": "dali",
+      "level": "city",
+      "lat": 25.6065,
+      "lng": 100.2676,
+      "altitude_m": 1976,
+      "is_featured": true,
+      "climate_type": "plateau_monsoon",
+      "cost_of_living_index": 54,
+      "migration_friendliness": 8,
+      "best_months": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ],
+      "names": {
+        "zh-Hans": "大理白族自治州",
+        "en": "Dali",
+        "zh-Hant": "大理白族自治州",
+        "ja": "Dali",
+        "ko": "Dali"
+      },
+      "summary": {
+        "zh-Hans": "大理白族自治州是云南重要地区，海拔约1976米。",
+        "en": "Dali is a key prefecture-level area in Yunnan at about 1976 m elevation."
+      },
+      "food_blurb": "乳扇、酸辣鱼、白族三道茶",
+      "scenery_blurb": "苍山洱海、古城",
+      "migration_blurb": "数字游民与旅居者集中，配套成熟。",
+      "counties": [
+        {
+          "code": "532901",
+          "slug": "dali-city",
+          "level": "county",
+          "lat": 25.5916,
+          "lng": 100.2299,
+          "altitude_m": 1976,
+          "names": {
+            "zh-Hans": "大理市",
+            "en": "Dali City",
+            "zh-Hant": "大理市",
+            "ja": "Dali City",
+            "ko": "Dali City"
+          },
+          "summary": {
+            "zh-Hans": "大理市隶属大理白族自治州，海拔约1976米。",
+            "en": "Dali City is in Dali, about 1976 m elevation."
+          }
+        },
+        {
+          "code": "532922",
+          "slug": "dali-yangbi",
+          "level": "county",
+          "lat": 25.67,
+          "lng": 99.958,
+          "altitude_m": 1560,
+          "names": {
+            "zh-Hans": "漾濞彝族自治县",
+            "en": "Yangbi",
+            "zh-Hant": "漾濞彝族自治县",
+            "ja": "Yangbi",
+            "ko": "Yangbi"
+          },
+          "summary": {
+            "zh-Hans": "漾濞彝族自治县隶属大理白族自治州，海拔约1560米。",
+            "en": "Yangbi is in Dali, about 1560 m elevation."
+          }
+        },
+        {
+          "code": "532923",
+          "slug": "dali-xiangyun",
+          "level": "county",
+          "lat": 25.4838,
+          "lng": 100.5509,
+          "altitude_m": 2000,
+          "names": {
+            "zh-Hans": "祥云县",
+            "en": "Xiangyun",
+            "zh-Hant": "祥云县",
+            "ja": "Xiangyun",
+            "ko": "Xiangyun"
+          },
+          "summary": {
+            "zh-Hans": "祥云县隶属大理白族自治州，海拔约2000米。",
+            "en": "Xiangyun is in Dali, about 2000 m elevation."
+          }
+        },
+        {
+          "code": "532924",
+          "slug": "dali-binchuan",
+          "level": "county",
+          "lat": 25.8259,
+          "lng": 100.5789,
+          "altitude_m": 1440,
+          "names": {
+            "zh-Hans": "宾川县",
+            "en": "Binchuan",
+            "zh-Hant": "宾川县",
+            "ja": "Binchuan",
+            "ko": "Binchuan"
+          },
+          "summary": {
+            "zh-Hans": "宾川县隶属大理白族自治州，海拔约1440米。",
+            "en": "Binchuan is in Dali, about 1440 m elevation."
+          }
+        },
+        {
+          "code": "532925",
+          "slug": "dali-midu",
+          "level": "county",
+          "lat": 25.3424,
+          "lng": 100.4909,
+          "altitude_m": 1670,
+          "names": {
+            "zh-Hans": "弥渡县",
+            "en": "Midu",
+            "zh-Hant": "弥渡县",
+            "ja": "Midu",
+            "ko": "Midu"
+          },
+          "summary": {
+            "zh-Hans": "弥渡县隶属大理白族自治州，海拔约1670米。",
+            "en": "Midu is in Dali, about 1670 m elevation."
+          }
+        },
+        {
+          "code": "532926",
+          "slug": "dali-nanjian",
+          "level": "county",
+          "lat": 25.0434,
+          "lng": 100.509,
+          "altitude_m": 1400,
+          "names": {
+            "zh-Hans": "南涧彝族自治县",
+            "en": "Nanjian",
+            "zh-Hant": "南涧彝族自治县",
+            "ja": "Nanjian",
+            "ko": "Nanjian"
+          },
+          "summary": {
+            "zh-Hans": "南涧彝族自治县隶属大理白族自治州，海拔约1400米。",
+            "en": "Nanjian is in Dali, about 1400 m elevation."
+          }
+        },
+        {
+          "code": "532927",
+          "slug": "dali-weishan",
+          "level": "county",
+          "lat": 25.2307,
+          "lng": 100.3073,
+          "altitude_m": 1720,
+          "names": {
+            "zh-Hans": "巍山彝族回族自治县",
+            "en": "Weishan",
+            "zh-Hant": "巍山彝族回族自治县",
+            "ja": "Weishan",
+            "ko": "Weishan"
+          },
+          "summary": {
+            "zh-Hans": "巍山彝族回族自治县隶属大理白族自治州，海拔约1720米。",
+            "en": "Weishan is in Dali, about 1720 m elevation."
+          }
+        },
+        {
+          "code": "532928",
+          "slug": "dali-yongping",
+          "level": "county",
+          "lat": 25.4647,
+          "lng": 99.5412,
+          "altitude_m": 1620,
+          "names": {
+            "zh-Hans": "永平县",
+            "en": "Yongping",
+            "zh-Hant": "永平县",
+            "ja": "Yongping",
+            "ko": "Yongping"
+          },
+          "summary": {
+            "zh-Hans": "永平县隶属大理白族自治州，海拔约1620米。",
+            "en": "Yongping is in Dali, about 1620 m elevation."
+          }
+        },
+        {
+          "code": "532929",
+          "slug": "dali-yunlong",
+          "level": "county",
+          "lat": 25.8856,
+          "lng": 99.3711,
+          "altitude_m": 1660,
+          "names": {
+            "zh-Hans": "云龙县",
+            "en": "Yunlong",
+            "zh-Hant": "云龙县",
+            "ja": "Yunlong",
+            "ko": "Yunlong"
+          },
+          "summary": {
+            "zh-Hans": "云龙县隶属大理白族自治州，海拔约1660米。",
+            "en": "Yunlong is in Dali, about 1660 m elevation."
+          }
+        },
+        {
+          "code": "532930",
+          "slug": "dali-eryuan",
+          "level": "county",
+          "lat": 26.1112,
+          "lng": 99.951,
+          "altitude_m": 2060,
+          "names": {
+            "zh-Hans": "洱源县",
+            "en": "Eryuan",
+            "zh-Hant": "洱源县",
+            "ja": "Eryuan",
+            "ko": "Eryuan"
+          },
+          "summary": {
+            "zh-Hans": "洱源县隶属大理白族自治州，海拔约2060米。",
+            "en": "Eryuan is in Dali, about 2060 m elevation."
+          }
+        },
+        {
+          "code": "532931",
+          "slug": "dali-jianchuan",
+          "level": "county",
+          "lat": 26.537,
+          "lng": 99.9056,
+          "altitude_m": 2200,
+          "names": {
+            "zh-Hans": "剑川县",
+            "en": "Jianchuan",
+            "zh-Hant": "剑川县",
+            "ja": "Jianchuan",
+            "ko": "Jianchuan"
+          },
+          "summary": {
+            "zh-Hans": "剑川县隶属大理白族自治州，海拔约2200米。",
+            "en": "Jianchuan is in Dali, about 2200 m elevation."
+          }
+        },
+        {
+          "code": "532932",
+          "slug": "dali-heqing",
+          "level": "county",
+          "lat": 26.5602,
+          "lng": 100.1765,
+          "altitude_m": 2200,
+          "names": {
+            "zh-Hans": "鹤庆县",
+            "en": "Heqing",
+            "zh-Hant": "鹤庆县",
+            "ja": "Heqing",
+            "ko": "Heqing"
+          },
+          "summary": {
+            "zh-Hans": "鹤庆县隶属大理白族自治州，海拔约2200米。",
+            "en": "Heqing is in Dali, about 2200 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "533100",
+      "slug": "dehong",
+      "level": "city",
+      "lat": 24.4367,
+      "lng": 98.5784,
+      "altitude_m": 920,
+      "is_featured": false,
+      "climate_type": "subtropical_monsoon",
+      "cost_of_living_index": 46,
+      "migration_friendliness": 6.6,
+      "best_months": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "names": {
+        "zh-Hans": "德宏傣族景颇族自治州",
+        "en": "Dehong",
+        "zh-Hant": "德宏傣族景颇族自治州",
+        "ja": "Dehong",
+        "ko": "Dehong"
+      },
+      "summary": {
+        "zh-Hans": "德宏傣族景颇族自治州是云南重要地区，海拔约920米。",
+        "en": "Dehong is a key prefecture-level area in Yunnan at about 920 m elevation."
+      },
+      "food_blurb": "傣味、景颇菜",
+      "scenery_blurb": "瑞丽口岸、莫里热带雨林",
+      "migration_blurb": "边境贸易活跃，冬季温暖。",
+      "counties": [
+        {
+          "code": "533102",
+          "slug": "dehong-ruili",
+          "level": "county",
+          "lat": 24.0107,
+          "lng": 97.8559,
+          "altitude_m": 780,
+          "names": {
+            "zh-Hans": "瑞丽市",
+            "en": "Ruili",
+            "zh-Hant": "瑞丽市",
+            "ja": "Ruili",
+            "ko": "Ruili"
+          },
+          "summary": {
+            "zh-Hans": "瑞丽市隶属德宏傣族景颇族自治州，海拔约780米。",
+            "en": "Ruili is in Dehong, about 780 m elevation."
+          }
+        },
+        {
+          "code": "533103",
+          "slug": "dehong-mangshi",
+          "level": "county",
+          "lat": 24.4337,
+          "lng": 98.5886,
+          "altitude_m": 920,
+          "names": {
+            "zh-Hans": "芒市",
+            "en": "Mangshi",
+            "zh-Hant": "芒市",
+            "ja": "Mangshi",
+            "ko": "Mangshi"
+          },
+          "summary": {
+            "zh-Hans": "芒市隶属德宏傣族景颇族自治州，海拔约920米。",
+            "en": "Mangshi is in Dehong, about 920 m elevation."
+          }
+        },
+        {
+          "code": "533122",
+          "slug": "dehong-lianghe",
+          "level": "county",
+          "lat": 24.8076,
+          "lng": 98.2967,
+          "altitude_m": 1100,
+          "names": {
+            "zh-Hans": "梁河县",
+            "en": "Lianghe",
+            "zh-Hant": "梁河县",
+            "ja": "Lianghe",
+            "ko": "Lianghe"
+          },
+          "summary": {
+            "zh-Hans": "梁河县隶属德宏傣族景颇族自治州，海拔约1100米。",
+            "en": "Lianghe is in Dehong, about 1100 m elevation."
+          }
+        },
+        {
+          "code": "533123",
+          "slug": "dehong-yingjiang",
+          "level": "county",
+          "lat": 24.7123,
+          "lng": 97.9339,
+          "altitude_m": 830,
+          "names": {
+            "zh-Hans": "盈江县",
+            "en": "Yingjiang",
+            "zh-Hant": "盈江县",
+            "ja": "Yingjiang",
+            "ko": "Yingjiang"
+          },
+          "summary": {
+            "zh-Hans": "盈江县隶属德宏傣族景颇族自治州，海拔约830米。",
+            "en": "Yingjiang is in Dehong, about 830 m elevation."
+          }
+        },
+        {
+          "code": "533124",
+          "slug": "dehong-longchuan",
+          "level": "county",
+          "lat": 24.183,
+          "lng": 97.792,
+          "altitude_m": 970,
+          "names": {
+            "zh-Hans": "陇川县",
+            "en": "Longchuan",
+            "zh-Hant": "陇川县",
+            "ja": "Longchuan",
+            "ko": "Longchuan"
+          },
+          "summary": {
+            "zh-Hans": "陇川县隶属德宏傣族景颇族自治州，海拔约970米。",
+            "en": "Longchuan is in Dehong, about 970 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "533300",
+      "slug": "nujiang",
+      "level": "city",
+      "lat": 25.8176,
+      "lng": 98.8566,
+      "altitude_m": 1170,
+      "is_featured": false,
+      "climate_type": "mountain_valley",
+      "cost_of_living_index": 38,
+      "migration_friendliness": 5.5,
+      "best_months": [
+        10,
+        11,
+        3,
+        4
+      ],
+      "names": {
+        "zh-Hans": "怒江傈僳族自治州",
+        "en": "Nujiang",
+        "zh-Hant": "怒江傈僳族自治州",
+        "ja": "Nujiang",
+        "ko": "Nujiang"
+      },
+      "summary": {
+        "zh-Hans": "怒江傈僳族自治州是云南重要地区，海拔约1170米。",
+        "en": "Nujiang is a key prefecture-level area in Yunnan at about 1170 m elevation."
+      },
+      "food_blurb": "峡谷山货、漆油鸡",
+      "scenery_blurb": "怒江大峡谷、丙中洛",
+      "migration_blurb": "高山峡谷，基础设施有限，适合深度旅行。",
+      "counties": [
+        {
+          "code": "533301",
+          "slug": "nujiang-lushui",
+          "level": "county",
+          "lat": 25.851,
+          "lng": 98.8577,
+          "altitude_m": 1170,
+          "names": {
+            "zh-Hans": "泸水市",
+            "en": "Lushui",
+            "zh-Hant": "泸水市",
+            "ja": "Lushui",
+            "ko": "Lushui"
+          },
+          "summary": {
+            "zh-Hans": "泸水市隶属怒江傈僳族自治州，海拔约1170米。",
+            "en": "Lushui is in Nujiang, about 1170 m elevation."
+          }
+        },
+        {
+          "code": "533323",
+          "slug": "nujiang-fugong",
+          "level": "county",
+          "lat": 26.9011,
+          "lng": 98.8691,
+          "altitude_m": 1190,
+          "names": {
+            "zh-Hans": "福贡县",
+            "en": "Fugong",
+            "zh-Hant": "福贡县",
+            "ja": "Fugong",
+            "ko": "Fugong"
+          },
+          "summary": {
+            "zh-Hans": "福贡县隶属怒江傈僳族自治州，海拔约1190米。",
+            "en": "Fugong is in Nujiang, about 1190 m elevation."
+          }
+        },
+        {
+          "code": "533324",
+          "slug": "nujiang-gongshan",
+          "level": "county",
+          "lat": 27.741,
+          "lng": 98.6661,
+          "altitude_m": 1500,
+          "names": {
+            "zh-Hans": "贡山独龙族怒族自治县",
+            "en": "Gongshan",
+            "zh-Hant": "贡山独龙族怒族自治县",
+            "ja": "Gongshan",
+            "ko": "Gongshan"
+          },
+          "summary": {
+            "zh-Hans": "贡山独龙族怒族自治县隶属怒江傈僳族自治州，海拔约1500米。",
+            "en": "Gongshan is in Nujiang, about 1500 m elevation."
+          }
+        },
+        {
+          "code": "533325",
+          "slug": "nujiang-lanping",
+          "level": "county",
+          "lat": 26.4538,
+          "lng": 99.4167,
+          "altitude_m": 2400,
+          "names": {
+            "zh-Hans": "兰坪白族普米族自治县",
+            "en": "Lanping",
+            "zh-Hant": "兰坪白族普米族自治县",
+            "ja": "Lanping",
+            "ko": "Lanping"
+          },
+          "summary": {
+            "zh-Hans": "兰坪白族普米族自治县隶属怒江傈僳族自治州，海拔约2400米。",
+            "en": "Lanping is in Nujiang, about 2400 m elevation."
+          }
+        }
+      ]
+    },
+    {
+      "code": "533400",
+      "slug": "diqing",
+      "level": "city",
+      "lat": 27.8269,
+      "lng": 99.7065,
+      "altitude_m": 3280,
+      "is_featured": true,
+      "climate_type": "highland_cold",
+      "cost_of_living_index": 50,
+      "migration_friendliness": 6.2,
+      "best_months": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "names": {
+        "zh-Hans": "迪庆藏族自治州",
+        "en": "Diqing",
+        "zh-Hant": "迪庆藏族自治州",
+        "ja": "Diqing",
+        "ko": "Diqing"
+      },
+      "summary": {
+        "zh-Hans": "迪庆藏族自治州是云南重要地区，海拔约3280米。",
+        "en": "Diqing is a key prefecture-level area in Yunnan at about 3280 m elevation."
+      },
+      "food_blurb": "藏餐、牦牛肉、酥油茶",
+      "scenery_blurb": "香格里拉、梅里雪山、普达措",
+      "migration_blurb": "高海拔需适应，旅游季节性强。",
+      "counties": [
+        {
+          "code": "533401",
+          "slug": "diqing-shangri-la",
+          "level": "county",
+          "lat": 27.8258,
+          "lng": 99.706,
+          "altitude_m": 3280,
+          "names": {
+            "zh-Hans": "香格里拉市",
+            "en": "Shangri-La",
+            "zh-Hant": "香格里拉市",
+            "ja": "Shangri-La",
+            "ko": "Shangri-La"
+          },
+          "summary": {
+            "zh-Hans": "香格里拉市隶属迪庆藏族自治州，海拔约3280米。",
+            "en": "Shangri-La is in Diqing, about 3280 m elevation."
+          }
+        },
+        {
+          "code": "533422",
+          "slug": "diqing-deqin",
+          "level": "county",
+          "lat": 28.4832,
+          "lng": 98.9115,
+          "altitude_m": 3400,
+          "names": {
+            "zh-Hans": "德钦县",
+            "en": "Deqin",
+            "zh-Hant": "德钦县",
+            "ja": "Deqin",
+            "ko": "Deqin"
+          },
+          "summary": {
+            "zh-Hans": "德钦县隶属迪庆藏族自治州，海拔约3400米。",
+            "en": "Deqin is in Diqing, about 3400 m elevation."
+          }
+        },
+        {
+          "code": "533423",
+          "slug": "diqing-weixi",
+          "level": "county",
+          "lat": 27.1809,
+          "lng": 99.2864,
+          "altitude_m": 2320,
+          "names": {
+            "zh-Hans": "维西傈僳族自治县",
+            "en": "Weixi",
+            "zh-Hant": "维西傈僳族自治县",
+            "ja": "Weixi",
+            "ko": "Weixi"
+          },
+          "summary": {
+            "zh-Hans": "维西傈僳族自治县隶属迪庆藏族自治州，海拔约2320米。",
+            "en": "Weixi is in Diqing, about 2320 m elevation."
+          }
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-07-12T12:33:23.531Z",
+  "source": "seed-m1-local-fallback"
+}
