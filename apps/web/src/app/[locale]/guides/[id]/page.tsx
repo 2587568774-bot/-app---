@@ -1,8 +1,9 @@
-import Link from 'next/link';
+﻿import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { GuideInquiryForm } from '@/components/guide-inquiry-form';
 import { getGuide } from '@/lib/guides/store';
+import { PLATFORM_COMMISSION_RATE } from '@see-yunnan/shared';
 
 export default async function GuideDetailPage({
   params,
@@ -11,15 +12,18 @@ export default async function GuideDetailPage({
 }) {
   const { locale, id } = await params;
   setRequestLocale(locale);
+  const t = await getTranslations('guides');
+  const tc = await getTranslations('common');
   const guide = getGuide(id);
   if (!guide || guide.status !== 'approved') notFound();
+  const commissionPct = Math.round(PLATFORM_COMMISSION_RATE * 100);
 
   return (
     <div className="grid gap-8 lg:grid-cols-[1.4fr_0.8fr]">
       <div className="space-y-5">
         <p className="text-sm text-ink/50">
           <Link href={`/${locale}/guides`} className="hover:text-plateau">
-            Guides
+            {t('title')}
           </Link>
           <span> / {guide.display_name}</span>
         </p>
@@ -28,18 +32,17 @@ export default async function GuideDetailPage({
         <p className="text-ink/75">{guide.bio}</p>
 
         <div className="grid gap-3 sm:grid-cols-2">
-          <Info label="Experience" value={`${guide.years_experience} years`} />
-          <Info label="Languages" value={guide.languages.join(', ')} />
-          <Info label="Specialties" value={guide.specialties.join(', ') || '—'} />
-          <Info label="Regions" value={guide.service_region_slugs.join(', ') || '—'} />
+          <Info label={t('experience')} value={tc('years', { count: guide.years_experience })} />
+          <Info label={t('languages')} value={guide.languages.join(', ')} />
+          <Info label={t('specialtiesLabel')} value={guide.specialties.join(', ') || '-'} />
+          <Info label={t('regions')} value={guide.service_region_slugs.join(', ') || '-'} />
         </div>
+        <p className="text-xs text-ink/50">{t('commissionHint')} ({commissionPct}%)</p>
       </div>
 
       <div className="space-y-4">
         <GuideInquiryForm guideId={guide.id} regionSlug={guide.service_region_slugs[0]} />
-        <p className="text-xs text-ink/50">
-          Contact email is used for lead routing in Phase 1. Online booking + 15% commission comes in Phase 2.
-        </p>
+        <p className="text-xs text-ink/50">{t('inquiryNote')}</p>
       </div>
     </div>
   );

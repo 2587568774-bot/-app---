@@ -11,6 +11,8 @@ export type CountyRecord = {
   altitude_m: number;
   names: NamedMap;
   summary: NamedMap;
+  cover_url?: string;
+  gallery?: string[];
 };
 
 export type CityRecord = {
@@ -30,6 +32,8 @@ export type CityRecord = {
   food_blurb?: string;
   scenery_blurb?: string;
   migration_blurb?: string;
+  cover_url?: string;
+  gallery?: string[];
   counties: CountyRecord[];
 };
 
@@ -68,4 +72,6 @@ export type PlaceView = {
   parentSlug?: string;
   parentName?: string;
   childCount?: number;
+  cover_url?: string;
+  gallery?: string[];
 };

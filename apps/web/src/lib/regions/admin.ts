@@ -135,6 +135,8 @@ export function saveAdminPlace(
       migration_blurb: String(payload.migration_blurb ?? found.city.migration_blurb ?? ''),
       is_featured: Boolean(payload.is_featured),
       altitude_m: num(payload.altitude_m, found.city.altitude_m) ?? found.city.altitude_m,
+      cover_url: strOrKeep(payload.cover_url, found.city.cover_url),
+      gallery: arrOrKeep(payload.gallery, found.city.gallery),
     };
   } else {
     drafts.counties[slug] = {
@@ -149,6 +151,8 @@ export function saveAdminPlace(
         ...((payload.summary as object) || {}),
       },
       altitude_m: num(payload.altitude_m, found.county.altitude_m) ?? found.county.altitude_m,
+      cover_url: strOrKeep(payload.cover_url, found.county.cover_url),
+      gallery: arrOrKeep(payload.gallery, found.county.gallery),
     };
   }
 
@@ -160,4 +164,16 @@ function num(v: unknown, fallback?: number) {
   if (v === '' || v == null) return fallback;
   const n = Number(v);
   return Number.isFinite(n) ? n : fallback;
+}
+
+function strOrKeep(v: unknown, fallback?: string) {
+  if (v === undefined) return fallback;
+  const s = String(v || '').trim();
+  return s || undefined;
+}
+
+function arrOrKeep(v: unknown, fallback?: string[]) {
+  if (v === undefined) return fallback;
+  if (!Array.isArray(v)) return fallback;
+  return v.map((x) => String(x || '').trim()).filter(Boolean);
 }

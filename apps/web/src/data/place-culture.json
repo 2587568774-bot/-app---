@@ -1,0 +1,1350 @@
+{
+  "generated_at": "2026-07-13T02:39:31.670Z",
+  "note": "Indicative ethnic shares for product UX (not official census). Food/culture images via Unsplash placeholders; replace with licensed field photos later.",
+  "cities": {
+    "kunming": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "过桥米线",
+            "en": "Crossing-the-bridge noodles"
+          },
+          "note": {
+            "zh-Hans": "高汤、薄肉片与时令配菜分层上桌。",
+            "en": "Hot broth, thin meats, and seasonal toppings served tableside."
+          },
+          "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "汽锅鸡",
+            "en": "Steam-pot chicken"
+          },
+          "note": {
+            "zh-Hans": "汽锅慢炖，汤清肉香。",
+            "en": "Slow steam-pot chicken with clear aromatic broth."
+          },
+          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "宜良烤鸭",
+            "en": "Yiliang roast duck"
+          },
+          "note": {
+            "zh-Hans": "皮脆肉嫩，宜良本地招牌。",
+            "en": "Crisp-skinned roast duck, a Yiliang classic."
+          },
+          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 86%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 4%"
+        },
+        {
+          "name": {
+            "zh-Hans": "回族",
+            "en": "Hui"
+          },
+          "share": "约 3%"
+        },
+        {
+          "name": {
+            "zh-Hans": "白族",
+            "en": "Bai"
+          },
+          "share": "约 2%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others"
+          },
+          "share": "约 5%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "省会城市汉族比例更高，彝族、回族等少数民族社区活跃，花市与大学城是重要人文场景。",
+        "en": "As the capital, Kunming is Han-majority with active Yi and Hui communities; flower markets and campuses shape daily culture."
+      }
+    },
+    "dali": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "乳扇",
+            "en": "Rushan cheese"
+          },
+          "note": {
+            "zh-Hans": "白族奶制品，烤制或生食皆可。",
+            "en": "Bai dairy snack, grilled or fresh."
+          },
+          "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "酸辣鱼",
+            "en": "Sour-spicy Erhai fish"
+          },
+          "note": {
+            "zh-Hans": "洱海风味，酸辣开胃。",
+            "en": "Erhai-style fish with bright sour heat."
+          },
+          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "白族三道茶",
+            "en": "Bai three-course tea"
+          },
+          "note": {
+            "zh-Hans": "一苦二甜三回味。",
+            "en": "Bitter, sweet, then lingering aftertaste."
+          },
+          "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "白族",
+            "en": "Bai"
+          },
+          "share": "约 33%"
+        },
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 50%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 10%"
+        },
+        {
+          "name": {
+            "zh-Hans": "回族",
+            "en": "Hui"
+          },
+          "share": "约 3%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others"
+          },
+          "share": "约 4%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "白族文化是大理名片：本主信仰、扎染、甲马与绕三灵。古镇外的村落更具生活质感。",
+        "en": "Bai culture defines Dali: Benzhu beliefs, tie-dye, and village festivals. Life outside the old town feels more grounded."
+      }
+    },
+    "lijiang": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "丽江粑粑",
+            "en": "Lijiang baba flatbread"
+          },
+          "note": {
+            "zh-Hans": "外脆内软，街头常见。",
+            "en": "Crisp outside, soft inside — a street staple."
+          },
+          "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "腊排骨火锅",
+            "en": "Cured rib hotpot"
+          },
+          "note": {
+            "zh-Hans": "纳西风味，高海拔暖身。",
+            "en": "Naxi-style cured ribs for high-altitude evenings."
+          },
+          "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "鸡豆凉粉",
+            "en": "Chickpea jelly"
+          },
+          "note": {
+            "zh-Hans": "清爽解腻的本地小吃。",
+            "en": "Cool chickpea jelly snack."
+          },
+          "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1483921020237-2ff51e8e4b22?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "纳西族",
+            "en": "Naxi"
+          },
+          "share": "约 20%"
+        },
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 55%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 12%"
+        },
+        {
+          "name": {
+            "zh-Hans": "傈僳族",
+            "en": "Lisu"
+          },
+          "share": "约 5%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others (Pumi, etc.)"
+          },
+          "share": "约 8%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "纳西东巴文化、古城水系与雪山信仰交织；古城热闹，乡村更安静真实。",
+        "en": "Naxi Dongba culture, water lanes, and snow-mountain belief intertwine. Old town is theatrical; countryside is quieter."
+      }
+    },
+    "xishuangbanna": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "傣味烧烤",
+            "en": "Dai-style BBQ"
+          },
+          "note": {
+            "zh-Hans": "香茅、辣酱与热带香料。",
+            "en": "Lemongrass, chili, and tropical spices."
+          },
+          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "菠萝饭",
+            "en": "Pineapple rice"
+          },
+          "note": {
+            "zh-Hans": "酸甜果香配糯米。",
+            "en": "Sweet-tart pineapple with sticky rice."
+          },
+          "image": "https://images.unsplash.com/photo-1516684669134-de6f7c473a2a?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "舂鸡脚",
+            "en": "Pounded chicken feet"
+          },
+          "note": {
+            "zh-Hans": "傣族风味，酸辣开胃。",
+            "en": "Dai pounded chicken feet, sour and spicy."
+          },
+          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "傣族",
+            "en": "Dai"
+          },
+          "share": "约 30%"
+        },
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 30%"
+        },
+        {
+          "name": {
+            "zh-Hans": "哈尼族",
+            "en": "Hani"
+          },
+          "share": "约 19%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 5%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others (Lahu, Bulang, Jinuo…)"
+          },
+          "share": "约 16%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "南传佛教、泼水节与热带村寨构成西双版纳人文主线，多民族杂居明显。",
+        "en": "Theravada Buddhism, Water-Splashing Festival, and tropical villages shape Banna’s multi-ethnic life."
+      }
+    },
+    "diqing": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "酥油茶",
+            "en": "Butter tea"
+          },
+          "note": {
+            "zh-Hans": "高原日常饮品，暖胃。",
+            "en": "Daily highland drink for warmth."
+          },
+          "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "牦牛肉",
+            "en": "Yak meat dishes"
+          },
+          "note": {
+            "zh-Hans": "炖煮或风干，藏餐核心。",
+            "en": "Stewed or dried — a Tibetan staple."
+          },
+          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "糌粑",
+            "en": "Tsampa"
+          },
+          "note": {
+            "zh-Hans": "青稞炒面，方便便携。",
+            "en": "Roasted barley flour, portable energy."
+          },
+          "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1483921020237-2ff51e8e4b22?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "藏族",
+            "en": "Tibetan"
+          },
+          "share": "约 33%"
+        },
+        {
+          "name": {
+            "zh-Hans": "傈僳族",
+            "en": "Lisu"
+          },
+          "share": "约 15%"
+        },
+        {
+          "name": {
+            "zh-Hans": "纳西族",
+            "en": "Naxi"
+          },
+          "share": "约 12%"
+        },
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 25%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others"
+          },
+          "share": "约 15%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "迪庆以藏文化为主，同时有傈僳、纳西等多民族共居，寺院与牧场是人文核心。",
+        "en": "Diqing is Tibetan-led with Lisu and Naxi communities; monasteries and pastures anchor daily culture."
+      }
+    },
+    "honghe": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "建水烧烤",
+            "en": "Jianshui BBQ"
+          },
+          "note": {
+            "zh-Hans": "豆腐、肉串与夜市烟火。",
+            "en": "Tofu, skewers, and night-market heat."
+          },
+          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "过桥米线",
+            "en": "Crossing-the-bridge noodles"
+          },
+          "note": {
+            "zh-Hans": "红河也是米线重镇。",
+            "en": "Honghe is also a noodles stronghold."
+          },
+          "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "开远小卷粉",
+            "en": "Kaiyuan rolled noodles"
+          },
+          "note": {
+            "zh-Hans": "酸辣清爽，本地早餐。",
+            "en": "Sour-spicy local breakfast rolls."
+          },
+          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 24%"
+        },
+        {
+          "name": {
+            "zh-Hans": "哈尼族",
+            "en": "Hani"
+          },
+          "share": "约 17%"
+        },
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 40%"
+        },
+        {
+          "name": {
+            "zh-Hans": "苗族",
+            "en": "Miao"
+          },
+          "share": "约 6%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others (Dai, Yao, Zhuang…)"
+          },
+          "share": "约 13%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "哈尼梯田与彝族村寨是红河人文高地，南部跨境走廊带来多民族交融。",
+        "en": "Hani terraces and Yi villages define Honghe; the southern border corridor adds multi-ethnic exchange."
+      }
+    },
+    "chuxiong": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "彝族菜",
+            "en": "Yi cuisine"
+          },
+          "note": {
+            "zh-Hans": "山货、腊肉与火塘味道。",
+            "en": "Mountain produce, cured meats, hearth flavors."
+          },
+          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "野生菌",
+            "en": "Wild mushrooms"
+          },
+          "note": {
+            "zh-Hans": "雨季山珍，火锅或炒制。",
+            "en": "Rainy-season mushrooms in hotpot or stir-fry."
+          },
+          "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "羊汤锅",
+            "en": "Mutton broth pot"
+          },
+          "note": {
+            "zh-Hans": "彝区常见暖身菜。",
+            "en": "Common warming dish in Yi areas."
+          },
+          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 30%"
+        },
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 60%"
+        },
+        {
+          "name": {
+            "zh-Hans": "苗族",
+            "en": "Miao"
+          },
+          "share": "约 3%"
+        },
+        {
+          "name": {
+            "zh-Hans": "回族",
+            "en": "Hui"
+          },
+          "share": "约 2%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others"
+          },
+          "share": "约 5%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "楚雄是彝族自治州，火把节、十月年与毕摩文化是重要标识。",
+        "en": "Chuxiong is a Yi autonomous prefecture; Torch Festival and Bimo heritage are key markers."
+      }
+    },
+    "dehong": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "傣味",
+            "en": "Dai flavors"
+          },
+          "note": {
+            "zh-Hans": "酸、香、辣与热带蔬菜。",
+            "en": "Sour, fragrant, spicy tropical vegetables."
+          },
+          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "景颇菜",
+            "en": "Jingpo cuisine"
+          },
+          "note": {
+            "zh-Hans": "山野菜与舂制调味。",
+            "en": "Mountain greens and pounded seasonings."
+          },
+          "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "手抓饭",
+            "en": "Hand-grabbed rice"
+          },
+          "note": {
+            "zh-Hans": "节庆与家宴常见。",
+            "en": "Common at festivals and family tables."
+          },
+          "image": "https://images.unsplash.com/photo-1516684669134-de6f7c473a2a?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "傣族",
+            "en": "Dai"
+          },
+          "share": "约 28%"
+        },
+        {
+          "name": {
+            "zh-Hans": "景颇族",
+            "en": "Jingpo"
+          },
+          "share": "约 12%"
+        },
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 45%"
+        },
+        {
+          "name": {
+            "zh-Hans": "阿昌族",
+            "en": "Achang"
+          },
+          "share": "约 3%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others (Lisu, De’ang…)"
+          },
+          "share": "约 12%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "德宏边境口岸与南传佛教寺院并存，傣、景颇文化鲜明。",
+        "en": "Border trade and Theravada temples coexist; Dai and Jingpo cultures are distinctive."
+      }
+    },
+    "nujiang": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "漆油鸡",
+            "en": "Lacquer-oil chicken"
+          },
+          "note": {
+            "zh-Hans": "峡谷特色，浓香暖身。",
+            "en": "Canyon specialty, rich and warming."
+          },
+          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "峡谷山货",
+            "en": "Canyon mountain produce"
+          },
+          "note": {
+            "zh-Hans": "菌类、野菜与河鱼。",
+            "en": "Mushrooms, wild greens, river fish."
+          },
+          "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "包谷酒",
+            "en": "Corn liquor"
+          },
+          "note": {
+            "zh-Hans": "山民待客常见。",
+            "en": "Common hospitality spirit."
+          },
+          "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "傈僳族",
+            "en": "Lisu"
+          },
+          "share": "约 50%"
+        },
+        {
+          "name": {
+            "zh-Hans": "怒族",
+            "en": "Nu"
+          },
+          "share": "约 10%"
+        },
+        {
+          "name": {
+            "zh-Hans": "独龙族",
+            "en": "Dulong"
+          },
+          "share": "约 2%"
+        },
+        {
+          "name": {
+            "zh-Hans": "白族",
+            "en": "Bai"
+          },
+          "share": "约 10%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others (Pumi, Han…)"
+          },
+          "share": "约 28%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "怒江峡谷是傈僳、怒、独龙等民族家园，刀杆节与峡谷聚落极具辨识度。",
+        "en": "The Nujiang canyon is home to Lisu, Nu, and Dulong peoples; cliff villages and festivals stand out."
+      }
+    },
+    "wenshan": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "酸汤鸡",
+            "en": "Sour soup chicken"
+          },
+          "note": {
+            "zh-Hans": "酸香开胃，本地家常。",
+            "en": "Bright sour soup chicken, everyday local food."
+          },
+          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "三七鸡",
+            "en": "Notoginseng chicken"
+          },
+          "note": {
+            "zh-Hans": "文山特产入汤。",
+            "en": "Local notoginseng cooked into soup."
+          },
+          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "壮族五色饭",
+            "en": "Zhuang five-color rice"
+          },
+          "note": {
+            "zh-Hans": "节庆五色糯米。",
+            "en": "Festival five-color sticky rice."
+          },
+          "image": "https://images.unsplash.com/photo-1516684669134-de6f7c473a2a?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "壮族",
+            "en": "Zhuang"
+          },
+          "share": "约 30%"
+        },
+        {
+          "name": {
+            "zh-Hans": "苗族",
+            "en": "Miao"
+          },
+          "share": "约 14%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 11%"
+        },
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 40%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others (Yao…)"
+          },
+          "share": "约 5%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "文山壮苗文化浓厚，三七产业与边境集市构成日常生活。",
+        "en": "Zhuang and Miao cultures are strong; notoginseng farming and border markets shape daily life."
+      }
+    },
+    "puer": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "普洱茶",
+            "en": "Pu’er tea"
+          },
+          "note": {
+            "zh-Hans": "晒青与陈化，茶马古道遗产。",
+            "en": "Sun-dried and aged — Tea Horse Road legacy."
+          },
+          "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "牛干巴",
+            "en": "Dried beef"
+          },
+          "note": {
+            "zh-Hans": "滇南风味零食/下酒菜。",
+            "en": "Southern Yunnan dried beef snack."
+          },
+          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "哈尼菜",
+            "en": "Hani home cooking"
+          },
+          "note": {
+            "zh-Hans": "山野菜与酸辣搭配。",
+            "en": "Mountain greens with sour-spicy notes."
+          },
+          "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "哈尼族",
+            "en": "Hani"
+          },
+          "share": "约 18%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 17%"
+        },
+        {
+          "name": {
+            "zh-Hans": "傣族",
+            "en": "Dai"
+          },
+          "share": "约 12%"
+        },
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 40%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others (Lahu, Wa…)"
+          },
+          "share": "约 13%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "普洱茶山与多民族村寨共生，哈尼、彝、傣文化交织明显。",
+        "en": "Tea mountains and multi-ethnic villages coexist; Hani, Yi, and Dai cultures intertwine."
+      }
+    },
+    "lincang": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "滇红茶",
+            "en": "Dianhong black tea"
+          },
+          "note": {
+            "zh-Hans": "凤庆等地红茶闻名。",
+            "en": "Famous black tea from Fengqing area."
+          },
+          "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "坚果",
+            "en": "Nuts & dried fruit"
+          },
+          "note": {
+            "zh-Hans": "核桃等山货丰富。",
+            "en": "Walnuts and mountain produce."
+          },
+          "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "佤族菜",
+            "en": "Wa cuisine"
+          },
+          "note": {
+            "zh-Hans": "酸辣鲜明，山野风味。",
+            "en": "Bold sour-spicy mountain flavors."
+          },
+          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "傣族",
+            "en": "Dai"
+          },
+          "share": "约 12%"
+        },
+        {
+          "name": {
+            "zh-Hans": "佤族",
+            "en": "Wa"
+          },
+          "share": "约 10%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 10%"
+        },
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 55%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others (Lahu, Bulang…)"
+          },
+          "share": "约 13%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "临沧多民族聚居，佤族、傣族节庆与茶山生活是人文看点。",
+        "en": "Lincang is multi-ethnic; Wa and Dai festivals plus tea-mountain life are key draws."
+      }
+    },
+    "baoshan": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "腾冲大救驾",
+            "en": "Tengchong “Dajiujia”"
+          },
+          "note": {
+            "zh-Hans": "炒饵块，传说与早午餐经典。",
+            "en": "Stir-fried rice cakes — a legendary breakfast/lunch classic."
+          },
+          "image": "https://images.unsplash.com/photo-1516684669134-de6f7c473a2a?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "蒲缥甜梨",
+            "en": "Pupiao pears"
+          },
+          "note": {
+            "zh-Hans": "当季水果清甜。",
+            "en": "Seasonal sweet pears."
+          },
+          "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "腾冲饵丝",
+            "en": "Tengchong rice noodles"
+          },
+          "note": {
+            "zh-Hans": "清汤或浇头，日常主食。",
+            "en": "Clear broth or topped noodles for everyday meals."
+          },
+          "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 88%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 4%"
+        },
+        {
+          "name": {
+            "zh-Hans": "傣族",
+            "en": "Dai"
+          },
+          "share": "约 3%"
+        },
+        {
+          "name": {
+            "zh-Hans": "白族",
+            "en": "Bai"
+          },
+          "share": "约 2%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others (Lisu…)"
+          },
+          "share": "约 3%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "保山以汉族为主，腾冲侨乡与和顺古镇保留浓厚边贸人文。",
+        "en": "Baoshan is Han-majority; Tengchong’s overseas-Chinese heritage and Heshun old town remain strong."
+      }
+    },
+    "yuxi": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "抚仙湖铜锅鱼",
+            "en": "Fuxian copper-pot fish"
+          },
+          "note": {
+            "zh-Hans": "湖鲜鲜甜，铜锅慢煮。",
+            "en": "Fresh lake fish slow-cooked in copper pot."
+          },
+          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "澄江藕粉",
+            "en": "Chengjiang lotus root starch"
+          },
+          "note": {
+            "zh-Hans": "清甜小吃，送礼常见。",
+            "en": "Sweet lotus starch snack, popular gift."
+          },
+          "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "豆末糖",
+            "en": "Bean-flour candy"
+          },
+          "note": {
+            "zh-Hans": "本地传统甜食。",
+            "en": "Local traditional sweet."
+          },
+          "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 68%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 20%"
+        },
+        {
+          "name": {
+            "zh-Hans": "哈尼族",
+            "en": "Hani"
+          },
+          "share": "约 5%"
+        },
+        {
+          "name": {
+            "zh-Hans": "傣族",
+            "en": "Dai"
+          },
+          "share": "约 3%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others"
+          },
+          "share": "约 4%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "玉溪环湖生活与彝族村寨并存，抚仙湖周边形成休闲人文带。",
+        "en": "Lake living and Yi villages coexist; Fuxian Lake forms a leisure culture belt."
+      }
+    },
+    "qujing": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "宣威火腿",
+            "en": "Xuanwei ham"
+          },
+          "note": {
+            "zh-Hans": "云南火腿代表产地。",
+            "en": "Signature Yunnan ham origin."
+          },
+          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "沾益辣子鸡",
+            "en": "Zhanyi chili chicken"
+          },
+          "note": {
+            "zh-Hans": "麻辣干香，下饭神器。",
+            "en": "Dry-spicy chili chicken, perfect with rice."
+          },
+          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "蒸饵丝",
+            "en": "Steamed rice noodles"
+          },
+          "note": {
+            "zh-Hans": "曲靖早餐经典。",
+            "en": "Classic Qujing breakfast noodles."
+          },
+          "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 92%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 3%"
+        },
+        {
+          "name": {
+            "zh-Hans": "回族",
+            "en": "Hui"
+          },
+          "share": "约 2%"
+        },
+        {
+          "name": {
+            "zh-Hans": "苗族",
+            "en": "Miao"
+          },
+          "share": "约 1%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others"
+          },
+          "share": "约 2%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "曲靖以汉族为主，是滇东交通与商贸节点，乡土集市文化浓。",
+        "en": "Qujing is largely Han and a key eastern trade hub with strong market-town culture."
+      }
+    },
+    "zhaotong": {
+      "foodItems": [
+        {
+          "name": {
+            "zh-Hans": "天麻炖鸡",
+            "en": "Gastrodia chicken soup"
+          },
+          "note": {
+            "zh-Hans": "昭通特产入药膳。",
+            "en": "Local gastrodia in medicinal chicken soup."
+          },
+          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "昭通苹果",
+            "en": "Zhaotong apples"
+          },
+          "note": {
+            "zh-Hans": "高海拔果品清甜。",
+            "en": "High-altitude sweet apples."
+          },
+          "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=1200&q=80"
+        },
+        {
+          "name": {
+            "zh-Hans": "酱肉",
+            "en": "Sauce-cured meat"
+          },
+          "note": {
+            "zh-Hans": "家常下饭，烟火气足。",
+            "en": "Home-style cured meat with deep flavor."
+          },
+          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+        }
+      ],
+      "cultureImages": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "ethnicGroups": [
+        {
+          "name": {
+            "zh-Hans": "汉族",
+            "en": "Han"
+          },
+          "share": "约 88%"
+        },
+        {
+          "name": {
+            "zh-Hans": "苗族",
+            "en": "Miao"
+          },
+          "share": "约 4%"
+        },
+        {
+          "name": {
+            "zh-Hans": "彝族",
+            "en": "Yi"
+          },
+          "share": "约 4%"
+        },
+        {
+          "name": {
+            "zh-Hans": "回族",
+            "en": "Hui"
+          },
+          "share": "约 2%"
+        },
+        {
+          "name": {
+            "zh-Hans": "其他",
+            "en": "Others"
+          },
+          "share": "约 2%"
+        }
+      ],
+      "ethnicNote": {
+        "zh-Hans": "昭通地处滇东北，苗族、彝族村寨与乌蒙山区生活交织。",
+        "en": "In northeast Yunnan, Miao and Yi villages intertwine with Wumeng mountain life."
+      }
+    }
+  }
+}

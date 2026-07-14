@@ -3,11 +3,19 @@
 @tailwind utilities;
 
 :root {
-  --background: #f7f4ef;
+  --background: #f4f0e8;
   --foreground: #1a1a1a;
 }
 
 body {
   color: var(--foreground);
-  background: var(--background);
+  background:
+    radial-gradient(circle at top left, rgba(31, 111, 139, 0.08), transparent 28%),
+    radial-gradient(circle at top right, rgba(196, 92, 38, 0.08), transparent 24%),
+    var(--background);
+  min-height: 100vh;
+}
+
+::selection {
+  background: rgba(31, 111, 139, 0.18);
 }

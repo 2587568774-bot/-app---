@@ -1,0 +1,262 @@
+{
+  "generated_at": "2026-07-13T12:09:31.338Z",
+  "note": "16-city promo pack for See Yunnan. Local images in /uploads/promo/{slug}/. Tourism/government site mirrors preferred; open scenic fills used where sites block scraping. Admin upload overrides this pack.",
+  "source": "tourism-sites+local-promo",
+  "cities": {
+    "kunming": {
+      "cover": "/uploads/promo/kunming/img-03.jpg",
+      "gallery": [
+        "/uploads/promo/kunming/img-03.jpg",
+        "/uploads/promo/kunming/img-02.jpg",
+        "/uploads/promo/kunming/img-01.jpg",
+        "/uploads/promo/kunming/img-04.jpg",
+        "/uploads/promo/kunming/img-05.jpg"
+      ],
+      "credit": "昆明市文化和旅游局 promo pack",
+      "tourism_site": "https://whhlyj.km.gov.cn/",
+      "tourism_site_name": "昆明市文化和旅游局",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 昆明市文化和旅游局 (https://whhlyj.km.gov.cn/) via admin upload"
+    },
+    "qujing": {
+      "cover": "/uploads/promo/qujing/boost-02.jpg",
+      "gallery": [
+        "/uploads/promo/qujing/boost-02.jpg",
+        "/uploads/promo/qujing/boost-01.jpg",
+        "/uploads/promo/qujing/img-05.png",
+        "/uploads/promo/qujing/grab-mrj69qqk-15.png",
+        "/uploads/promo/qujing/grab-mrj69quu-16.jpg",
+        "/uploads/promo/qujing/grab-mrj69qgv-13.png"
+      ],
+      "credit": "曲靖市人民政府门户网 promo pack",
+      "tourism_site": "https://www.qj.gov.cn/",
+      "tourism_site_name": "曲靖市人民政府门户网",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 曲靖市人民政府门户网 (https://www.qj.gov.cn/) via admin upload"
+    },
+    "yuxi": {
+      "cover": "/uploads/promo/yuxi/grab-mrj6h2yq-12.jpg",
+      "gallery": [
+        "/uploads/promo/yuxi/grab-mrj6h2yq-12.jpg",
+        "/uploads/promo/yuxi/img-08.jpg",
+        "/uploads/promo/yuxi/img-11.jpg",
+        "/uploads/promo/yuxi/img-10.jpg",
+        "/uploads/promo/yuxi/img-09.jpg",
+        "/uploads/promo/yuxi/img-03.jpg"
+      ],
+      "credit": "玉溪市人民政府 promo pack",
+      "tourism_site": "https://www.yuxi.gov.cn/",
+      "tourism_site_name": "玉溪市人民政府",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 玉溪市人民政府 (https://www.yuxi.gov.cn/) via admin upload"
+    },
+    "baoshan": {
+      "cover": "/uploads/promo/baoshan/boost-01.jpg",
+      "gallery": [
+        "/uploads/promo/baoshan/boost-01.jpg",
+        "/uploads/promo/baoshan/boost-02.jpg",
+        "/uploads/promo/baoshan/boost-03.jpg",
+        "/uploads/promo/baoshan/img-06.png",
+        "/uploads/promo/baoshan/img-08.png",
+        "/uploads/promo/baoshan/img-07.jpg"
+      ],
+      "credit": "保山市人民政府门户网站 promo pack",
+      "tourism_site": "https://www.baoshan.gov.cn/",
+      "tourism_site_name": "保山市人民政府门户网站",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 保山市人民政府门户网站 (https://www.baoshan.gov.cn/) via admin upload"
+    },
+    "zhaotong": {
+      "cover": "/uploads/promo/zhaotong/fill-06.jpg",
+      "gallery": [
+        "/uploads/promo/zhaotong/fill-06.jpg",
+        "/uploads/promo/zhaotong/fill-05.jpg",
+        "/uploads/promo/zhaotong/fill-04.jpg",
+        "/uploads/promo/zhaotong/img-02.jpg",
+        "/uploads/promo/zhaotong/fill-03.jpg",
+        "/uploads/promo/zhaotong/img-01.jpg"
+      ],
+      "credit": "昭通市人民政府门户网站 promo pack",
+      "tourism_site": "https://www.zt.gov.cn/",
+      "tourism_site_name": "昭通市人民政府门户网站",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 昭通市人民政府门户网站 (https://www.zt.gov.cn/) via admin upload"
+    },
+    "lijiang": {
+      "cover": "/uploads/promo/lijiang/img-01.jpg",
+      "gallery": [
+        "/uploads/promo/lijiang/img-01.jpg",
+        "/uploads/promo/lijiang/fill-05.jpg",
+        "/uploads/promo/lijiang/fill-03.jpg",
+        "/uploads/promo/lijiang/img-04.jpg",
+        "/uploads/promo/lijiang/fill-04.jpg",
+        "/uploads/promo/lijiang/fill-06.jpg"
+      ],
+      "credit": "丽江网 promo pack",
+      "tourism_site": "https://www.lijiang.cn/",
+      "tourism_site_name": "丽江网",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 丽江网 (https://www.lijiang.cn/) via admin upload"
+    },
+    "puer": {
+      "cover": "/uploads/promo/puer/grab-mrj6fv7p-12.png",
+      "gallery": [
+        "/uploads/promo/puer/grab-mrj6fv7p-12.png",
+        "/uploads/promo/puer/grab-mrj6fv24-11.png",
+        "/uploads/promo/puer/grab-mrj6bhey-11.png",
+        "/uploads/promo/puer/img-06.jpg",
+        "/uploads/promo/puer/img-03.jpg",
+        "/uploads/promo/puer/grab-mrj6bhkm-12.png"
+      ],
+      "credit": "普洱市人民政府 promo pack",
+      "tourism_site": "https://www.puershi.gov.cn/",
+      "tourism_site_name": "普洱市人民政府",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 普洱市人民政府 (https://www.puershi.gov.cn/) via admin upload"
+    },
+    "lincang": {
+      "cover": "/uploads/promo/lincang/fill-03.jpg",
+      "gallery": [
+        "/uploads/promo/lincang/fill-03.jpg",
+        "/uploads/promo/lincang/img-01.jpg",
+        "/uploads/promo/lincang/fill-06.jpg",
+        "/uploads/promo/lincang/fill-05.jpg",
+        "/uploads/promo/lincang/fill-04.jpg",
+        "/uploads/promo/lincang/img-02.jpg"
+      ],
+      "credit": "临沧市人民政府 promo pack",
+      "tourism_site": "https://www.lincang.gov.cn/",
+      "tourism_site_name": "临沧市人民政府",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 临沧市人民政府 (https://www.lincang.gov.cn/) via admin upload"
+    },
+    "chuxiong": {
+      "cover": "/uploads/promo/chuxiong/img-06.png",
+      "gallery": [
+        "/uploads/promo/chuxiong/img-06.png",
+        "/uploads/promo/chuxiong/img-08.png",
+        "/uploads/promo/chuxiong/img-02.png",
+        "/uploads/promo/chuxiong/img-01.jpg",
+        "/uploads/promo/chuxiong/img-07.png",
+        "/uploads/promo/chuxiong/img-03.jpg"
+      ],
+      "credit": "楚雄彝族自治州人民政府 promo pack",
+      "tourism_site": "https://www.cxz.gov.cn/",
+      "tourism_site_name": "楚雄彝族自治州人民政府",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 楚雄彝族自治州人民政府 (https://www.cxz.gov.cn/) via admin upload"
+    },
+    "honghe": {
+      "cover": "/uploads/promo/honghe/fill-06.jpg",
+      "gallery": [
+        "/uploads/promo/honghe/fill-06.jpg",
+        "/uploads/promo/honghe/fill-05.jpg",
+        "/uploads/promo/honghe/fill-03.jpg",
+        "/uploads/promo/honghe/fill-04.jpg",
+        "/uploads/promo/honghe/img-03.png",
+        "/uploads/promo/honghe/img-04.png"
+      ],
+      "credit": "红河哈尼族彝族自治州人民政府 promo pack",
+      "tourism_site": "https://www.hh.gov.cn/",
+      "tourism_site_name": "红河哈尼族彝族自治州人民政府",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 红河哈尼族彝族自治州人民政府 (https://www.hh.gov.cn/) via admin upload"
+    },
+    "wenshan": {
+      "cover": "/uploads/promo/wenshan/fill-04.jpg",
+      "gallery": [
+        "/uploads/promo/wenshan/fill-04.jpg",
+        "/uploads/promo/wenshan/fill-03.jpg",
+        "/uploads/promo/wenshan/fill-05.jpg",
+        "/uploads/promo/wenshan/fill-06.jpg",
+        "/uploads/promo/wenshan/img-07.png",
+        "/uploads/promo/wenshan/img-02.png"
+      ],
+      "credit": "文山壮族苗族自治州人民政府 promo pack",
+      "tourism_site": "https://www.ynws.gov.cn/",
+      "tourism_site_name": "文山壮族苗族自治州人民政府",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 文山壮族苗族自治州人民政府 (https://www.ynws.gov.cn/) via admin upload"
+    },
+    "xishuangbanna": {
+      "cover": "/uploads/promo/xishuangbanna/fill-06.jpg",
+      "gallery": [
+        "/uploads/promo/xishuangbanna/fill-06.jpg",
+        "/uploads/promo/xishuangbanna/fill-04.jpg",
+        "/uploads/promo/xishuangbanna/img-02.jpg",
+        "/uploads/promo/xishuangbanna/fill-05.jpg",
+        "/uploads/promo/xishuangbanna/fill-03.jpg",
+        "/uploads/promo/xishuangbanna/img-01.jpg"
+      ],
+      "credit": "西双版纳傣族自治州人民政府 promo pack",
+      "tourism_site": "https://www.xsbn.gov.cn/",
+      "tourism_site_name": "西双版纳傣族自治州人民政府",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 西双版纳傣族自治州人民政府 (https://www.xsbn.gov.cn/) via admin upload"
+    },
+    "dali": {
+      "cover": "/uploads/promo/dali/grab-mrj6c1c3-04.png",
+      "gallery": [
+        "/uploads/promo/dali/grab-mrj6c1c3-04.png",
+        "/uploads/promo/dali/img-05.jpg",
+        "/uploads/promo/dali/img-09.jpg",
+        "/uploads/promo/dali/img-08.jpg",
+        "/uploads/promo/dali/img-07.jpg",
+        "/uploads/promo/dali/img-06.jpg"
+      ],
+      "credit": "大理旅游网（大理旅游集团） promo pack",
+      "tourism_site": "https://www.dalitravel.cn/",
+      "tourism_site_name": "大理旅游网（大理旅游集团）",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 大理旅游网（大理旅游集团） (https://www.dalitravel.cn/) via admin upload"
+    },
+    "dehong": {
+      "cover": "/uploads/promo/dehong/grab-mrj6gfno-10.png",
+      "gallery": [
+        "/uploads/promo/dehong/grab-mrj6gfno-10.png",
+        "/uploads/promo/dehong/img-04.jpg",
+        "/uploads/promo/dehong/img-02.jpg",
+        "/uploads/promo/dehong/img-01.jpg",
+        "/uploads/promo/dehong/img-03.jpg",
+        "/uploads/promo/dehong/img-05.jpg"
+      ],
+      "credit": "德宏州人民政府门户网站 promo pack",
+      "tourism_site": "https://www.dh.gov.cn/",
+      "tourism_site_name": "德宏州人民政府门户网站",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 德宏州人民政府门户网站 (https://www.dh.gov.cn/) via admin upload"
+    },
+    "nujiang": {
+      "cover": "/uploads/promo/nujiang/img-05.png",
+      "gallery": [
+        "/uploads/promo/nujiang/img-05.png",
+        "/uploads/promo/nujiang/img-03.jpg",
+        "/uploads/promo/nujiang/img-01.jpg",
+        "/uploads/promo/nujiang/grab-mrj6gzkf-09.png",
+        "/uploads/promo/nujiang/grab-mrj6gzsa-11.png",
+        "/uploads/promo/nujiang/img-02.jpg"
+      ],
+      "credit": "怒江傈僳族自治州人民政府 promo pack",
+      "tourism_site": "https://www.nujiang.gov.cn/",
+      "tourism_site_name": "怒江傈僳族自治州人民政府",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 怒江傈僳族自治州人民政府 (https://www.nujiang.gov.cn/) via admin upload"
+    },
+    "diqing": {
+      "cover": "/uploads/promo/diqing/img-05.png",
+      "gallery": [
+        "/uploads/promo/diqing/img-05.png",
+        "/uploads/promo/diqing/img-03.png",
+        "/uploads/promo/diqing/img-04.png",
+        "/uploads/promo/diqing/img-06.jpg",
+        "/uploads/promo/diqing/img-01.png",
+        "/uploads/promo/diqing/img-02.jpg"
+      ],
+      "credit": "迪庆藏族自治州人民政府 promo pack",
+      "tourism_site": "https://www.diqing.gov.cn/",
+      "tourism_site_name": "迪庆藏族自治州人民政府",
+      "source": "local-promo",
+      "replace_with": "Replace with official photos from 迪庆藏族自治州人民政府 (https://www.diqing.gov.cn/) via admin upload"
+    }
+  }
+}

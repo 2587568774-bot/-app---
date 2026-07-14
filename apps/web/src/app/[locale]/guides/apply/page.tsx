@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { GuideApplyForm } from '@/components/guide-apply-form';
 
 export default async function GuideApplyPage({
@@ -9,20 +9,19 @@ export default async function GuideApplyPage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const t = await getTranslations('guides');
 
   return (
     <div className="mx-auto max-w-3xl space-y-6">
       <div>
         <p className="text-sm text-ink/50">
           <Link href={`/${locale}/guides`} className="hover:text-plateau">
-            Guides
+            {t('title')}
           </Link>
-          <span> / Apply</span>
+          <span> / {t('applyBreadcrumb')}</span>
         </p>
-        <h1 className="mt-2 text-3xl font-semibold">Become a local guide</h1>
-        <p className="mt-2 text-ink/65">
-          Open application. After admin approval, your profile appears publicly and can receive inquiries.
-        </p>
+        <h1 className="mt-2 text-3xl font-semibold">{t('applyTitle')}</h1>
+        <p className="mt-2 text-ink/65">{t('applyIntro')}</p>
       </div>
       <GuideApplyForm locale={locale} />
     </div>

@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { useTranslations } from 'next-intl';
 
 type WeatherPayload = {
   temperature?: number;
@@ -10,21 +11,8 @@ type WeatherPayload = {
   error?: string;
 };
 
-const WEATHER_LABELS: Record<number, string> = {
-  0: 'Clear',
-  1: 'Mainly clear',
-  2: 'Partly cloudy',
-  3: 'Overcast',
-  45: 'Fog',
-  48: 'Rime fog',
-  51: 'Light drizzle',
-  61: 'Rain',
-  71: 'Snow',
-  80: 'Rain showers',
-  95: 'Thunderstorm',
-};
-
 export function WeatherStrip({ lat, lng }: { lat: number; lng: number }) {
+  const t = useTranslations('weather');
   const [data, setData] = useState<WeatherPayload | null>(null);
 
   useEffect(() => {
@@ -35,19 +23,19 @@ export function WeatherStrip({ lat, lng }: { lat: number; lng: number }) {
         const json = (await res.json()) as WeatherPayload;
         if (!cancelled) setData(json);
       } catch {
-        if (!cancelled) setData({ error: 'Weather unavailable' });
+        if (!cancelled) setData({ error: t('unavailable') });
       }
     }
     load();
     return () => {
       cancelled = true;
     };
-  }, [lat, lng]);
+  }, [lat, lng, t]);
 
   if (!data) {
     return (
       <div className="rounded-2xl border border-ink/10 bg-white px-4 py-3 text-sm text-ink/60">
-        Loading weather…
+        {t('loading')}
       </div>
     );
   }
@@ -55,21 +43,39 @@ export function WeatherStrip({ lat, lng }: { lat: number; lng: number }) {
   if (data.error) {
     return (
       <div className="rounded-2xl border border-ink/10 bg-white px-4 py-3 text-sm text-ink/60">
-        {data.error}
+        {data.error === 'Weather unavailable' ? t('unavailable') : data.error}
       </div>
     );
   }
 
+  const weatherKeyByCode: Record<number, string> = {
+    0: 'clear',
+    1: 'mainlyClear',
+    2: 'partlyCloudy',
+    3: 'overcast',
+    45: 'fog',
+    48: 'rimeFog',
+    51: 'lightDrizzle',
+    61: 'rain',
+    71: 'snow',
+    80: 'rainShowers',
+    95: 'thunderstorm',
+  };
+
   const label =
-    data.weathercode != null ? WEATHER_LABELS[data.weathercode] || `Code ${data.weathercode}` : '—';
+    data.weathercode != null
+      ? weatherKeyByCode[data.weathercode]
+        ? t(weatherKeyByCode[data.weathercode] as any)
+        : t('code', { code: data.weathercode })
+      : '—';
 
   return (
     <div className="flex flex-wrap items-center gap-4 rounded-2xl border border-plateau/20 bg-plateau/5 px-4 py-3 text-sm">
-      <span className="font-semibold text-plateau">Live weather</span>
+      <span className="font-semibold text-plateau">{t('live')}</span>
       <span>{data.temperature != null ? `${data.temperature}°C` : '—'}</span>
       <span>{label}</span>
       <span className="text-ink/60">
-        Wind {data.windspeed != null ? `${data.windspeed} km/h` : '—'}
+        {data.windspeed != null ? t('wind', { speed: data.windspeed }) : '—'}
       </span>
     </div>
   );

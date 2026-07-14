@@ -1,4 +1,4 @@
-import {
+﻿import {
   cityToView,
   countyToView,
   listCitiesFrom,
@@ -76,6 +76,27 @@ export async function stats() {
 export async function getDataSourceLabel() {
   const data = await resolveDataset();
   return data.source;
+}
+
+/** Full city tree for the schematic map sheet (city + counties). */
+export async function listMapCities(locale: string) {
+  const data = await resolveDataset();
+  return data.cities.map((city) => ({
+    slug: city.slug,
+    name: pickName(city.names, locale),
+    summary: pickName(city.summary, locale),
+    lat: city.lat,
+    lng: city.lng,
+    counties: city.counties
+      .map((county) => ({
+        slug: county.slug,
+        name: pickName(county.names, locale),
+        summary: pickName(county.summary, locale),
+        lat: county.lat,
+        lng: county.lng,
+      }))
+      .sort((a, b) => a.name.localeCompare(b.name, locale)),
+  }));
 }
 
 export { pickName, cityToView, countyToView };

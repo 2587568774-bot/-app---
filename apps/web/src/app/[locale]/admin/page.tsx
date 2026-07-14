@@ -26,40 +26,38 @@ export default async function AdminHomePage({
     <div className="space-y-8">
       <div>
         <h1 className="text-3xl font-semibold">{t('title')}</h1>
-        <p className="mt-2 text-ink/60">
-          Local CMS shell for regions + guides. Supabase role lock / production writes come later.
-        </p>
+        <p className="mt-2 text-ink/60">{t('intro')}</p>
       </div>
 
       <div className="grid gap-4 md:grid-cols-3 xl:grid-cols-6">
-        <Stat label="Cities" value={String(s.cities)} />
-        <Stat label="Counties" value={String(s.counties)} />
-        <Stat label="Low completeness" value={String(low)} />
-        <Stat label="Region drafts" value={String(draftCount)} />
-        <Stat label="Pending guides" value={String(pendingGuides)} />
-        <Stat label="New inquiries" value={String(newInquiries)} />
+        <Stat label={t('cities')} value={String(s.cities)} />
+        <Stat label={t('counties')} value={String(s.counties)} />
+        <Stat label={t('lowCompleteness')} value={String(low)} />
+        <Stat label={t('regionDrafts')} value={String(draftCount)} />
+        <Stat label={t('pendingGuides')} value={String(pendingGuides)} />
+        <Stat label={t('newInquiries')} value={String(newInquiries)} />
       </div>
 
       <div className="grid gap-4 md:grid-cols-3">
         <AdminLink
           href={`/${locale}/admin/regions`}
-          title="Region CMS"
-          desc="Edit place content, track completeness, save local drafts."
+          title={t('regionCms')}
+          desc={t('regionCmsDesc')}
         />
         <AdminLink
           href={`/${locale}/admin/guides`}
-          title="Guide review"
-          desc="Approve or reject open guide applications."
+          title={t('guideReview')}
+          desc={t('guideReviewDesc')}
         />
         <AdminLink
           href={`/${locale}/admin/premium`}
-          title="Premium grants"
-          desc="Manually activate members after personal payment."
+          title={t('premiumGrants')}
+          desc={t('premiumGrantsDesc')}
         />
         <AdminLink
           href={`/${locale}/admin/inquiries`}
-          title="Inquiry inbox"
-          desc="Track traveler leads sent to guides."
+          title={t('inquiryInbox')}
+          desc={t('inquiryInboxDesc')}
         />
       </div>
     </div>

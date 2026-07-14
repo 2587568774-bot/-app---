@@ -1,8 +1,10 @@
-import Link from 'next/link';
+﻿import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { AdminRegionEditor } from '@/components/admin-region-editor';
+import { AdminCultureEditor } from '@/components/admin-culture-editor';
 import { getAdminPlace } from '@/lib/regions/admin';
+import { getMergedCulturePack } from '@/lib/regions/culture-admin';
 
 export default async function AdminRegionEditPage({
   params,
@@ -11,8 +13,12 @@ export default async function AdminRegionEditPage({
 }) {
   const { locale, slug } = await params;
   setRequestLocale(locale);
+  const t = await getTranslations('admin');
   const place = getAdminPlace(slug);
   if (!place) notFound();
+
+  const parentSlug = place.kind === 'county' ? place.city.slug : undefined;
+  const culture = getMergedCulturePack(slug, parentSlug);
 
   const initial =
     place.kind === 'city'
@@ -30,6 +36,8 @@ export default async function AdminRegionEditPage({
           altitude_m: place.city.altitude_m,
           is_featured: place.city.is_featured,
           completeness: place.completeness,
+          cover_url: place.city.cover_url,
+          gallery: place.city.gallery,
         }
       : {
           nameZh: place.county.names['zh-Hans'] || '',
@@ -38,17 +46,19 @@ export default async function AdminRegionEditPage({
           summaryEn: place.county.summary.en || '',
           altitude_m: place.county.altitude_m,
           completeness: place.completeness,
+          cover_url: place.county.cover_url,
+          gallery: place.county.gallery,
         };
 
   return (
     <div className="space-y-6">
       <p className="text-sm text-ink/50">
         <Link href={`/${locale}/admin`} className="hover:text-plateau">
-          Admin
+          {t('title')}
         </Link>
         <span> / </span>
         <Link href={`/${locale}/admin/regions`} className="hover:text-plateau">
-          Regions
+          {t('regions')}
         </Link>
         <span> / {slug}</span>
       </p>
@@ -58,6 +68,7 @@ export default async function AdminRegionEditPage({
         locale={locale}
         initial={initial}
       />
+      <AdminCultureEditor slug={slug} parentSlug={parentSlug} initial={culture} />
     </div>
   );
 }

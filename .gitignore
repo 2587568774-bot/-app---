@@ -39,3 +39,7 @@ push-err.txt
 push-out.txt
 build-log.txt
 
+
+# local debug logs
+dev-*.log
+*.log

@@ -1,4 +1,4 @@
-export type GuideStatus = 'pending' | 'approved' | 'rejected' | 'suspended';
+﻿export type GuideStatus = 'pending' | 'approved' | 'rejected' | 'suspended';
 
 export type Guide = {
   id: string;
@@ -17,6 +17,13 @@ export type Guide = {
   reject_reason?: string | null;
 };
 
+export type GuideApplication = {
+  id: string;
+  guide_id: string;
+  created_at: string;
+  payload: Record<string, unknown>;
+};
+
 export type GuideInquiry = {
   id: string;
   guide_id: string;
@@ -26,13 +33,10 @@ export type GuideInquiry = {
   contact_name?: string;
   status: 'new' | 'contacted' | 'closed';
   created_at: string;
-};
-
-export type GuideApplication = {
-  id: string;
-  guide_id: string;
-  created_at: string;
-  payload: Record<string, unknown>;
+  estimated_budget_usd?: number;
+  platform_commission_rate?: number;
+  platform_fee_usd?: number;
+  guide_net_usd?: number;
 };
 
 export type GuidesStore = {

@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-07-12T00:00:00.000Z",
-  "subscriptions": [],
-  "offline_packs": [],
-  "ads_enabled": true
+  "updated_at": "2026-07-12T15:12:02.014Z",
+  "ads_enabled": true,
+  "subscriptions": [
+    {
+      "id": "sub-demo-founder",
+      "email": "demo@seeyunnan.app",
+      "status": "active",
+      "plan": "monthly",
+      "price_usd": 19.9,
+      "provider": "manual",
+      "current_period_end": "2026-08-12T15:12:02.014Z",
+      "note": "demo grant for local testing",
+      "created_at": "2026-07-12T15:12:02.014Z",
+      "updated_at": "2026-07-12T15:12:02.014Z"
+    }
+  ],
+  "offline_packs": []
 }

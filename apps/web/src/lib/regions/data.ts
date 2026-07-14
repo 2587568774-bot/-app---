@@ -1,5 +1,6 @@
 import dataset from '@/data/yunnan-regions.json';
 import type { CityRecord, CountyRecord, PlaceView, RegionDataset } from './types';
+import { resolvePlaceImages } from './visuals';
 
 const FALLBACK = ['en', 'zh-Hans'] as const;
 
@@ -23,6 +24,11 @@ export function listCitiesFrom(data: RegionDataset, locale: string): PlaceView[]
 }
 
 export function cityToView(city: CityRecord, locale: string): PlaceView {
+  const images = resolvePlaceImages({
+    slug: city.slug,
+    cover_url: city.cover_url,
+    gallery: city.gallery,
+  });
   return {
     code: city.code,
     slug: city.slug,
@@ -41,10 +47,18 @@ export function cityToView(city: CityRecord, locale: string): PlaceView {
     migration_blurb: city.migration_blurb,
     is_featured: city.is_featured,
     childCount: city.counties.length,
+    cover_url: images.cover,
+    gallery: images.gallery,
   };
 }
 
 export function countyToView(city: CityRecord, county: CountyRecord, locale: string): PlaceView {
+  const images = resolvePlaceImages({
+    slug: county.slug,
+    parentSlug: city.slug,
+    cover_url: county.cover_url || city.cover_url,
+    gallery: county.gallery || city.gallery,
+  });
   return {
     code: county.code,
     slug: county.slug,
@@ -65,6 +79,8 @@ export function countyToView(city: CityRecord, county: CountyRecord, locale: str
     migration_blurb: city.migration_blurb,
     parentSlug: city.slug,
     parentName: pickName(city.names, locale),
+    cover_url: images.cover,
+    gallery: images.gallery,
   };
 }
 

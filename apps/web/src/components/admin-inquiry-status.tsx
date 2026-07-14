@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
+import { useTranslations } from 'next-intl';
 
 export function AdminInquiryStatus({
   id,
@@ -10,6 +11,7 @@ export function AdminInquiryStatus({
   id: string;
   status: 'new' | 'contacted' | 'closed';
 }) {
+  const t = useTranslations('admin');
   const router = useRouter();
   const [loading, setLoading] = useState(false);
 
@@ -34,9 +36,9 @@ export function AdminInquiryStatus({
       onChange={(e) => setStatus(e.target.value as 'new' | 'contacted' | 'closed')}
       className="rounded-full border border-ink/15 bg-white px-2 py-1 text-xs"
     >
-      <option value="new">new</option>
-      <option value="contacted">contacted</option>
-      <option value="closed">closed</option>
+      <option value="new">{t('statusNew')}</option>
+      <option value="contacted">{t('statusContacted')}</option>
+      <option value="closed">{t('statusClosed')}</option>
     </select>
   );
 }

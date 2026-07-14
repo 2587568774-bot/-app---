@@ -1,10 +1,18 @@
-import Link from 'next/link';
+﻿import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { PlaceCard } from '@/components/place-card';
 import { AdSlot } from '@/components/ad-slot';
 import { WeatherStrip } from '@/components/weather-strip';
+import { PlaceIntelGrid } from '@/components/place-intel-grid';
+import { MetricChips } from '@/components/metric-chips';
+import { PlaceHero } from '@/components/place-hero';
+import { CulturePanel } from '@/components/culture-panel';
+import { ImageGallery } from '@/components/image-gallery';
+import { GuideCard } from '@/components/guide-card';
 import { getCityBySlug, listCountiesForCity, pickName } from '@/lib/regions/data-server';
+import { listApprovedGuides } from '@/lib/guides/store';
+import { getPlaceVisual, resolvePlaceImages } from '@/lib/regions/visuals';
 
 export default async function CityDetailPage({
   params,
@@ -13,69 +21,89 @@ export default async function CityDetailPage({
 }) {
   const { locale, slug } = await params;
   setRequestLocale(locale);
+  const t = await getTranslations('cities');
+  const tc = await getTranslations('common');
   const city = await getCityBySlug(slug);
   if (!city) notFound();
 
   const name = pickName(city.names, locale);
   const summary = pickName(city.summary, locale);
   const counties = await listCountiesForCity(slug, locale);
+  const guides = listApprovedGuides({ region: slug }).slice(0, 3);
+  const visual = getPlaceVisual(slug);
+  const images = resolvePlaceImages({
+    slug,
+    cover_url: city.cover_url,
+    gallery: city.gallery,
+  });
 
   return (
     <div className="space-y-8">
       <div className="space-y-3">
         <p className="text-sm text-ink/50">
           <Link href={`/${locale}/cities`} className="hover:text-plateau">
-            Cities
+            {t('breadcrumb')}
           </Link>
           <span> / {name}</span>
         </p>
-        <h1 className="text-3xl font-semibold md:text-4xl">{name}</h1>
-        <p className="max-w-3xl text-ink/70">{summary}</p>
-        <div className="flex flex-wrap gap-2 text-sm">
-          <span className="rounded-full bg-white px-3 py-1 border border-ink/10">{city.altitude_m} m</span>
-          {city.climate_type ? (
-            <span className="rounded-full bg-white px-3 py-1 border border-ink/10">{city.climate_type}</span>
-          ) : null}
-          {city.migration_friendliness != null ? (
-            <span className="rounded-full bg-white px-3 py-1 border border-ink/10">
-              Migration {city.migration_friendliness}/10
-            </span>
-          ) : null}
-          {city.cost_of_living_index != null ? (
-            <span className="rounded-full bg-white px-3 py-1 border border-ink/10">
-              COL {city.cost_of_living_index}
-            </span>
-          ) : null}
-        </div>
+        <PlaceHero
+          title={name}
+          subtitle={summary || tc('fillingIn')}
+          cover={images.cover}
+          mood={visual.mood}
+          tags={visual.tags}
+          eyebrow={t('cityGuideEyebrow')}
+        />
+        <MetricChips
+          altitudeM={city.altitude_m}
+          climateType={city.climate_type}
+          migrationFriendliness={city.migration_friendliness}
+          costOfLivingIndex={city.cost_of_living_index}
+          bestMonths={city.best_months}
+        />
       </div>
 
       <WeatherStrip lat={city.lat} lng={city.lng} />
-
+      <CulturePanel visual={visual} locale={locale} slug={slug} />
+      <ImageGallery images={images.gallery} title={t('galleryTitle', { name })} locale={locale} />
       <AdSlot show />
-
-      <section className="grid gap-4 md:grid-cols-3">
-        <div className="rounded-2xl border border-ink/10 bg-white p-5">
-          <h2 className="font-semibold">Food</h2>
-          <p className="mt-2 text-sm text-ink/70">{city.food_blurb || '完善中 / Filling in'}</p>
-        </div>
-        <div className="rounded-2xl border border-ink/10 bg-white p-5">
-          <h2 className="font-semibold">Scenery</h2>
-          <p className="mt-2 text-sm text-ink/70">{city.scenery_blurb || '完善中 / Filling in'}</p>
-        </div>
-        <div className="rounded-2xl border border-ink/10 bg-white p-5">
-          <h2 className="font-semibold">Migration</h2>
-          <p className="mt-2 text-sm text-ink/70">{city.migration_blurb || '完善中 / Filling in'}</p>
-        </div>
-      </section>
+      <PlaceIntelGrid
+        food={city.food_blurb}
+        scenery={city.scenery_blurb}
+        migration={city.migration_blurb}
+        locale={locale}
+        slug={slug}
+      />
 
       <section className="space-y-4">
-        <h2 className="text-xl font-semibold">Counties ({counties.length})</h2>
+        <h2 className="text-xl font-semibold">{t('countiesTitle', { count: counties.length })}</h2>
         <div className="grid gap-4 md:grid-cols-2">
           {counties.map((county) => (
             <PlaceCard key={county.code} place={county} locale={locale} />
           ))}
         </div>
       </section>
+
+      <section className="space-y-4">
+        <div className="flex items-end justify-between gap-3">
+          <h2 className="text-xl font-semibold">{t('localGuides')}</h2>
+          <Link href={`/${locale}/guides?region=${slug}`} className="text-sm text-plateau hover:underline">
+            {tc('viewAll')}
+          </Link>
+        </div>
+        {guides.length === 0 ? (
+          <p className="rounded-2xl border border-dashed border-ink/15 bg-white p-5 text-sm text-ink/60">
+            {t('noGuides')}
+          </p>
+        ) : (
+          <div className="grid gap-4 md:grid-cols-2">
+            {guides.map((guide) => (
+              <GuideCard key={guide.id} guide={guide} locale={locale} />
+            ))}
+          </div>
+        )}
+      </section>
     </div>
   );
 }
+

@@ -1,0 +1,118 @@
+{
+  "generated_at": "2026-07-13T12:00:15.316Z",
+  "note": "16 prefecture-level culture/tourism entry points for See Yunnan. Prefer bureau/tourism portals; municipal government portals used when dedicated tourism domains are unavailable.",
+  "cities": [
+    {
+      "slug": "kunming",
+      "nameZh": "昆明市文化和旅游局",
+      "nameEn": "Kunming Culture and Tourism Bureau",
+      "url": "https://whhlyj.km.gov.cn/",
+      "type": "culture_tourism_bureau"
+    },
+    {
+      "slug": "qujing",
+      "nameZh": "曲靖市人民政府门户网",
+      "nameEn": "Qujing Municipal Government",
+      "url": "https://www.qj.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "yuxi",
+      "nameZh": "玉溪市人民政府",
+      "nameEn": "Yuxi Municipal Government",
+      "url": "https://www.yuxi.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "baoshan",
+      "nameZh": "保山市人民政府门户网站",
+      "nameEn": "Baoshan Municipal Government",
+      "url": "https://www.baoshan.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "zhaotong",
+      "nameZh": "昭通市人民政府门户网站",
+      "nameEn": "Zhaotong Municipal Government",
+      "url": "https://www.zt.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "lijiang",
+      "nameZh": "丽江网",
+      "nameEn": "Lijiang Tourism Media",
+      "url": "https://www.lijiang.cn/",
+      "type": "tourism_media"
+    },
+    {
+      "slug": "puer",
+      "nameZh": "普洱市人民政府",
+      "nameEn": "Pu'er Municipal Government",
+      "url": "https://www.puershi.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "lincang",
+      "nameZh": "临沧市人民政府",
+      "nameEn": "Lincang Municipal Government",
+      "url": "https://www.lincang.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "chuxiong",
+      "nameZh": "楚雄彝族自治州人民政府",
+      "nameEn": "Chuxiong Prefecture Government",
+      "url": "https://www.cxz.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "honghe",
+      "nameZh": "红河哈尼族彝族自治州人民政府",
+      "nameEn": "Honghe Prefecture Government",
+      "url": "https://www.hh.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "wenshan",
+      "nameZh": "文山壮族苗族自治州人民政府",
+      "nameEn": "Wenshan Prefecture Government",
+      "url": "https://www.ynws.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "xishuangbanna",
+      "nameZh": "西双版纳傣族自治州人民政府",
+      "nameEn": "Xishuangbanna Prefecture Government",
+      "url": "https://www.xsbn.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "dali",
+      "nameZh": "大理旅游网（大理旅游集团）",
+      "nameEn": "Dali Tourism",
+      "url": "https://www.dalitravel.cn/",
+      "type": "tourism_operator"
+    },
+    {
+      "slug": "dehong",
+      "nameZh": "德宏州人民政府门户网站",
+      "nameEn": "Dehong Prefecture Government",
+      "url": "https://www.dh.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "nujiang",
+      "nameZh": "怒江傈僳族自治州人民政府",
+      "nameEn": "Nujiang Prefecture Government",
+      "url": "https://www.nujiang.gov.cn/",
+      "type": "city_portal"
+    },
+    {
+      "slug": "diqing",
+      "nameZh": "迪庆藏族自治州人民政府",
+      "nameEn": "Diqing Prefecture Government",
+      "url": "https://www.diqing.gov.cn/",
+      "type": "city_portal"
+    }
+  ]
+}

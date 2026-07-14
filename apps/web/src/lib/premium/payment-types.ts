@@ -1,0 +1,49 @@
+﻿export type PaymentMethod = {
+  id: string;
+  label: string;
+  account: string;
+  note?: string;
+  qr_image?: string | null;
+};
+
+export type PaymentConfig = {
+  updated_at: string;
+  price_usd: number;
+  currency_note: string;
+  operator_email: string;
+  operator_wechat?: string;
+  methods: PaymentMethod[];
+  grant_path: string;
+  instructions: string[];
+};
+
+export const DEFAULT_PAYMENT_CONFIG: PaymentConfig = {
+  updated_at: new Date().toISOString(),
+  price_usd: 19.9,
+  currency_note: 'USD 19.9 / month (or equivalent CNY via WeChat / Alipay)',
+  operator_email: '466997317@qq.com',
+  operator_wechat: 'Animal_instinct_7 / Sakura9265426',
+  methods: [
+    {
+      id: 'wechat',
+      label: '微信支付 WeChat Pay',
+      account: '7(**林)',
+      note: '扫码支付后，把登录邮箱 + 截图发给运营微信',
+      qr_image: '/uploads/payment/wechat-pay-qr.jpg',
+    },
+    {
+      id: 'alipay',
+      label: '支付宝 Alipay',
+      account: '支付宝扫码收款',
+      note: '扫码支付后，把登录邮箱 + 截图发给运营微信或邮箱',
+      qr_image: '/uploads/payment/alipay-qr.jpg',
+    },
+  ],
+  grant_path: '/admin/premium',
+  instructions: [
+    'Pay $19.9 for 1 month via WeChat Pay or Alipay QR code.',
+    'Send login email + payment screenshot to operator WeChat or email.',
+    'Admin opens /admin/premium and grants 1 month by email.',
+    'Check Premium status on Account with the same email.',
+  ],
+};

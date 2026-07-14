@@ -1,5 +1,6 @@
-import fs from 'fs';
+﻿import fs from 'fs';
 import path from 'path';
+import { PLATFORM_COMMISSION_RATE } from '@see-yunnan/shared';
 import type { Guide, GuideInquiry, GuidesStore } from './types';
 
 const storePath = path.join(process.cwd(), 'src/data/guides-store.json');
@@ -122,10 +123,18 @@ export function createInquiry(input: {
   contact_email: string;
   contact_name?: string;
   region_slug?: string;
+  estimated_budget_usd?: number;
 }): GuideInquiry | { error: string } {
   const store = readGuidesStore();
   const guide = store.guides.find((g) => g.id === input.guide_id && g.status === 'approved');
   if (!guide) return { error: 'Guide not available' };
+
+  const budget = Number(input.estimated_budget_usd);
+  const hasBudget = Number.isFinite(budget) && budget > 0;
+  const platform_commission_rate = PLATFORM_COMMISSION_RATE;
+  const platform_fee_usd = hasBudget ? Math.round(budget * platform_commission_rate * 100) / 100 : undefined;
+  const guide_net_usd = hasBudget ? Math.round((budget - (platform_fee_usd || 0)) * 100) / 100 : undefined;
+
   const inquiry: GuideInquiry = {
     id: `inq-${Date.now().toString(36)}`,
     guide_id: input.guide_id,
@@ -135,6 +144,10 @@ export function createInquiry(input: {
     contact_name: input.contact_name,
     status: 'new',
     created_at: new Date().toISOString(),
+    estimated_budget_usd: hasBudget ? budget : undefined,
+    platform_commission_rate,
+    platform_fee_usd,
+    guide_net_usd,
   };
   store.inquiries.unshift(inquiry);
   writeGuidesStore(store);
@@ -152,4 +165,16 @@ export function updateInquiryStatus(id: string, status: 'new' | 'contacted' | 'c
   row.status = status;
   writeGuidesStore(store);
   return { ok: true as const, inquiry: row };
+}
+
+export function guideCommissionSummary() {
+  const inquiries = listInquiries().filter((i) => typeof i.estimated_budget_usd === 'number');
+  const totalBudget = inquiries.reduce((n, i) => n + (i.estimated_budget_usd || 0), 0);
+  const totalFee = inquiries.reduce((n, i) => n + (i.platform_fee_usd || 0), 0);
+  return {
+    rate: PLATFORM_COMMISSION_RATE,
+    inquiry_count: inquiries.length,
+    total_budget_usd: Math.round(totalBudget * 100) / 100,
+    total_platform_fee_usd: Math.round(totalFee * 100) / 100,
+  };
 }

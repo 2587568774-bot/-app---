@@ -1,15 +1,20 @@
 'use client';
 
-import Link from 'next/link';
 import { useLocale, useTranslations } from 'next-intl';
 import { localeLabels, locales, type AppLocale } from '@/i18n/config';
+
+function go(href: string) {
+  if (typeof window !== 'undefined') {
+    window.location.assign(href);
+  }
+}
 
 export function SiteHeader() {
   const t = useTranslations('nav');
   const tc = useTranslations('common');
   const locale = useLocale() as AppLocale;
 
-    const links = [
+  const links = [
     { href: `/${locale}/cities`, label: t('discover') },
     { href: `/${locale}/guides`, label: t('guides') },
     { href: `/${locale}/pricing`, label: t('pricing') },
@@ -18,31 +23,48 @@ export function SiteHeader() {
   ];
 
   return (
-    <header className="border-b border-ink/10 bg-paper/90 backdrop-blur">
-      <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-4">
-        <Link href={`/${locale}`} className="flex flex-col">
+    <header className="sticky top-0 z-[200] isolate border-b border-ink/10 bg-paper/95 shadow-sm backdrop-blur">
+      <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
+        <a
+          href={`/${locale}`}
+          onClick={(e) => {
+            e.preventDefault();
+            go(`/${locale}`);
+          }}
+          className="relative z-[201] flex cursor-pointer flex-col"
+        >
           <span className="text-lg font-semibold tracking-tight text-ink">{tc('brand')}</span>
           <span className="text-xs text-ink/60">{tc('tagline')}</span>
-        </Link>
-        <nav className="hidden items-center gap-5 text-sm font-medium text-ink/80 md:flex">
+        </a>
+
+        <nav className="relative z-[201] hidden items-center gap-1 text-sm font-medium md:flex">
           {links.map((item) => (
-            <Link key={item.href} href={item.href} className="hover:text-plateau">
+            <a
+              key={item.href}
+              href={item.href}
+              onClick={(e) => {
+                e.preventDefault();
+                go(item.href);
+              }}
+              className="cursor-pointer rounded-full px-3 py-2 text-ink/80 transition hover:bg-ink/5 hover:text-plateau"
+            >
               {item.label}
-            </Link>
+            </a>
           ))}
         </nav>
-        <div className="flex items-center gap-3">
+
+        <div className="relative z-[201] flex items-center gap-2">
           <label className="sr-only" htmlFor="locale-switcher">
-            Language
+            {tc('language')}
           </label>
           <select
             id="locale-switcher"
             className="rounded-full border border-ink/15 bg-white px-3 py-1.5 text-sm"
-            defaultValue={locale}
+            value={locale}
             onChange={(e) => {
               const next = e.target.value;
               const path = window.location.pathname.replace(/^\/[^/]+/, `/${next}`);
-              window.location.href = path + window.location.search;
+              window.location.assign(path + window.location.search);
             }}
           >
             {locales.map((code) => (
@@ -51,22 +73,34 @@ export function SiteHeader() {
               </option>
             ))}
           </select>
-          <Link
+          <a
             href={`/${locale}/login`}
-            className="rounded-full bg-camellia px-3 py-1.5 text-sm font-medium text-white hover:opacity-90"
+            onClick={(e) => {
+              e.preventDefault();
+              go(`/${locale}/login`);
+            }}
+            className="cursor-pointer rounded-full bg-camellia px-3 py-1.5 text-sm font-medium text-white hover:opacity-90"
           >
             {t('login')}
-          </Link>
+          </a>
         </div>
       </div>
-      <nav className="flex gap-4 overflow-x-auto border-t border-ink/5 px-4 py-2 text-sm md:hidden">
+
+      <nav className="relative z-[201] flex gap-1 overflow-x-auto border-t border-ink/5 px-3 py-2 text-sm md:hidden">
         {links.map((item) => (
-          <Link key={item.href} href={item.href} className="whitespace-nowrap text-ink/80">
+          <a
+            key={`m-${item.href}`}
+            href={item.href}
+            onClick={(e) => {
+              e.preventDefault();
+              go(item.href);
+            }}
+            className="cursor-pointer whitespace-nowrap rounded-full px-3 py-2 text-ink/80 hover:bg-ink/5 hover:text-plateau"
+          >
             {item.label}
-          </Link>
+          </a>
         ))}
       </nav>
     </header>
   );
 }
-

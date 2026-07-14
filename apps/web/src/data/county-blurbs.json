@@ -1,0 +1,3876 @@
+{
+  "generated_at": "2026-07-13T12:32:30.474Z",
+  "note": "Lightweight per-county blurbs for place pages. Admin drafts and richer culture packs can override later.",
+  "counties": {
+    "kunming-wuhua": {
+      "parentSlug": "kunming",
+      "altitude_m": 1890,
+      "names": {
+        "zh-Hans": "五华区",
+        "en": "Wuhua",
+        "zh-Hant": "五华区",
+        "ja": "Wuhua",
+        "ko": "Wuhua"
+      },
+      "summary": {
+        "en": "Wuhua sits in Kunming around 1890 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "五华区位于昆明市，海拔约 1890 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "五华区位於昆明市，海拔約 1890 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "WuhuaはKunmingにあり、標高約1890m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Wuhua은(는) Kunming에 있으며 해발 약 1890m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Wuhua follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "五华区的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Wuhua is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "五华区适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Wuhua's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较五华区的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-panlong": {
+      "parentSlug": "kunming",
+      "altitude_m": 1900,
+      "names": {
+        "zh-Hans": "盘龙区",
+        "en": "Panlong",
+        "zh-Hant": "盘龙区",
+        "ja": "Panlong",
+        "ko": "Panlong"
+      },
+      "summary": {
+        "en": "Panlong sits in Kunming around 1900 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "盘龙区位于昆明市，海拔约 1900 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "盘龙区位於昆明市，海拔約 1900 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "PanlongはKunmingにあり、標高約1900m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Panlong은(는) Kunming에 있으며 해발 약 1900m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Panlong follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "盘龙区的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Panlong is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "盘龙区适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Panlong's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较盘龙区的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-guandu": {
+      "parentSlug": "kunming",
+      "altitude_m": 1895,
+      "names": {
+        "zh-Hans": "官渡区",
+        "en": "Guandu",
+        "zh-Hant": "官渡区",
+        "ja": "Guandu",
+        "ko": "Guandu"
+      },
+      "summary": {
+        "en": "Guandu sits in Kunming around 1895 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "官渡区位于昆明市，海拔约 1895 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "官渡区位於昆明市，海拔約 1895 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "GuanduはKunmingにあり、標高約1895m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Guandu은(는) Kunming에 있으며 해발 약 1895m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Guandu follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "官渡区的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Guandu is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "官渡区适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Guandu's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较官渡区的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-xishan": {
+      "parentSlug": "kunming",
+      "altitude_m": 1900,
+      "names": {
+        "zh-Hans": "西山区",
+        "en": "Xishan",
+        "zh-Hant": "西山区",
+        "ja": "Xishan",
+        "ko": "Xishan"
+      },
+      "summary": {
+        "en": "Xishan sits in Kunming around 1900 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "西山区位于昆明市，海拔约 1900 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "西山区位於昆明市，海拔約 1900 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "XishanはKunmingにあり、標高約1900m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Xishan은(는) Kunming에 있으며 해발 약 1900m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Xishan follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "西山区的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Xishan is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "西山区适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Xishan's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较西山区的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-dongchuan": {
+      "parentSlug": "kunming",
+      "altitude_m": 1254,
+      "names": {
+        "zh-Hans": "东川区",
+        "en": "Dongchuan",
+        "zh-Hant": "东川区",
+        "ja": "Dongchuan",
+        "ko": "Dongchuan"
+      },
+      "summary": {
+        "en": "Dongchuan sits in Kunming around 1254 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "东川区位于昆明市，海拔约 1254 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "东川区位於昆明市，海拔約 1254 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "DongchuanはKunmingにあり、標高約1254m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Dongchuan은(는) Kunming에 있으며 해발 약 1254m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Dongchuan follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "东川区的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Dongchuan is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "东川区适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Dongchuan's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较东川区的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-chenggong": {
+      "parentSlug": "kunming",
+      "altitude_m": 1906,
+      "names": {
+        "zh-Hans": "呈贡区",
+        "en": "Chenggong",
+        "zh-Hant": "呈贡区",
+        "ja": "Chenggong",
+        "ko": "Chenggong"
+      },
+      "summary": {
+        "en": "Chenggong sits in Kunming around 1906 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "呈贡区位于昆明市，海拔约 1906 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "呈贡区位於昆明市，海拔約 1906 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ChenggongはKunmingにあり、標高約1906m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Chenggong은(는) Kunming에 있으며 해발 약 1906m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Chenggong follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "呈贡区的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Chenggong is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "呈贡区适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Chenggong's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较呈贡区的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-jinning": {
+      "parentSlug": "kunming",
+      "altitude_m": 1890,
+      "names": {
+        "zh-Hans": "晋宁区",
+        "en": "Jinning",
+        "zh-Hant": "晋宁区",
+        "ja": "Jinning",
+        "ko": "Jinning"
+      },
+      "summary": {
+        "en": "Jinning sits in Kunming around 1890 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "晋宁区位于昆明市，海拔约 1890 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "晋宁区位於昆明市，海拔約 1890 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "JinningはKunmingにあり、標高約1890m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Jinning은(는) Kunming에 있으며 해발 약 1890m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Jinning follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "晋宁区的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Jinning is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "晋宁区适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Jinning's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较晋宁区的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-fumin": {
+      "parentSlug": "kunming",
+      "altitude_m": 1690,
+      "names": {
+        "zh-Hans": "富民县",
+        "en": "Fumin",
+        "zh-Hant": "富民县",
+        "ja": "Fumin",
+        "ko": "Fumin"
+      },
+      "summary": {
+        "en": "Fumin sits in Kunming around 1690 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "富民县位于昆明市，海拔约 1690 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "富民县位於昆明市，海拔約 1690 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "FuminはKunmingにあり、標高約1690m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Fumin은(는) Kunming에 있으며 해발 약 1690m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Fumin follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "富民县的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Fumin is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "富民县适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Fumin's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较富民县的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-yiliang": {
+      "parentSlug": "kunming",
+      "altitude_m": 1530,
+      "names": {
+        "zh-Hans": "宜良县",
+        "en": "Yiliang",
+        "zh-Hant": "宜良县",
+        "ja": "Yiliang",
+        "ko": "Yiliang"
+      },
+      "summary": {
+        "en": "Yiliang sits in Kunming around 1530 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "宜良县位于昆明市，海拔约 1530 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "宜良县位於昆明市，海拔約 1530 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YiliangはKunmingにあり、標高約1530m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yiliang은(는) Kunming에 있으며 해발 약 1530m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yiliang follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "宜良县的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yiliang is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "宜良县适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yiliang's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较宜良县的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-shilin": {
+      "parentSlug": "kunming",
+      "altitude_m": 1680,
+      "names": {
+        "zh-Hans": "石林彝族自治县",
+        "en": "Shilin",
+        "zh-Hant": "石林彝族自治县",
+        "ja": "Shilin",
+        "ko": "Shilin"
+      },
+      "summary": {
+        "en": "Shilin sits in Kunming around 1680 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "石林彝族自治县位于昆明市，海拔约 1680 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "石林彝族自治县位於昆明市，海拔約 1680 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ShilinはKunmingにあり、標高約1680m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Shilin은(는) Kunming에 있으며 해발 약 1680m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Shilin follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "石林彝族自治县的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Shilin is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "石林彝族自治县适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Shilin's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较石林彝族自治县的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-songming": {
+      "parentSlug": "kunming",
+      "altitude_m": 1910,
+      "names": {
+        "zh-Hans": "嵩明县",
+        "en": "Songming",
+        "zh-Hant": "嵩明县",
+        "ja": "Songming",
+        "ko": "Songming"
+      },
+      "summary": {
+        "en": "Songming sits in Kunming around 1910 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "嵩明县位于昆明市，海拔约 1910 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "嵩明县位於昆明市，海拔約 1910 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "SongmingはKunmingにあり、標高約1910m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Songming은(는) Kunming에 있으며 해발 약 1910m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Songming follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "嵩明县的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Songming is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "嵩明县适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Songming's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较嵩明县的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-luquan": {
+      "parentSlug": "kunming",
+      "altitude_m": 1670,
+      "names": {
+        "zh-Hans": "禄劝彝族苗族自治县",
+        "en": "Luquan",
+        "zh-Hant": "禄劝彝族苗族自治县",
+        "ja": "Luquan",
+        "ko": "Luquan"
+      },
+      "summary": {
+        "en": "Luquan sits in Kunming around 1670 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "禄劝彝族苗族自治县位于昆明市，海拔约 1670 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "禄劝彝族苗族自治县位於昆明市，海拔約 1670 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LuquanはKunmingにあり、標高約1670m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Luquan은(는) Kunming에 있으며 해발 약 1670m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Luquan follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "禄劝彝族苗族自治县的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Luquan is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "禄劝彝族苗族自治县适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Luquan's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较禄劝彝族苗族自治县的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-xundian": {
+      "parentSlug": "kunming",
+      "altitude_m": 1870,
+      "names": {
+        "zh-Hans": "寻甸回族彝族自治县",
+        "en": "Xundian",
+        "zh-Hant": "寻甸回族彝族自治县",
+        "ja": "Xundian",
+        "ko": "Xundian"
+      },
+      "summary": {
+        "en": "Xundian sits in Kunming around 1870 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "寻甸回族彝族自治县位于昆明市，海拔约 1870 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "寻甸回族彝族自治县位於昆明市，海拔約 1870 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "XundianはKunmingにあり、標高約1870m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Xundian은(는) Kunming에 있으며 해발 약 1870m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Xundian follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "寻甸回族彝族自治县的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Xundian is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "寻甸回族彝族自治县适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Xundian's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较寻甸回族彝族自治县的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "kunming-anning": {
+      "parentSlug": "kunming",
+      "altitude_m": 1800,
+      "names": {
+        "zh-Hans": "安宁市",
+        "en": "Anning",
+        "zh-Hant": "安宁市",
+        "ja": "Anning",
+        "ko": "Anning"
+      },
+      "summary": {
+        "en": "Anning sits in Kunming around 1800 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "安宁市位于昆明市，海拔约 1800 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "安宁市位於昆明市，海拔約 1800 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "AnningはKunmingにあり、標高約1800m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Anning은(는) Kunming에 있으며 해발 약 1800m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Anning follow Kunming flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "安宁市的餐桌贴近昆明市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Anning is a practical base for exploring Kunming's landscapes at a slower county pace.",
+        "zh-Hans": "安宁市适合以更慢的县级节奏，作为探索昆明市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Anning's altitude, services distance to Kunming center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较安宁市的海拔、到昆明市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "qujing-qilin": {
+      "parentSlug": "qujing",
+      "altitude_m": 1870,
+      "names": {
+        "zh-Hans": "麒麟区",
+        "en": "Qilin",
+        "zh-Hant": "麒麟区",
+        "ja": "Qilin",
+        "ko": "Qilin"
+      },
+      "summary": {
+        "en": "Qilin sits in Qujing around 1870 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "麒麟区位于曲靖市，海拔约 1870 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "麒麟区位於曲靖市，海拔約 1870 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "QilinはQujingにあり、標高約1870m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Qilin은(는) Qujing에 있으며 해발 약 1870m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Qilin follow Qujing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "麒麟区的餐桌贴近曲靖市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Qilin is a practical base for exploring Qujing's landscapes at a slower county pace.",
+        "zh-Hans": "麒麟区适合以更慢的县级节奏，作为探索曲靖市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Qilin's altitude, services distance to Qujing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较麒麟区的海拔、到曲靖市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "qujing-zhanyi": {
+      "parentSlug": "qujing",
+      "altitude_m": 1900,
+      "names": {
+        "zh-Hans": "沾益区",
+        "en": "Zhanyi",
+        "zh-Hant": "沾益区",
+        "ja": "Zhanyi",
+        "ko": "Zhanyi"
+      },
+      "summary": {
+        "en": "Zhanyi sits in Qujing around 1900 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "沾益区位于曲靖市，海拔约 1900 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "沾益区位於曲靖市，海拔約 1900 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ZhanyiはQujingにあり、標高約1900m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Zhanyi은(는) Qujing에 있으며 해발 약 1900m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Zhanyi follow Qujing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "沾益区的餐桌贴近曲靖市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Zhanyi is a practical base for exploring Qujing's landscapes at a slower county pace.",
+        "zh-Hans": "沾益区适合以更慢的县级节奏，作为探索曲靖市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Zhanyi's altitude, services distance to Qujing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较沾益区的海拔、到曲靖市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "qujing-malong": {
+      "parentSlug": "qujing",
+      "altitude_m": 2000,
+      "names": {
+        "zh-Hans": "马龙区",
+        "en": "Malong",
+        "zh-Hant": "马龙区",
+        "ja": "Malong",
+        "ko": "Malong"
+      },
+      "summary": {
+        "en": "Malong sits in Qujing around 2000 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "马龙区位于曲靖市，海拔约 2000 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "马龙区位於曲靖市，海拔約 2000 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MalongはQujingにあり、標高約2000m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Malong은(는) Qujing에 있으며 해발 약 2000m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Malong follow Qujing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "马龙区的餐桌贴近曲靖市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Malong is a practical base for exploring Qujing's landscapes at a slower county pace.",
+        "zh-Hans": "马龙区适合以更慢的县级节奏，作为探索曲靖市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Malong's altitude, services distance to Qujing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较马龙区的海拔、到曲靖市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "qujing-luliang": {
+      "parentSlug": "qujing",
+      "altitude_m": 1840,
+      "names": {
+        "zh-Hans": "陆良县",
+        "en": "Luliang",
+        "zh-Hant": "陆良县",
+        "ja": "Luliang",
+        "ko": "Luliang"
+      },
+      "summary": {
+        "en": "Luliang sits in Qujing around 1840 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "陆良县位于曲靖市，海拔约 1840 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "陆良县位於曲靖市，海拔約 1840 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LuliangはQujingにあり、標高約1840m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Luliang은(는) Qujing에 있으며 해발 약 1840m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Luliang follow Qujing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "陆良县的餐桌贴近曲靖市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Luliang is a practical base for exploring Qujing's landscapes at a slower county pace.",
+        "zh-Hans": "陆良县适合以更慢的县级节奏，作为探索曲靖市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Luliang's altitude, services distance to Qujing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较陆良县的海拔、到曲靖市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "qujing-shizong": {
+      "parentSlug": "qujing",
+      "altitude_m": 1850,
+      "names": {
+        "zh-Hans": "师宗县",
+        "en": "Shizong",
+        "zh-Hant": "师宗县",
+        "ja": "Shizong",
+        "ko": "Shizong"
+      },
+      "summary": {
+        "en": "Shizong sits in Qujing around 1850 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "师宗县位于曲靖市，海拔约 1850 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "师宗县位於曲靖市，海拔約 1850 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ShizongはQujingにあり、標高約1850m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Shizong은(는) Qujing에 있으며 해발 약 1850m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Shizong follow Qujing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "师宗县的餐桌贴近曲靖市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Shizong is a practical base for exploring Qujing's landscapes at a slower county pace.",
+        "zh-Hans": "师宗县适合以更慢的县级节奏，作为探索曲靖市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Shizong's altitude, services distance to Qujing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较师宗县的海拔、到曲靖市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "qujing-luoping": {
+      "parentSlug": "qujing",
+      "altitude_m": 1480,
+      "names": {
+        "zh-Hans": "罗平县",
+        "en": "Luoping",
+        "zh-Hant": "罗平县",
+        "ja": "Luoping",
+        "ko": "Luoping"
+      },
+      "summary": {
+        "en": "Luoping sits in Qujing around 1480 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "罗平县位于曲靖市，海拔约 1480 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "罗平县位於曲靖市，海拔約 1480 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LuopingはQujingにあり、標高約1480m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Luoping은(는) Qujing에 있으며 해발 약 1480m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Luoping follow Qujing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "罗平县的餐桌贴近曲靖市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Luoping is a practical base for exploring Qujing's landscapes at a slower county pace.",
+        "zh-Hans": "罗平县适合以更慢的县级节奏，作为探索曲靖市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Luoping's altitude, services distance to Qujing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较罗平县的海拔、到曲靖市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "qujing-fuyuan": {
+      "parentSlug": "qujing",
+      "altitude_m": 1830,
+      "names": {
+        "zh-Hans": "富源县",
+        "en": "Fuyuan",
+        "zh-Hant": "富源县",
+        "ja": "Fuyuan",
+        "ko": "Fuyuan"
+      },
+      "summary": {
+        "en": "Fuyuan sits in Qujing around 1830 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "富源县位于曲靖市，海拔约 1830 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "富源县位於曲靖市，海拔約 1830 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "FuyuanはQujingにあり、標高約1830m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Fuyuan은(는) Qujing에 있으며 해발 약 1830m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Fuyuan follow Qujing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "富源县的餐桌贴近曲靖市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Fuyuan is a practical base for exploring Qujing's landscapes at a slower county pace.",
+        "zh-Hans": "富源县适合以更慢的县级节奏，作为探索曲靖市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Fuyuan's altitude, services distance to Qujing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较富源县的海拔、到曲靖市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "qujing-huize": {
+      "parentSlug": "qujing",
+      "altitude_m": 2120,
+      "names": {
+        "zh-Hans": "会泽县",
+        "en": "Huize",
+        "zh-Hant": "会泽县",
+        "ja": "Huize",
+        "ko": "Huize"
+      },
+      "summary": {
+        "en": "Huize sits in Qujing around 2120 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "会泽县位于曲靖市，海拔约 2120 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "会泽县位於曲靖市，海拔約 2120 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "HuizeはQujingにあり、標高約2120m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Huize은(는) Qujing에 있으며 해발 약 2120m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Huize follow Qujing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "会泽县的餐桌贴近曲靖市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Huize is a practical base for exploring Qujing's landscapes at a slower county pace.",
+        "zh-Hans": "会泽县适合以更慢的县级节奏，作为探索曲靖市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Huize's altitude, services distance to Qujing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较会泽县的海拔、到曲靖市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "qujing-xuanwei": {
+      "parentSlug": "qujing",
+      "altitude_m": 1980,
+      "names": {
+        "zh-Hans": "宣威市",
+        "en": "Xuanwei",
+        "zh-Hant": "宣威市",
+        "ja": "Xuanwei",
+        "ko": "Xuanwei"
+      },
+      "summary": {
+        "en": "Xuanwei sits in Qujing around 1980 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "宣威市位于曲靖市，海拔约 1980 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "宣威市位於曲靖市，海拔約 1980 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "XuanweiはQujingにあり、標高約1980m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Xuanwei은(는) Qujing에 있으며 해발 약 1980m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Xuanwei follow Qujing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "宣威市的餐桌贴近曲靖市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Xuanwei is a practical base for exploring Qujing's landscapes at a slower county pace.",
+        "zh-Hans": "宣威市适合以更慢的县级节奏，作为探索曲靖市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Xuanwei's altitude, services distance to Qujing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较宣威市的海拔、到曲靖市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "yuxi-hongta": {
+      "parentSlug": "yuxi",
+      "altitude_m": 1630,
+      "names": {
+        "zh-Hans": "红塔区",
+        "en": "Hongta",
+        "zh-Hant": "红塔区",
+        "ja": "Hongta",
+        "ko": "Hongta"
+      },
+      "summary": {
+        "en": "Hongta sits in Yuxi around 1630 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "红塔区位于玉溪市，海拔约 1630 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "红塔区位於玉溪市，海拔約 1630 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "HongtaはYuxiにあり、標高約1630m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Hongta은(는) Yuxi에 있으며 해발 약 1630m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Hongta follow Yuxi flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "红塔区的餐桌贴近玉溪市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Hongta is a practical base for exploring Yuxi's landscapes at a slower county pace.",
+        "zh-Hans": "红塔区适合以更慢的县级节奏，作为探索玉溪市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Hongta's altitude, services distance to Yuxi center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较红塔区的海拔、到玉溪市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "yuxi-jiangchuan": {
+      "parentSlug": "yuxi",
+      "altitude_m": 1730,
+      "names": {
+        "zh-Hans": "江川区",
+        "en": "Jiangchuan",
+        "zh-Hant": "江川区",
+        "ja": "Jiangchuan",
+        "ko": "Jiangchuan"
+      },
+      "summary": {
+        "en": "Jiangchuan sits in Yuxi around 1730 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "江川区位于玉溪市，海拔约 1730 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "江川区位於玉溪市，海拔約 1730 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "JiangchuanはYuxiにあり、標高約1730m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Jiangchuan은(는) Yuxi에 있으며 해발 약 1730m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Jiangchuan follow Yuxi flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "江川区的餐桌贴近玉溪市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Jiangchuan is a practical base for exploring Yuxi's landscapes at a slower county pace.",
+        "zh-Hans": "江川区适合以更慢的县级节奏，作为探索玉溪市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Jiangchuan's altitude, services distance to Yuxi center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较江川区的海拔、到玉溪市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "yuxi-tonghai": {
+      "parentSlug": "yuxi",
+      "altitude_m": 1800,
+      "names": {
+        "zh-Hans": "通海县",
+        "en": "Tonghai",
+        "zh-Hant": "通海县",
+        "ja": "Tonghai",
+        "ko": "Tonghai"
+      },
+      "summary": {
+        "en": "Tonghai sits in Yuxi around 1800 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "通海县位于玉溪市，海拔约 1800 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "通海县位於玉溪市，海拔約 1800 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "TonghaiはYuxiにあり、標高約1800m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Tonghai은(는) Yuxi에 있으며 해발 약 1800m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Tonghai follow Yuxi flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "通海县的餐桌贴近玉溪市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Tonghai is a practical base for exploring Yuxi's landscapes at a slower county pace.",
+        "zh-Hans": "通海县适合以更慢的县级节奏，作为探索玉溪市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Tonghai's altitude, services distance to Yuxi center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较通海县的海拔、到玉溪市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "yuxi-huaning": {
+      "parentSlug": "yuxi",
+      "altitude_m": 1600,
+      "names": {
+        "zh-Hans": "华宁县",
+        "en": "Huaning",
+        "zh-Hant": "华宁县",
+        "ja": "Huaning",
+        "ko": "Huaning"
+      },
+      "summary": {
+        "en": "Huaning sits in Yuxi around 1600 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "华宁县位于玉溪市，海拔约 1600 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "华宁县位於玉溪市，海拔約 1600 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "HuaningはYuxiにあり、標高約1600m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Huaning은(는) Yuxi에 있으며 해발 약 1600m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Huaning follow Yuxi flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "华宁县的餐桌贴近玉溪市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Huaning is a practical base for exploring Yuxi's landscapes at a slower county pace.",
+        "zh-Hans": "华宁县适合以更慢的县级节奏，作为探索玉溪市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Huaning's altitude, services distance to Yuxi center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较华宁县的海拔、到玉溪市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "yuxi-yimen": {
+      "parentSlug": "yuxi",
+      "altitude_m": 1570,
+      "names": {
+        "zh-Hans": "易门县",
+        "en": "Yimen",
+        "zh-Hant": "易门县",
+        "ja": "Yimen",
+        "ko": "Yimen"
+      },
+      "summary": {
+        "en": "Yimen sits in Yuxi around 1570 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "易门县位于玉溪市，海拔约 1570 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "易门县位於玉溪市，海拔約 1570 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YimenはYuxiにあり、標高約1570m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yimen은(는) Yuxi에 있으며 해발 약 1570m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yimen follow Yuxi flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "易门县的餐桌贴近玉溪市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yimen is a practical base for exploring Yuxi's landscapes at a slower county pace.",
+        "zh-Hans": "易门县适合以更慢的县级节奏，作为探索玉溪市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yimen's altitude, services distance to Yuxi center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较易门县的海拔、到玉溪市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "yuxi-eshan": {
+      "parentSlug": "yuxi",
+      "altitude_m": 1540,
+      "names": {
+        "zh-Hans": "峨山彝族自治县",
+        "en": "Eshan",
+        "zh-Hant": "峨山彝族自治县",
+        "ja": "Eshan",
+        "ko": "Eshan"
+      },
+      "summary": {
+        "en": "Eshan sits in Yuxi around 1540 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "峨山彝族自治县位于玉溪市，海拔约 1540 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "峨山彝族自治县位於玉溪市，海拔約 1540 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "EshanはYuxiにあり、標高約1540m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Eshan은(는) Yuxi에 있으며 해발 약 1540m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Eshan follow Yuxi flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "峨山彝族自治县的餐桌贴近玉溪市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Eshan is a practical base for exploring Yuxi's landscapes at a slower county pace.",
+        "zh-Hans": "峨山彝族自治县适合以更慢的县级节奏，作为探索玉溪市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Eshan's altitude, services distance to Yuxi center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较峨山彝族自治县的海拔、到玉溪市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "yuxi-xinping": {
+      "parentSlug": "yuxi",
+      "altitude_m": 1480,
+      "names": {
+        "zh-Hans": "新平彝族傣族自治县",
+        "en": "Xinping",
+        "zh-Hant": "新平彝族傣族自治县",
+        "ja": "Xinping",
+        "ko": "Xinping"
+      },
+      "summary": {
+        "en": "Xinping sits in Yuxi around 1480 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "新平彝族傣族自治县位于玉溪市，海拔约 1480 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "新平彝族傣族自治县位於玉溪市，海拔約 1480 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "XinpingはYuxiにあり、標高約1480m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Xinping은(는) Yuxi에 있으며 해발 약 1480m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Xinping follow Yuxi flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "新平彝族傣族自治县的餐桌贴近玉溪市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Xinping is a practical base for exploring Yuxi's landscapes at a slower county pace.",
+        "zh-Hans": "新平彝族傣族自治县适合以更慢的县级节奏，作为探索玉溪市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Xinping's altitude, services distance to Yuxi center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较新平彝族傣族自治县的海拔、到玉溪市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "yuxi-yuanjiang": {
+      "parentSlug": "yuxi",
+      "altitude_m": 400,
+      "names": {
+        "zh-Hans": "元江哈尼族彝族傣族自治县",
+        "en": "Yuanjiang",
+        "zh-Hant": "元江哈尼族彝族傣族自治县",
+        "ja": "Yuanjiang",
+        "ko": "Yuanjiang"
+      },
+      "summary": {
+        "en": "Yuanjiang sits in Yuxi around 400 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "元江哈尼族彝族傣族自治县位于玉溪市，海拔约 400 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "元江哈尼族彝族傣族自治县位於玉溪市，海拔約 400 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YuanjiangはYuxiにあり、標高約400m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yuanjiang은(는) Yuxi에 있으며 해발 약 400m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yuanjiang follow Yuxi flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "元江哈尼族彝族傣族自治县的餐桌贴近玉溪市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yuanjiang is a practical base for exploring Yuxi's landscapes at a slower county pace.",
+        "zh-Hans": "元江哈尼族彝族傣族自治县适合以更慢的县级节奏，作为探索玉溪市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yuanjiang's altitude, services distance to Yuxi center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较元江哈尼族彝族傣族自治县的海拔、到玉溪市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "yuxi-chengjiang": {
+      "parentSlug": "yuxi",
+      "altitude_m": 1740,
+      "names": {
+        "zh-Hans": "澄江市",
+        "en": "Chengjiang",
+        "zh-Hant": "澄江市",
+        "ja": "Chengjiang",
+        "ko": "Chengjiang"
+      },
+      "summary": {
+        "en": "Chengjiang sits in Yuxi around 1740 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "澄江市位于玉溪市，海拔约 1740 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "澄江市位於玉溪市，海拔約 1740 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ChengjiangはYuxiにあり、標高約1740m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Chengjiang은(는) Yuxi에 있으며 해발 약 1740m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Chengjiang follow Yuxi flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "澄江市的餐桌贴近玉溪市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Chengjiang is a practical base for exploring Yuxi's landscapes at a slower county pace.",
+        "zh-Hans": "澄江市适合以更慢的县级节奏，作为探索玉溪市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Chengjiang's altitude, services distance to Yuxi center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较澄江市的海拔、到玉溪市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "baoshan-longyang": {
+      "parentSlug": "baoshan",
+      "altitude_m": 1655,
+      "names": {
+        "zh-Hans": "隆阳区",
+        "en": "Longyang",
+        "zh-Hant": "隆阳区",
+        "ja": "Longyang",
+        "ko": "Longyang"
+      },
+      "summary": {
+        "en": "Longyang sits in Baoshan around 1655 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "隆阳区位于保山市，海拔约 1655 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "隆阳区位於保山市，海拔約 1655 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LongyangはBaoshanにあり、標高約1655m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Longyang은(는) Baoshan에 있으며 해발 약 1655m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Longyang follow Baoshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "隆阳区的餐桌贴近保山市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Longyang is a practical base for exploring Baoshan's landscapes at a slower county pace.",
+        "zh-Hans": "隆阳区适合以更慢的县级节奏，作为探索保山市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Longyang's altitude, services distance to Baoshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较隆阳区的海拔、到保山市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "baoshan-shidian": {
+      "parentSlug": "baoshan",
+      "altitude_m": 1470,
+      "names": {
+        "zh-Hans": "施甸县",
+        "en": "Shidian",
+        "zh-Hant": "施甸县",
+        "ja": "Shidian",
+        "ko": "Shidian"
+      },
+      "summary": {
+        "en": "Shidian sits in Baoshan around 1470 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "施甸县位于保山市，海拔约 1470 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "施甸县位於保山市，海拔約 1470 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ShidianはBaoshanにあり、標高約1470m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Shidian은(는) Baoshan에 있으며 해발 약 1470m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Shidian follow Baoshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "施甸县的餐桌贴近保山市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Shidian is a practical base for exploring Baoshan's landscapes at a slower county pace.",
+        "zh-Hans": "施甸县适合以更慢的县级节奏，作为探索保山市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Shidian's altitude, services distance to Baoshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较施甸县的海拔、到保山市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "baoshan-longling": {
+      "parentSlug": "baoshan",
+      "altitude_m": 1540,
+      "names": {
+        "zh-Hans": "龙陵县",
+        "en": "Longling",
+        "zh-Hant": "龙陵县",
+        "ja": "Longling",
+        "ko": "Longling"
+      },
+      "summary": {
+        "en": "Longling sits in Baoshan around 1540 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "龙陵县位于保山市，海拔约 1540 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "龙陵县位於保山市，海拔約 1540 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LonglingはBaoshanにあり、標高約1540m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Longling은(는) Baoshan에 있으며 해발 약 1540m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Longling follow Baoshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "龙陵县的餐桌贴近保山市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Longling is a practical base for exploring Baoshan's landscapes at a slower county pace.",
+        "zh-Hans": "龙陵县适合以更慢的县级节奏，作为探索保山市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Longling's altitude, services distance to Baoshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较龙陵县的海拔、到保山市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "baoshan-changning": {
+      "parentSlug": "baoshan",
+      "altitude_m": 1670,
+      "names": {
+        "zh-Hans": "昌宁县",
+        "en": "Changning",
+        "zh-Hant": "昌宁县",
+        "ja": "Changning",
+        "ko": "Changning"
+      },
+      "summary": {
+        "en": "Changning sits in Baoshan around 1670 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "昌宁县位于保山市，海拔约 1670 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "昌宁县位於保山市，海拔約 1670 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ChangningはBaoshanにあり、標高約1670m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Changning은(는) Baoshan에 있으며 해발 약 1670m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Changning follow Baoshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "昌宁县的餐桌贴近保山市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Changning is a practical base for exploring Baoshan's landscapes at a slower county pace.",
+        "zh-Hans": "昌宁县适合以更慢的县级节奏，作为探索保山市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Changning's altitude, services distance to Baoshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较昌宁县的海拔、到保山市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "baoshan-tengchong": {
+      "parentSlug": "baoshan",
+      "altitude_m": 1640,
+      "names": {
+        "zh-Hans": "腾冲市",
+        "en": "Tengchong",
+        "zh-Hant": "腾冲市",
+        "ja": "Tengchong",
+        "ko": "Tengchong"
+      },
+      "summary": {
+        "en": "Tengchong sits in Baoshan around 1640 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "腾冲市位于保山市，海拔约 1640 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "腾冲市位於保山市，海拔約 1640 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "TengchongはBaoshanにあり、標高約1640m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Tengchong은(는) Baoshan에 있으며 해발 약 1640m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Tengchong follow Baoshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "腾冲市的餐桌贴近保山市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Tengchong is a practical base for exploring Baoshan's landscapes at a slower county pace.",
+        "zh-Hans": "腾冲市适合以更慢的县级节奏，作为探索保山市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Tengchong's altitude, services distance to Baoshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较腾冲市的海拔、到保山市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-zhaoyang": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 1920,
+      "names": {
+        "zh-Hans": "昭阳区",
+        "en": "Zhaoyang",
+        "zh-Hant": "昭阳区",
+        "ja": "Zhaoyang",
+        "ko": "Zhaoyang"
+      },
+      "summary": {
+        "en": "Zhaoyang sits in Zhaotong around 1920 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "昭阳区位于昭通市，海拔约 1920 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "昭阳区位於昭通市，海拔約 1920 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ZhaoyangはZhaotongにあり、標高約1920m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Zhaoyang은(는) Zhaotong에 있으며 해발 약 1920m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Zhaoyang follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "昭阳区的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Zhaoyang is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "昭阳区适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Zhaoyang's altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较昭阳区的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-ludian": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 1910,
+      "names": {
+        "zh-Hans": "鲁甸县",
+        "en": "Ludian",
+        "zh-Hant": "鲁甸县",
+        "ja": "Ludian",
+        "ko": "Ludian"
+      },
+      "summary": {
+        "en": "Ludian sits in Zhaotong around 1910 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "鲁甸县位于昭通市，海拔约 1910 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "鲁甸县位於昭通市，海拔約 1910 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LudianはZhaotongにあり、標高約1910m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Ludian은(는) Zhaotong에 있으며 해발 약 1910m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Ludian follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "鲁甸县的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Ludian is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "鲁甸县适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Ludian's altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较鲁甸县的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-qiaojia": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 840,
+      "names": {
+        "zh-Hans": "巧家县",
+        "en": "Qiaojia",
+        "zh-Hant": "巧家县",
+        "ja": "Qiaojia",
+        "ko": "Qiaojia"
+      },
+      "summary": {
+        "en": "Qiaojia sits in Zhaotong around 840 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "巧家县位于昭通市，海拔约 840 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "巧家县位於昭通市，海拔約 840 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "QiaojiaはZhaotongにあり、標高約840m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Qiaojia은(는) Zhaotong에 있으며 해발 약 840m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Qiaojia follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "巧家县的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Qiaojia is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "巧家县适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Qiaojia's altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较巧家县的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-yanjin": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 420,
+      "names": {
+        "zh-Hans": "盐津县",
+        "en": "Yanjin",
+        "zh-Hant": "盐津县",
+        "ja": "Yanjin",
+        "ko": "Yanjin"
+      },
+      "summary": {
+        "en": "Yanjin sits in Zhaotong around 420 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "盐津县位于昭通市，海拔约 420 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "盐津县位於昭通市，海拔約 420 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YanjinはZhaotongにあり、標高約420m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yanjin은(는) Zhaotong에 있으며 해발 약 420m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yanjin follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "盐津县的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yanjin is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "盐津县适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yanjin's altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较盐津县的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-daguan": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 1100,
+      "names": {
+        "zh-Hans": "大关县",
+        "en": "Daguan",
+        "zh-Hant": "大关县",
+        "ja": "Daguan",
+        "ko": "Daguan"
+      },
+      "summary": {
+        "en": "Daguan sits in Zhaotong around 1100 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "大关县位于昭通市，海拔约 1100 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "大关县位於昭通市，海拔約 1100 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "DaguanはZhaotongにあり、標高約1100m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Daguan은(는) Zhaotong에 있으며 해발 약 1100m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Daguan follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "大关县的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Daguan is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "大关县适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Daguan's altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较大关县的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-yongshan": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 900,
+      "names": {
+        "zh-Hans": "永善县",
+        "en": "Yongshan",
+        "zh-Hant": "永善县",
+        "ja": "Yongshan",
+        "ko": "Yongshan"
+      },
+      "summary": {
+        "en": "Yongshan sits in Zhaotong around 900 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "永善县位于昭通市，海拔约 900 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "永善县位於昭通市，海拔約 900 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YongshanはZhaotongにあり、標高約900m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yongshan은(는) Zhaotong에 있으며 해발 약 900m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yongshan follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "永善县的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yongshan is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "永善县适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yongshan's altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较永善县的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-suijiang": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 400,
+      "names": {
+        "zh-Hans": "绥江县",
+        "en": "Suijiang",
+        "zh-Hant": "绥江县",
+        "ja": "Suijiang",
+        "ko": "Suijiang"
+      },
+      "summary": {
+        "en": "Suijiang sits in Zhaotong around 400 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "绥江县位于昭通市，海拔约 400 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "绥江县位於昭通市，海拔約 400 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "SuijiangはZhaotongにあり、標高約400m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Suijiang은(는) Zhaotong에 있으며 해발 약 400m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Suijiang follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "绥江县的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Suijiang is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "绥江县适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Suijiang's altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较绥江县的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-zhenxiong": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 1680,
+      "names": {
+        "zh-Hans": "镇雄县",
+        "en": "Zhenxiong",
+        "zh-Hant": "镇雄县",
+        "ja": "Zhenxiong",
+        "ko": "Zhenxiong"
+      },
+      "summary": {
+        "en": "Zhenxiong sits in Zhaotong around 1680 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "镇雄县位于昭通市，海拔约 1680 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "镇雄县位於昭通市，海拔約 1680 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ZhenxiongはZhaotongにあり、標高約1680m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Zhenxiong은(는) Zhaotong에 있으며 해발 약 1680m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Zhenxiong follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "镇雄县的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Zhenxiong is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "镇雄县适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Zhenxiong's altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较镇雄县的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-yiliang-zt": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 1100,
+      "names": {
+        "zh-Hans": "彝良县",
+        "en": "Yiliang (ZT)",
+        "zh-Hant": "彝良县",
+        "ja": "Yiliang (ZT)",
+        "ko": "Yiliang (ZT)"
+      },
+      "summary": {
+        "en": "Yiliang (ZT) sits in Zhaotong around 1100 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "彝良县位于昭通市，海拔约 1100 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "彝良县位於昭通市，海拔約 1100 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "Yiliang (ZT)はZhaotongにあり、標高約1100m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yiliang (ZT)은(는) Zhaotong에 있으며 해발 약 1100m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yiliang (ZT) follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "彝良县的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yiliang (ZT) is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "彝良县适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yiliang (ZT)'s altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较彝良县的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-weixin": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 1180,
+      "names": {
+        "zh-Hans": "威信县",
+        "en": "Weixin",
+        "zh-Hant": "威信县",
+        "ja": "Weixin",
+        "ko": "Weixin"
+      },
+      "summary": {
+        "en": "Weixin sits in Zhaotong around 1180 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "威信县位于昭通市，海拔约 1180 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "威信县位於昭通市，海拔約 1180 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "WeixinはZhaotongにあり、標高約1180m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Weixin은(는) Zhaotong에 있으며 해발 약 1180m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Weixin follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "威信县的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Weixin is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "威信县适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Weixin's altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较威信县的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "zhaotong-shuifu": {
+      "parentSlug": "zhaotong",
+      "altitude_m": 300,
+      "names": {
+        "zh-Hans": "水富市",
+        "en": "Shuifu",
+        "zh-Hant": "水富市",
+        "ja": "Shuifu",
+        "ko": "Shuifu"
+      },
+      "summary": {
+        "en": "Shuifu sits in Zhaotong around 300 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "水富市位于昭通市，海拔约 300 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "水富市位於昭通市，海拔約 300 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ShuifuはZhaotongにあり、標高約300m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Shuifu은(는) Zhaotong에 있으며 해발 약 300m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Shuifu follow Zhaotong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "水富市的餐桌贴近昭通市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Shuifu is a practical base for exploring Zhaotong's landscapes at a slower county pace.",
+        "zh-Hans": "水富市适合以更慢的县级节奏，作为探索昭通市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Shuifu's altitude, services distance to Zhaotong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较水富市的海拔、到昭通市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lijiang-gucheng": {
+      "parentSlug": "lijiang",
+      "altitude_m": 2410,
+      "names": {
+        "zh-Hans": "古城区",
+        "en": "Gucheng",
+        "zh-Hant": "古城区",
+        "ja": "Gucheng",
+        "ko": "Gucheng"
+      },
+      "summary": {
+        "en": "Gucheng sits in Lijiang around 2410 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "古城区位于丽江市，海拔约 2410 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "古城区位於丽江市，海拔約 2410 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "GuchengはLijiangにあり、標高約2410m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Gucheng은(는) Lijiang에 있으며 해발 약 2410m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Gucheng follow Lijiang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "古城区的餐桌贴近丽江市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Gucheng is a practical base for exploring Lijiang's landscapes at a slower county pace.",
+        "zh-Hans": "古城区适合以更慢的县级节奏，作为探索丽江市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Gucheng's altitude, services distance to Lijiang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较古城区的海拔、到丽江市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lijiang-yulong": {
+      "parentSlug": "lijiang",
+      "altitude_m": 2400,
+      "names": {
+        "zh-Hans": "玉龙纳西族自治县",
+        "en": "Yulong",
+        "zh-Hant": "玉龙纳西族自治县",
+        "ja": "Yulong",
+        "ko": "Yulong"
+      },
+      "summary": {
+        "en": "Yulong sits in Lijiang around 2400 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "玉龙纳西族自治县位于丽江市，海拔约 2400 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "玉龙纳西族自治县位於丽江市，海拔約 2400 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YulongはLijiangにあり、標高約2400m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yulong은(는) Lijiang에 있으며 해발 약 2400m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yulong follow Lijiang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "玉龙纳西族自治县的餐桌贴近丽江市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yulong is a practical base for exploring Lijiang's landscapes at a slower county pace.",
+        "zh-Hans": "玉龙纳西族自治县适合以更慢的县级节奏，作为探索丽江市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yulong's altitude, services distance to Lijiang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较玉龙纳西族自治县的海拔、到丽江市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lijiang-yongsheng": {
+      "parentSlug": "lijiang",
+      "altitude_m": 2140,
+      "names": {
+        "zh-Hans": "永胜县",
+        "en": "Yongsheng",
+        "zh-Hant": "永胜县",
+        "ja": "Yongsheng",
+        "ko": "Yongsheng"
+      },
+      "summary": {
+        "en": "Yongsheng sits in Lijiang around 2140 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "永胜县位于丽江市，海拔约 2140 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "永胜县位於丽江市，海拔約 2140 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YongshengはLijiangにあり、標高約2140m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yongsheng은(는) Lijiang에 있으며 해발 약 2140m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yongsheng follow Lijiang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "永胜县的餐桌贴近丽江市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yongsheng is a practical base for exploring Lijiang's landscapes at a slower county pace.",
+        "zh-Hans": "永胜县适合以更慢的县级节奏，作为探索丽江市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yongsheng's altitude, services distance to Lijiang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较永胜县的海拔、到丽江市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lijiang-huaping": {
+      "parentSlug": "lijiang",
+      "altitude_m": 1170,
+      "names": {
+        "zh-Hans": "华坪县",
+        "en": "Huaping",
+        "zh-Hant": "华坪县",
+        "ja": "Huaping",
+        "ko": "Huaping"
+      },
+      "summary": {
+        "en": "Huaping sits in Lijiang around 1170 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "华坪县位于丽江市，海拔约 1170 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "华坪县位於丽江市，海拔約 1170 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "HuapingはLijiangにあり、標高約1170m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Huaping은(는) Lijiang에 있으며 해발 약 1170m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Huaping follow Lijiang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "华坪县的餐桌贴近丽江市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Huaping is a practical base for exploring Lijiang's landscapes at a slower county pace.",
+        "zh-Hans": "华坪县适合以更慢的县级节奏，作为探索丽江市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Huaping's altitude, services distance to Lijiang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较华坪县的海拔、到丽江市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lijiang-ninglang": {
+      "parentSlug": "lijiang",
+      "altitude_m": 2680,
+      "names": {
+        "zh-Hans": "宁蒗彝族自治县",
+        "en": "Ninglang",
+        "zh-Hant": "宁蒗彝族自治县",
+        "ja": "Ninglang",
+        "ko": "Ninglang"
+      },
+      "summary": {
+        "en": "Ninglang sits in Lijiang around 2680 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "宁蒗彝族自治县位于丽江市，海拔约 2680 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "宁蒗彝族自治县位於丽江市，海拔約 2680 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "NinglangはLijiangにあり、標高約2680m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Ninglang은(는) Lijiang에 있으며 해발 약 2680m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Ninglang follow Lijiang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "宁蒗彝族自治县的餐桌贴近丽江市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Ninglang is a practical base for exploring Lijiang's landscapes at a slower county pace.",
+        "zh-Hans": "宁蒗彝族自治县适合以更慢的县级节奏，作为探索丽江市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Ninglang's altitude, services distance to Lijiang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较宁蒗彝族自治县的海拔、到丽江市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "puer-simao": {
+      "parentSlug": "puer",
+      "altitude_m": 1300,
+      "names": {
+        "zh-Hans": "思茅区",
+        "en": "Simao",
+        "zh-Hant": "思茅区",
+        "ja": "Simao",
+        "ko": "Simao"
+      },
+      "summary": {
+        "en": "Simao sits in Pu'er around 1300 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "思茅区位于普洱市，海拔约 1300 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "思茅区位於普洱市，海拔約 1300 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "SimaoはPu'erにあり、標高約1300m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Simao은(는) Pu'er에 있으며 해발 약 1300m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Simao follow Pu'er flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "思茅区的餐桌贴近普洱市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Simao is a practical base for exploring Pu'er's landscapes at a slower county pace.",
+        "zh-Hans": "思茅区适合以更慢的县级节奏，作为探索普洱市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Simao's altitude, services distance to Pu'er center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较思茅区的海拔、到普洱市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "puer-ninger": {
+      "parentSlug": "puer",
+      "altitude_m": 1320,
+      "names": {
+        "zh-Hans": "宁洱哈尼族彝族自治县",
+        "en": "Ning'er",
+        "zh-Hant": "宁洱哈尼族彝族自治县",
+        "ja": "Ning'er",
+        "ko": "Ning'er"
+      },
+      "summary": {
+        "en": "Ning'er sits in Pu'er around 1320 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "宁洱哈尼族彝族自治县位于普洱市，海拔约 1320 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "宁洱哈尼族彝族自治县位於普洱市，海拔約 1320 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "Ning'erはPu'erにあり、標高約1320m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Ning'er은(는) Pu'er에 있으며 해발 약 1320m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Ning'er follow Pu'er flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "宁洱哈尼族彝族自治县的餐桌贴近普洱市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Ning'er is a practical base for exploring Pu'er's landscapes at a slower county pace.",
+        "zh-Hans": "宁洱哈尼族彝族自治县适合以更慢的县级节奏，作为探索普洱市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Ning'er's altitude, services distance to Pu'er center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较宁洱哈尼族彝族自治县的海拔、到普洱市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "puer-mojiang": {
+      "parentSlug": "puer",
+      "altitude_m": 1280,
+      "names": {
+        "zh-Hans": "墨江哈尼族自治县",
+        "en": "Mojiang",
+        "zh-Hant": "墨江哈尼族自治县",
+        "ja": "Mojiang",
+        "ko": "Mojiang"
+      },
+      "summary": {
+        "en": "Mojiang sits in Pu'er around 1280 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "墨江哈尼族自治县位于普洱市，海拔约 1280 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "墨江哈尼族自治县位於普洱市，海拔約 1280 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MojiangはPu'erにあり、標高約1280m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Mojiang은(는) Pu'er에 있으며 해발 약 1280m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Mojiang follow Pu'er flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "墨江哈尼族自治县的餐桌贴近普洱市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Mojiang is a practical base for exploring Pu'er's landscapes at a slower county pace.",
+        "zh-Hans": "墨江哈尼族自治县适合以更慢的县级节奏，作为探索普洱市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Mojiang's altitude, services distance to Pu'er center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较墨江哈尼族自治县的海拔、到普洱市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "puer-jingdong": {
+      "parentSlug": "puer",
+      "altitude_m": 1160,
+      "names": {
+        "zh-Hans": "景东彝族自治县",
+        "en": "Jingdong",
+        "zh-Hant": "景东彝族自治县",
+        "ja": "Jingdong",
+        "ko": "Jingdong"
+      },
+      "summary": {
+        "en": "Jingdong sits in Pu'er around 1160 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "景东彝族自治县位于普洱市，海拔约 1160 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "景东彝族自治县位於普洱市，海拔約 1160 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "JingdongはPu'erにあり、標高約1160m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Jingdong은(는) Pu'er에 있으며 해발 약 1160m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Jingdong follow Pu'er flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "景东彝族自治县的餐桌贴近普洱市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Jingdong is a practical base for exploring Pu'er's landscapes at a slower county pace.",
+        "zh-Hans": "景东彝族自治县适合以更慢的县级节奏，作为探索普洱市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Jingdong's altitude, services distance to Pu'er center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较景东彝族自治县的海拔、到普洱市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "puer-jinggu": {
+      "parentSlug": "puer",
+      "altitude_m": 920,
+      "names": {
+        "zh-Hans": "景谷傣族彝族自治县",
+        "en": "Jinggu",
+        "zh-Hant": "景谷傣族彝族自治县",
+        "ja": "Jinggu",
+        "ko": "Jinggu"
+      },
+      "summary": {
+        "en": "Jinggu sits in Pu'er around 920 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "景谷傣族彝族自治县位于普洱市，海拔约 920 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "景谷傣族彝族自治县位於普洱市，海拔約 920 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "JingguはPu'erにあり、標高約920m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Jinggu은(는) Pu'er에 있으며 해발 약 920m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Jinggu follow Pu'er flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "景谷傣族彝族自治县的餐桌贴近普洱市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Jinggu is a practical base for exploring Pu'er's landscapes at a slower county pace.",
+        "zh-Hans": "景谷傣族彝族自治县适合以更慢的县级节奏，作为探索普洱市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Jinggu's altitude, services distance to Pu'er center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较景谷傣族彝族自治县的海拔、到普洱市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "puer-zhenyuan": {
+      "parentSlug": "puer",
+      "altitude_m": 1100,
+      "names": {
+        "zh-Hans": "镇沅彝族哈尼族拉祜族自治县",
+        "en": "Zhenyuan",
+        "zh-Hant": "镇沅彝族哈尼族拉祜族自治县",
+        "ja": "Zhenyuan",
+        "ko": "Zhenyuan"
+      },
+      "summary": {
+        "en": "Zhenyuan sits in Pu'er around 1100 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "镇沅彝族哈尼族拉祜族自治县位于普洱市，海拔约 1100 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "镇沅彝族哈尼族拉祜族自治县位於普洱市，海拔約 1100 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ZhenyuanはPu'erにあり、標高約1100m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Zhenyuan은(는) Pu'er에 있으며 해발 약 1100m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Zhenyuan follow Pu'er flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "镇沅彝族哈尼族拉祜族自治县的餐桌贴近普洱市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Zhenyuan is a practical base for exploring Pu'er's landscapes at a slower county pace.",
+        "zh-Hans": "镇沅彝族哈尼族拉祜族自治县适合以更慢的县级节奏，作为探索普洱市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Zhenyuan's altitude, services distance to Pu'er center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较镇沅彝族哈尼族拉祜族自治县的海拔、到普洱市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "puer-jiangcheng": {
+      "parentSlug": "puer",
+      "altitude_m": 1120,
+      "names": {
+        "zh-Hans": "江城哈尼族彝族自治县",
+        "en": "Jiangcheng",
+        "zh-Hant": "江城哈尼族彝族自治县",
+        "ja": "Jiangcheng",
+        "ko": "Jiangcheng"
+      },
+      "summary": {
+        "en": "Jiangcheng sits in Pu'er around 1120 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "江城哈尼族彝族自治县位于普洱市，海拔约 1120 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "江城哈尼族彝族自治县位於普洱市，海拔約 1120 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "JiangchengはPu'erにあり、標高約1120m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Jiangcheng은(는) Pu'er에 있으며 해발 약 1120m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Jiangcheng follow Pu'er flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "江城哈尼族彝族自治县的餐桌贴近普洱市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Jiangcheng is a practical base for exploring Pu'er's landscapes at a slower county pace.",
+        "zh-Hans": "江城哈尼族彝族自治县适合以更慢的县级节奏，作为探索普洱市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Jiangcheng's altitude, services distance to Pu'er center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较江城哈尼族彝族自治县的海拔、到普洱市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "puer-menglian": {
+      "parentSlug": "puer",
+      "altitude_m": 1000,
+      "names": {
+        "zh-Hans": "孟连傣族拉祜族佤族自治县",
+        "en": "Menglian",
+        "zh-Hant": "孟连傣族拉祜族佤族自治县",
+        "ja": "Menglian",
+        "ko": "Menglian"
+      },
+      "summary": {
+        "en": "Menglian sits in Pu'er around 1000 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "孟连傣族拉祜族佤族自治县位于普洱市，海拔约 1000 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "孟连傣族拉祜族佤族自治县位於普洱市，海拔約 1000 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MenglianはPu'erにあり、標高約1000m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Menglian은(는) Pu'er에 있으며 해발 약 1000m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Menglian follow Pu'er flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "孟连傣族拉祜族佤族自治县的餐桌贴近普洱市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Menglian is a practical base for exploring Pu'er's landscapes at a slower county pace.",
+        "zh-Hans": "孟连傣族拉祜族佤族自治县适合以更慢的县级节奏，作为探索普洱市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Menglian's altitude, services distance to Pu'er center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较孟连傣族拉祜族佤族自治县的海拔、到普洱市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "puer-lancang": {
+      "parentSlug": "puer",
+      "altitude_m": 1050,
+      "names": {
+        "zh-Hans": "澜沧拉祜族自治县",
+        "en": "Lancang",
+        "zh-Hant": "澜沧拉祜族自治县",
+        "ja": "Lancang",
+        "ko": "Lancang"
+      },
+      "summary": {
+        "en": "Lancang sits in Pu'er around 1050 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "澜沧拉祜族自治县位于普洱市，海拔约 1050 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "澜沧拉祜族自治县位於普洱市，海拔約 1050 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LancangはPu'erにあり、標高約1050m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Lancang은(는) Pu'er에 있으며 해발 약 1050m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Lancang follow Pu'er flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "澜沧拉祜族自治县的餐桌贴近普洱市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Lancang is a practical base for exploring Pu'er's landscapes at a slower county pace.",
+        "zh-Hans": "澜沧拉祜族自治县适合以更慢的县级节奏，作为探索普洱市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Lancang's altitude, services distance to Pu'er center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较澜沧拉祜族自治县的海拔、到普洱市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "puer-ximeng": {
+      "parentSlug": "puer",
+      "altitude_m": 1200,
+      "names": {
+        "zh-Hans": "西盟佤族自治县",
+        "en": "Ximeng",
+        "zh-Hant": "西盟佤族自治县",
+        "ja": "Ximeng",
+        "ko": "Ximeng"
+      },
+      "summary": {
+        "en": "Ximeng sits in Pu'er around 1200 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "西盟佤族自治县位于普洱市，海拔约 1200 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "西盟佤族自治县位於普洱市，海拔約 1200 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "XimengはPu'erにあり、標高約1200m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Ximeng은(는) Pu'er에 있으며 해발 약 1200m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Ximeng follow Pu'er flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "西盟佤族自治县的餐桌贴近普洱市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Ximeng is a practical base for exploring Pu'er's landscapes at a slower county pace.",
+        "zh-Hans": "西盟佤族自治县适合以更慢的县级节奏，作为探索普洱市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Ximeng's altitude, services distance to Pu'er center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较西盟佤族自治县的海拔、到普洱市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lincang-linxiang": {
+      "parentSlug": "lincang",
+      "altitude_m": 1500,
+      "names": {
+        "zh-Hans": "临翔区",
+        "en": "Linxiang",
+        "zh-Hant": "临翔区",
+        "ja": "Linxiang",
+        "ko": "Linxiang"
+      },
+      "summary": {
+        "en": "Linxiang sits in Lincang around 1500 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "临翔区位于临沧市，海拔约 1500 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "临翔区位於临沧市，海拔約 1500 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LinxiangはLincangにあり、標高約1500m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Linxiang은(는) Lincang에 있으며 해발 약 1500m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Linxiang follow Lincang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "临翔区的餐桌贴近临沧市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Linxiang is a practical base for exploring Lincang's landscapes at a slower county pace.",
+        "zh-Hans": "临翔区适合以更慢的县级节奏，作为探索临沧市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Linxiang's altitude, services distance to Lincang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较临翔区的海拔、到临沧市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lincang-fengqing": {
+      "parentSlug": "lincang",
+      "altitude_m": 1570,
+      "names": {
+        "zh-Hans": "凤庆县",
+        "en": "Fengqing",
+        "zh-Hant": "凤庆县",
+        "ja": "Fengqing",
+        "ko": "Fengqing"
+      },
+      "summary": {
+        "en": "Fengqing sits in Lincang around 1570 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "凤庆县位于临沧市，海拔约 1570 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "凤庆县位於临沧市，海拔約 1570 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "FengqingはLincangにあり、標高約1570m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Fengqing은(는) Lincang에 있으며 해발 약 1570m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Fengqing follow Lincang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "凤庆县的餐桌贴近临沧市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Fengqing is a practical base for exploring Lincang's landscapes at a slower county pace.",
+        "zh-Hans": "凤庆县适合以更慢的县级节奏，作为探索临沧市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Fengqing's altitude, services distance to Lincang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较凤庆县的海拔、到临沧市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lincang-yunxian": {
+      "parentSlug": "lincang",
+      "altitude_m": 1100,
+      "names": {
+        "zh-Hans": "云县",
+        "en": "Yun County",
+        "zh-Hant": "云县",
+        "ja": "Yun County",
+        "ko": "Yun County"
+      },
+      "summary": {
+        "en": "Yun County sits in Lincang around 1100 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "云县位于临沧市，海拔约 1100 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "云县位於临沧市，海拔約 1100 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "Yun CountyはLincangにあり、標高約1100m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yun County은(는) Lincang에 있으며 해발 약 1100m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yun County follow Lincang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "云县的餐桌贴近临沧市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yun County is a practical base for exploring Lincang's landscapes at a slower county pace.",
+        "zh-Hans": "云县适合以更慢的县级节奏，作为探索临沧市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yun County's altitude, services distance to Lincang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较云县的海拔、到临沧市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lincang-yongde": {
+      "parentSlug": "lincang",
+      "altitude_m": 1600,
+      "names": {
+        "zh-Hans": "永德县",
+        "en": "Yongde",
+        "zh-Hant": "永德县",
+        "ja": "Yongde",
+        "ko": "Yongde"
+      },
+      "summary": {
+        "en": "Yongde sits in Lincang around 1600 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "永德县位于临沧市，海拔约 1600 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "永德县位於临沧市，海拔約 1600 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YongdeはLincangにあり、標高約1600m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yongde은(는) Lincang에 있으며 해발 약 1600m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yongde follow Lincang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "永德县的餐桌贴近临沧市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yongde is a practical base for exploring Lincang's landscapes at a slower county pace.",
+        "zh-Hans": "永德县适合以更慢的县级节奏，作为探索临沧市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yongde's altitude, services distance to Lincang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较永德县的海拔、到临沧市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lincang-zhenkang": {
+      "parentSlug": "lincang",
+      "altitude_m": 1020,
+      "names": {
+        "zh-Hans": "镇康县",
+        "en": "Zhenkang",
+        "zh-Hant": "镇康县",
+        "ja": "Zhenkang",
+        "ko": "Zhenkang"
+      },
+      "summary": {
+        "en": "Zhenkang sits in Lincang around 1020 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "镇康县位于临沧市，海拔约 1020 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "镇康县位於临沧市，海拔約 1020 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ZhenkangはLincangにあり、標高約1020m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Zhenkang은(는) Lincang에 있으며 해발 약 1020m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Zhenkang follow Lincang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "镇康县的餐桌贴近临沧市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Zhenkang is a practical base for exploring Lincang's landscapes at a slower county pace.",
+        "zh-Hans": "镇康县适合以更慢的县级节奏，作为探索临沧市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Zhenkang's altitude, services distance to Lincang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较镇康县的海拔、到临沧市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lincang-shuangjiang": {
+      "parentSlug": "lincang",
+      "altitude_m": 1040,
+      "names": {
+        "zh-Hans": "双江拉祜族佤族布朗族傣族自治县",
+        "en": "Shuangjiang",
+        "zh-Hant": "双江拉祜族佤族布朗族傣族自治县",
+        "ja": "Shuangjiang",
+        "ko": "Shuangjiang"
+      },
+      "summary": {
+        "en": "Shuangjiang sits in Lincang around 1040 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "双江拉祜族佤族布朗族傣族自治县位于临沧市，海拔约 1040 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "双江拉祜族佤族布朗族傣族自治县位於临沧市，海拔約 1040 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ShuangjiangはLincangにあり、標高約1040m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Shuangjiang은(는) Lincang에 있으며 해발 약 1040m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Shuangjiang follow Lincang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "双江拉祜族佤族布朗族傣族自治县的餐桌贴近临沧市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Shuangjiang is a practical base for exploring Lincang's landscapes at a slower county pace.",
+        "zh-Hans": "双江拉祜族佤族布朗族傣族自治县适合以更慢的县级节奏，作为探索临沧市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Shuangjiang's altitude, services distance to Lincang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较双江拉祜族佤族布朗族傣族自治县的海拔、到临沧市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lincang-gengma": {
+      "parentSlug": "lincang",
+      "altitude_m": 1100,
+      "names": {
+        "zh-Hans": "耿马傣族佤族自治县",
+        "en": "Gengma",
+        "zh-Hant": "耿马傣族佤族自治县",
+        "ja": "Gengma",
+        "ko": "Gengma"
+      },
+      "summary": {
+        "en": "Gengma sits in Lincang around 1100 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "耿马傣族佤族自治县位于临沧市，海拔约 1100 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "耿马傣族佤族自治县位於临沧市，海拔約 1100 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "GengmaはLincangにあり、標高約1100m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Gengma은(는) Lincang에 있으며 해발 약 1100m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Gengma follow Lincang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "耿马傣族佤族自治县的餐桌贴近临沧市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Gengma is a practical base for exploring Lincang's landscapes at a slower county pace.",
+        "zh-Hans": "耿马傣族佤族自治县适合以更慢的县级节奏，作为探索临沧市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Gengma's altitude, services distance to Lincang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较耿马傣族佤族自治县的海拔、到临沧市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "lincang-cangyuan": {
+      "parentSlug": "lincang",
+      "altitude_m": 1270,
+      "names": {
+        "zh-Hans": "沧源佤族自治县",
+        "en": "Cangyuan",
+        "zh-Hant": "沧源佤族自治县",
+        "ja": "Cangyuan",
+        "ko": "Cangyuan"
+      },
+      "summary": {
+        "en": "Cangyuan sits in Lincang around 1270 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "沧源佤族自治县位于临沧市，海拔约 1270 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "沧源佤族自治县位於临沧市，海拔約 1270 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "CangyuanはLincangにあり、標高約1270m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Cangyuan은(는) Lincang에 있으며 해발 약 1270m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Cangyuan follow Lincang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "沧源佤族自治县的餐桌贴近临沧市风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Cangyuan is a practical base for exploring Lincang's landscapes at a slower county pace.",
+        "zh-Hans": "沧源佤族自治县适合以更慢的县级节奏，作为探索临沧市风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Cangyuan's altitude, services distance to Lincang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较沧源佤族自治县的海拔、到临沧市中心的配套距离，以及雨季通行。"
+      }
+    },
+    "chuxiong-city": {
+      "parentSlug": "chuxiong",
+      "altitude_m": 1770,
+      "names": {
+        "zh-Hans": "楚雄市",
+        "en": "Chuxiong City",
+        "zh-Hant": "楚雄市",
+        "ja": "Chuxiong City",
+        "ko": "Chuxiong City"
+      },
+      "summary": {
+        "en": "Chuxiong City sits in Chuxiong around 1770 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "楚雄市位于楚雄彝族自治州，海拔约 1770 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "楚雄市位於楚雄彝族自治州，海拔約 1770 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "Chuxiong CityはChuxiongにあり、標高約1770m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Chuxiong City은(는) Chuxiong에 있으며 해발 약 1770m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Chuxiong City follow Chuxiong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "楚雄市的餐桌贴近楚雄彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Chuxiong City is a practical base for exploring Chuxiong's landscapes at a slower county pace.",
+        "zh-Hans": "楚雄市适合以更慢的县级节奏，作为探索楚雄彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Chuxiong City's altitude, services distance to Chuxiong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较楚雄市的海拔、到楚雄彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "chuxiong-lufeng": {
+      "parentSlug": "chuxiong",
+      "altitude_m": 1560,
+      "names": {
+        "zh-Hans": "禄丰市",
+        "en": "Lufeng",
+        "zh-Hant": "禄丰市",
+        "ja": "Lufeng",
+        "ko": "Lufeng"
+      },
+      "summary": {
+        "en": "Lufeng sits in Chuxiong around 1560 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "禄丰市位于楚雄彝族自治州，海拔约 1560 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "禄丰市位於楚雄彝族自治州，海拔約 1560 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LufengはChuxiongにあり、標高約1560m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Lufeng은(는) Chuxiong에 있으며 해발 약 1560m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Lufeng follow Chuxiong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "禄丰市的餐桌贴近楚雄彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Lufeng is a practical base for exploring Chuxiong's landscapes at a slower county pace.",
+        "zh-Hans": "禄丰市适合以更慢的县级节奏，作为探索楚雄彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Lufeng's altitude, services distance to Chuxiong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较禄丰市的海拔、到楚雄彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "chuxiong-shuangbai": {
+      "parentSlug": "chuxiong",
+      "altitude_m": 1970,
+      "names": {
+        "zh-Hans": "双柏县",
+        "en": "Shuangbai",
+        "zh-Hant": "双柏县",
+        "ja": "Shuangbai",
+        "ko": "Shuangbai"
+      },
+      "summary": {
+        "en": "Shuangbai sits in Chuxiong around 1970 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "双柏县位于楚雄彝族自治州，海拔约 1970 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "双柏县位於楚雄彝族自治州，海拔約 1970 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ShuangbaiはChuxiongにあり、標高約1970m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Shuangbai은(는) Chuxiong에 있으며 해발 약 1970m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Shuangbai follow Chuxiong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "双柏县的餐桌贴近楚雄彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Shuangbai is a practical base for exploring Chuxiong's landscapes at a slower county pace.",
+        "zh-Hans": "双柏县适合以更慢的县级节奏，作为探索楚雄彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Shuangbai's altitude, services distance to Chuxiong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较双柏县的海拔、到楚雄彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "chuxiong-mouding": {
+      "parentSlug": "chuxiong",
+      "altitude_m": 1760,
+      "names": {
+        "zh-Hans": "牟定县",
+        "en": "Mouding",
+        "zh-Hant": "牟定县",
+        "ja": "Mouding",
+        "ko": "Mouding"
+      },
+      "summary": {
+        "en": "Mouding sits in Chuxiong around 1760 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "牟定县位于楚雄彝族自治州，海拔约 1760 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "牟定县位於楚雄彝族自治州，海拔約 1760 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MoudingはChuxiongにあり、標高約1760m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Mouding은(는) Chuxiong에 있으며 해발 약 1760m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Mouding follow Chuxiong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "牟定县的餐桌贴近楚雄彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Mouding is a practical base for exploring Chuxiong's landscapes at a slower county pace.",
+        "zh-Hans": "牟定县适合以更慢的县级节奏，作为探索楚雄彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Mouding's altitude, services distance to Chuxiong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较牟定县的海拔、到楚雄彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "chuxiong-nanhua": {
+      "parentSlug": "chuxiong",
+      "altitude_m": 1860,
+      "names": {
+        "zh-Hans": "南华县",
+        "en": "Nanhua",
+        "zh-Hant": "南华县",
+        "ja": "Nanhua",
+        "ko": "Nanhua"
+      },
+      "summary": {
+        "en": "Nanhua sits in Chuxiong around 1860 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "南华县位于楚雄彝族自治州，海拔约 1860 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "南华县位於楚雄彝族自治州，海拔約 1860 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "NanhuaはChuxiongにあり、標高約1860m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Nanhua은(는) Chuxiong에 있으며 해발 약 1860m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Nanhua follow Chuxiong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "南华县的餐桌贴近楚雄彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Nanhua is a practical base for exploring Chuxiong's landscapes at a slower county pace.",
+        "zh-Hans": "南华县适合以更慢的县级节奏，作为探索楚雄彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Nanhua's altitude, services distance to Chuxiong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较南华县的海拔、到楚雄彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "chuxiong-yaoan": {
+      "parentSlug": "chuxiong",
+      "altitude_m": 1870,
+      "names": {
+        "zh-Hans": "姚安县",
+        "en": "Yao'an",
+        "zh-Hant": "姚安县",
+        "ja": "Yao'an",
+        "ko": "Yao'an"
+      },
+      "summary": {
+        "en": "Yao'an sits in Chuxiong around 1870 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "姚安县位于楚雄彝族自治州，海拔约 1870 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "姚安县位於楚雄彝族自治州，海拔約 1870 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "Yao'anはChuxiongにあり、標高約1870m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yao'an은(는) Chuxiong에 있으며 해발 약 1870m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yao'an follow Chuxiong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "姚安县的餐桌贴近楚雄彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yao'an is a practical base for exploring Chuxiong's landscapes at a slower county pace.",
+        "zh-Hans": "姚安县适合以更慢的县级节奏，作为探索楚雄彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yao'an's altitude, services distance to Chuxiong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较姚安县的海拔、到楚雄彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "chuxiong-dayao": {
+      "parentSlug": "chuxiong",
+      "altitude_m": 1860,
+      "names": {
+        "zh-Hans": "大姚县",
+        "en": "Dayao",
+        "zh-Hant": "大姚县",
+        "ja": "Dayao",
+        "ko": "Dayao"
+      },
+      "summary": {
+        "en": "Dayao sits in Chuxiong around 1860 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "大姚县位于楚雄彝族自治州，海拔约 1860 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "大姚县位於楚雄彝族自治州，海拔約 1860 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "DayaoはChuxiongにあり、標高約1860m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Dayao은(는) Chuxiong에 있으며 해발 약 1860m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Dayao follow Chuxiong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "大姚县的餐桌贴近楚雄彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Dayao is a practical base for exploring Chuxiong's landscapes at a slower county pace.",
+        "zh-Hans": "大姚县适合以更慢的县级节奏，作为探索楚雄彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Dayao's altitude, services distance to Chuxiong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较大姚县的海拔、到楚雄彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "chuxiong-yongren": {
+      "parentSlug": "chuxiong",
+      "altitude_m": 1540,
+      "names": {
+        "zh-Hans": "永仁县",
+        "en": "Yongren",
+        "zh-Hant": "永仁县",
+        "ja": "Yongren",
+        "ko": "Yongren"
+      },
+      "summary": {
+        "en": "Yongren sits in Chuxiong around 1540 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "永仁县位于楚雄彝族自治州，海拔约 1540 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "永仁县位於楚雄彝族自治州，海拔約 1540 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YongrenはChuxiongにあり、標高約1540m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yongren은(는) Chuxiong에 있으며 해발 약 1540m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yongren follow Chuxiong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "永仁县的餐桌贴近楚雄彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yongren is a practical base for exploring Chuxiong's landscapes at a slower county pace.",
+        "zh-Hans": "永仁县适合以更慢的县级节奏，作为探索楚雄彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yongren's altitude, services distance to Chuxiong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较永仁县的海拔、到楚雄彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "chuxiong-yuanmou": {
+      "parentSlug": "chuxiong",
+      "altitude_m": 1120,
+      "names": {
+        "zh-Hans": "元谋县",
+        "en": "Yuanmou",
+        "zh-Hant": "元谋县",
+        "ja": "Yuanmou",
+        "ko": "Yuanmou"
+      },
+      "summary": {
+        "en": "Yuanmou sits in Chuxiong around 1120 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "元谋县位于楚雄彝族自治州，海拔约 1120 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "元谋县位於楚雄彝族自治州，海拔約 1120 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YuanmouはChuxiongにあり、標高約1120m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yuanmou은(는) Chuxiong에 있으며 해발 약 1120m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yuanmou follow Chuxiong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "元谋县的餐桌贴近楚雄彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yuanmou is a practical base for exploring Chuxiong's landscapes at a slower county pace.",
+        "zh-Hans": "元谋县适合以更慢的县级节奏，作为探索楚雄彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yuanmou's altitude, services distance to Chuxiong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较元谋县的海拔、到楚雄彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "chuxiong-wuding": {
+      "parentSlug": "chuxiong",
+      "altitude_m": 1720,
+      "names": {
+        "zh-Hans": "武定县",
+        "en": "Wuding",
+        "zh-Hant": "武定县",
+        "ja": "Wuding",
+        "ko": "Wuding"
+      },
+      "summary": {
+        "en": "Wuding sits in Chuxiong around 1720 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "武定县位于楚雄彝族自治州，海拔约 1720 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "武定县位於楚雄彝族自治州，海拔約 1720 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "WudingはChuxiongにあり、標高約1720m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Wuding은(는) Chuxiong에 있으며 해발 약 1720m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Wuding follow Chuxiong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "武定县的餐桌贴近楚雄彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Wuding is a practical base for exploring Chuxiong's landscapes at a slower county pace.",
+        "zh-Hans": "武定县适合以更慢的县级节奏，作为探索楚雄彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Wuding's altitude, services distance to Chuxiong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较武定县的海拔、到楚雄彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-gejiu": {
+      "parentSlug": "honghe",
+      "altitude_m": 1680,
+      "names": {
+        "zh-Hans": "个旧市",
+        "en": "Gejiu",
+        "zh-Hant": "个旧市",
+        "ja": "Gejiu",
+        "ko": "Gejiu"
+      },
+      "summary": {
+        "en": "Gejiu sits in Honghe around 1680 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "个旧市位于红河哈尼族彝族自治州，海拔约 1680 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "个旧市位於红河哈尼族彝族自治州，海拔約 1680 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "GejiuはHongheにあり、標高約1680m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Gejiu은(는) Honghe에 있으며 해발 약 1680m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Gejiu follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "个旧市的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Gejiu is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "个旧市适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Gejiu's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较个旧市的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-kaiyuan": {
+      "parentSlug": "honghe",
+      "altitude_m": 1050,
+      "names": {
+        "zh-Hans": "开远市",
+        "en": "Kaiyuan",
+        "zh-Hant": "开远市",
+        "ja": "Kaiyuan",
+        "ko": "Kaiyuan"
+      },
+      "summary": {
+        "en": "Kaiyuan sits in Honghe around 1050 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "开远市位于红河哈尼族彝族自治州，海拔约 1050 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "开远市位於红河哈尼族彝族自治州，海拔約 1050 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "KaiyuanはHongheにあり、標高約1050m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Kaiyuan은(는) Honghe에 있으며 해발 약 1050m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Kaiyuan follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "开远市的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Kaiyuan is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "开远市适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Kaiyuan's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较开远市的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-mengzi": {
+      "parentSlug": "honghe",
+      "altitude_m": 1300,
+      "names": {
+        "zh-Hans": "蒙自市",
+        "en": "Mengzi",
+        "zh-Hant": "蒙自市",
+        "ja": "Mengzi",
+        "ko": "Mengzi"
+      },
+      "summary": {
+        "en": "Mengzi sits in Honghe around 1300 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "蒙自市位于红河哈尼族彝族自治州，海拔约 1300 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "蒙自市位於红河哈尼族彝族自治州，海拔約 1300 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MengziはHongheにあり、標高約1300m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Mengzi은(는) Honghe에 있으며 해발 약 1300m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Mengzi follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "蒙自市的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Mengzi is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "蒙自市适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Mengzi's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较蒙自市的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-mile": {
+      "parentSlug": "honghe",
+      "altitude_m": 1430,
+      "names": {
+        "zh-Hans": "弥勒市",
+        "en": "Mile",
+        "zh-Hant": "弥勒市",
+        "ja": "Mile",
+        "ko": "Mile"
+      },
+      "summary": {
+        "en": "Mile sits in Honghe around 1430 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "弥勒市位于红河哈尼族彝族自治州，海拔约 1430 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "弥勒市位於红河哈尼族彝族自治州，海拔約 1430 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MileはHongheにあり、標高約1430m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Mile은(는) Honghe에 있으며 해발 약 1430m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Mile follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "弥勒市的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Mile is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "弥勒市适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Mile's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较弥勒市的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-pingbian": {
+      "parentSlug": "honghe",
+      "altitude_m": 1410,
+      "names": {
+        "zh-Hans": "屏边苗族自治县",
+        "en": "Pingbian",
+        "zh-Hant": "屏边苗族自治县",
+        "ja": "Pingbian",
+        "ko": "Pingbian"
+      },
+      "summary": {
+        "en": "Pingbian sits in Honghe around 1410 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "屏边苗族自治县位于红河哈尼族彝族自治州，海拔约 1410 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "屏边苗族自治县位於红河哈尼族彝族自治州，海拔約 1410 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "PingbianはHongheにあり、標高約1410m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Pingbian은(는) Honghe에 있으며 해발 약 1410m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Pingbian follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "屏边苗族自治县的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Pingbian is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "屏边苗族自治县适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Pingbian's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较屏边苗族自治县的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-jianshui": {
+      "parentSlug": "honghe",
+      "altitude_m": 1320,
+      "names": {
+        "zh-Hans": "建水县",
+        "en": "Jianshui",
+        "zh-Hant": "建水县",
+        "ja": "Jianshui",
+        "ko": "Jianshui"
+      },
+      "summary": {
+        "en": "Jianshui sits in Honghe around 1320 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "建水县位于红河哈尼族彝族自治州，海拔约 1320 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "建水县位於红河哈尼族彝族自治州，海拔約 1320 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "JianshuiはHongheにあり、標高約1320m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Jianshui은(는) Honghe에 있으며 해발 약 1320m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Jianshui follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "建水县的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Jianshui is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "建水县适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Jianshui's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较建水县的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-shiping": {
+      "parentSlug": "honghe",
+      "altitude_m": 1420,
+      "names": {
+        "zh-Hans": "石屏县",
+        "en": "Shiping",
+        "zh-Hant": "石屏县",
+        "ja": "Shiping",
+        "ko": "Shiping"
+      },
+      "summary": {
+        "en": "Shiping sits in Honghe around 1420 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "石屏县位于红河哈尼族彝族自治州，海拔约 1420 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "石屏县位於红河哈尼族彝族自治州，海拔約 1420 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "ShipingはHongheにあり、標高約1420m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Shiping은(는) Honghe에 있으며 해발 약 1420m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Shiping follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "石屏县的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Shiping is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "石屏县适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Shiping's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较石屏县的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-luxi": {
+      "parentSlug": "honghe",
+      "altitude_m": 1700,
+      "names": {
+        "zh-Hans": "泸西县",
+        "en": "Luxi",
+        "zh-Hant": "泸西县",
+        "ja": "Luxi",
+        "ko": "Luxi"
+      },
+      "summary": {
+        "en": "Luxi sits in Honghe around 1700 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "泸西县位于红河哈尼族彝族自治州，海拔约 1700 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "泸西县位於红河哈尼族彝族自治州，海拔約 1700 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LuxiはHongheにあり、標高約1700m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Luxi은(는) Honghe에 있으며 해발 약 1700m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Luxi follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "泸西县的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Luxi is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "泸西县适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Luxi's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较泸西县的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-yuanyang": {
+      "parentSlug": "honghe",
+      "altitude_m": 1540,
+      "names": {
+        "zh-Hans": "元阳县",
+        "en": "Yuanyang",
+        "zh-Hant": "元阳县",
+        "ja": "Yuanyang",
+        "ko": "Yuanyang"
+      },
+      "summary": {
+        "en": "Yuanyang sits in Honghe around 1540 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "元阳县位于红河哈尼族彝族自治州，海拔约 1540 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "元阳县位於红河哈尼族彝族自治州，海拔約 1540 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YuanyangはHongheにあり、標高約1540m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yuanyang은(는) Honghe에 있으며 해발 약 1540m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yuanyang follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "元阳县的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yuanyang is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "元阳县适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yuanyang's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较元阳县的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-honghe-county": {
+      "parentSlug": "honghe",
+      "altitude_m": 1100,
+      "names": {
+        "zh-Hans": "红河县",
+        "en": "Honghe County",
+        "zh-Hant": "红河县",
+        "ja": "Honghe County",
+        "ko": "Honghe County"
+      },
+      "summary": {
+        "en": "Honghe County sits in Honghe around 1100 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "红河县位于红河哈尼族彝族自治州，海拔约 1100 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "红河县位於红河哈尼族彝族自治州，海拔約 1100 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "Honghe CountyはHongheにあり、標高約1100m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Honghe County은(는) Honghe에 있으며 해발 약 1100m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Honghe County follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "红河县的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Honghe County is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "红河县适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Honghe County's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较红河县的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-jinping": {
+      "parentSlug": "honghe",
+      "altitude_m": 1260,
+      "names": {
+        "zh-Hans": "金平苗族瑶族傣族自治县",
+        "en": "Jinping",
+        "zh-Hant": "金平苗族瑶族傣族自治县",
+        "ja": "Jinping",
+        "ko": "Jinping"
+      },
+      "summary": {
+        "en": "Jinping sits in Honghe around 1260 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "金平苗族瑶族傣族自治县位于红河哈尼族彝族自治州，海拔约 1260 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "金平苗族瑶族傣族自治县位於红河哈尼族彝族自治州，海拔約 1260 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "JinpingはHongheにあり、標高約1260m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Jinping은(는) Honghe에 있으며 해발 약 1260m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Jinping follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "金平苗族瑶族傣族自治县的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Jinping is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "金平苗族瑶族傣族自治县适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Jinping's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较金平苗族瑶族傣族自治县的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-lvchun": {
+      "parentSlug": "honghe",
+      "altitude_m": 1640,
+      "names": {
+        "zh-Hans": "绿春县",
+        "en": "Lvchun",
+        "zh-Hant": "绿春县",
+        "ja": "Lvchun",
+        "ko": "Lvchun"
+      },
+      "summary": {
+        "en": "Lvchun sits in Honghe around 1640 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "绿春县位于红河哈尼族彝族自治州，海拔约 1640 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "绿春县位於红河哈尼族彝族自治州，海拔約 1640 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LvchunはHongheにあり、標高約1640m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Lvchun은(는) Honghe에 있으며 해발 약 1640m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Lvchun follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "绿春县的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Lvchun is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "绿春县适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Lvchun's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较绿春县的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "honghe-hekou": {
+      "parentSlug": "honghe",
+      "altitude_m": 100,
+      "names": {
+        "zh-Hans": "河口瑶族自治县",
+        "en": "Hekou",
+        "zh-Hant": "河口瑶族自治县",
+        "ja": "Hekou",
+        "ko": "Hekou"
+      },
+      "summary": {
+        "en": "Hekou sits in Honghe around 100 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "河口瑶族自治县位于红河哈尼族彝族自治州，海拔约 100 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "河口瑶族自治县位於红河哈尼族彝族自治州，海拔約 100 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "HekouはHongheにあり、標高約100m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Hekou은(는) Honghe에 있으며 해발 약 100m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Hekou follow Honghe flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "河口瑶族自治县的餐桌贴近红河哈尼族彝族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Hekou is a practical base for exploring Honghe's landscapes at a slower county pace.",
+        "zh-Hans": "河口瑶族自治县适合以更慢的县级节奏，作为探索红河哈尼族彝族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Hekou's altitude, services distance to Honghe center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较河口瑶族自治县的海拔、到红河哈尼族彝族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "wenshan-city": {
+      "parentSlug": "wenshan",
+      "altitude_m": 1260,
+      "names": {
+        "zh-Hans": "文山市",
+        "en": "Wenshan City",
+        "zh-Hant": "文山市",
+        "ja": "Wenshan City",
+        "ko": "Wenshan City"
+      },
+      "summary": {
+        "en": "Wenshan City sits in Wenshan around 1260 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "文山市位于文山壮族苗族自治州，海拔约 1260 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "文山市位於文山壮族苗族自治州，海拔約 1260 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "Wenshan CityはWenshanにあり、標高約1260m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Wenshan City은(는) Wenshan에 있으며 해발 약 1260m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Wenshan City follow Wenshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "文山市的餐桌贴近文山壮族苗族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Wenshan City is a practical base for exploring Wenshan's landscapes at a slower county pace.",
+        "zh-Hans": "文山市适合以更慢的县级节奏，作为探索文山壮族苗族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Wenshan City's altitude, services distance to Wenshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较文山市的海拔、到文山壮族苗族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "wenshan-yanshan": {
+      "parentSlug": "wenshan",
+      "altitude_m": 1540,
+      "names": {
+        "zh-Hans": "砚山县",
+        "en": "Yanshan",
+        "zh-Hant": "砚山县",
+        "ja": "Yanshan",
+        "ko": "Yanshan"
+      },
+      "summary": {
+        "en": "Yanshan sits in Wenshan around 1540 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "砚山县位于文山壮族苗族自治州，海拔约 1540 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "砚山县位於文山壮族苗族自治州，海拔約 1540 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YanshanはWenshanにあり、標高約1540m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yanshan은(는) Wenshan에 있으며 해발 약 1540m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yanshan follow Wenshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "砚山县的餐桌贴近文山壮族苗族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yanshan is a practical base for exploring Wenshan's landscapes at a slower county pace.",
+        "zh-Hans": "砚山县适合以更慢的县级节奏，作为探索文山壮族苗族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yanshan's altitude, services distance to Wenshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较砚山县的海拔、到文山壮族苗族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "wenshan-xichou": {
+      "parentSlug": "wenshan",
+      "altitude_m": 1450,
+      "names": {
+        "zh-Hans": "西畴县",
+        "en": "Xichou",
+        "zh-Hant": "西畴县",
+        "ja": "Xichou",
+        "ko": "Xichou"
+      },
+      "summary": {
+        "en": "Xichou sits in Wenshan around 1450 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "西畴县位于文山壮族苗族自治州，海拔约 1450 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "西畴县位於文山壮族苗族自治州，海拔約 1450 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "XichouはWenshanにあり、標高約1450m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Xichou은(는) Wenshan에 있으며 해발 약 1450m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Xichou follow Wenshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "西畴县的餐桌贴近文山壮族苗族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Xichou is a practical base for exploring Wenshan's landscapes at a slower county pace.",
+        "zh-Hans": "西畴县适合以更慢的县级节奏，作为探索文山壮族苗族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Xichou's altitude, services distance to Wenshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较西畴县的海拔、到文山壮族苗族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "wenshan-malipo": {
+      "parentSlug": "wenshan",
+      "altitude_m": 1100,
+      "names": {
+        "zh-Hans": "麻栗坡县",
+        "en": "Malipo",
+        "zh-Hant": "麻栗坡县",
+        "ja": "Malipo",
+        "ko": "Malipo"
+      },
+      "summary": {
+        "en": "Malipo sits in Wenshan around 1100 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "麻栗坡县位于文山壮族苗族自治州，海拔约 1100 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "麻栗坡县位於文山壮族苗族自治州，海拔約 1100 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MalipoはWenshanにあり、標高約1100m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Malipo은(는) Wenshan에 있으며 해발 약 1100m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Malipo follow Wenshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "麻栗坡县的餐桌贴近文山壮族苗族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Malipo is a practical base for exploring Wenshan's landscapes at a slower county pace.",
+        "zh-Hans": "麻栗坡县适合以更慢的县级节奏，作为探索文山壮族苗族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Malipo's altitude, services distance to Wenshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较麻栗坡县的海拔、到文山壮族苗族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "wenshan-maguan": {
+      "parentSlug": "wenshan",
+      "altitude_m": 1330,
+      "names": {
+        "zh-Hans": "马关县",
+        "en": "Maguan",
+        "zh-Hant": "马关县",
+        "ja": "Maguan",
+        "ko": "Maguan"
+      },
+      "summary": {
+        "en": "Maguan sits in Wenshan around 1330 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "马关县位于文山壮族苗族自治州，海拔约 1330 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "马关县位於文山壮族苗族自治州，海拔約 1330 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MaguanはWenshanにあり、標高約1330m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Maguan은(는) Wenshan에 있으며 해발 약 1330m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Maguan follow Wenshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "马关县的餐桌贴近文山壮族苗族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Maguan is a practical base for exploring Wenshan's landscapes at a slower county pace.",
+        "zh-Hans": "马关县适合以更慢的县级节奏，作为探索文山壮族苗族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Maguan's altitude, services distance to Wenshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较马关县的海拔、到文山壮族苗族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "wenshan-qiubei": {
+      "parentSlug": "wenshan",
+      "altitude_m": 1450,
+      "names": {
+        "zh-Hans": "丘北县",
+        "en": "Qiubei",
+        "zh-Hant": "丘北县",
+        "ja": "Qiubei",
+        "ko": "Qiubei"
+      },
+      "summary": {
+        "en": "Qiubei sits in Wenshan around 1450 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "丘北县位于文山壮族苗族自治州，海拔约 1450 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "丘北县位於文山壮族苗族自治州，海拔約 1450 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "QiubeiはWenshanにあり、標高約1450m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Qiubei은(는) Wenshan에 있으며 해발 약 1450m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Qiubei follow Wenshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "丘北县的餐桌贴近文山壮族苗族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Qiubei is a practical base for exploring Wenshan's landscapes at a slower county pace.",
+        "zh-Hans": "丘北县适合以更慢的县级节奏，作为探索文山壮族苗族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Qiubei's altitude, services distance to Wenshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较丘北县的海拔、到文山壮族苗族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "wenshan-guangnan": {
+      "parentSlug": "wenshan",
+      "altitude_m": 1250,
+      "names": {
+        "zh-Hans": "广南县",
+        "en": "Guangnan",
+        "zh-Hant": "广南县",
+        "ja": "Guangnan",
+        "ko": "Guangnan"
+      },
+      "summary": {
+        "en": "Guangnan sits in Wenshan around 1250 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "广南县位于文山壮族苗族自治州，海拔约 1250 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "广南县位於文山壮族苗族自治州，海拔約 1250 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "GuangnanはWenshanにあり、標高約1250m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Guangnan은(는) Wenshan에 있으며 해발 약 1250m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Guangnan follow Wenshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "广南县的餐桌贴近文山壮族苗族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Guangnan is a practical base for exploring Wenshan's landscapes at a slower county pace.",
+        "zh-Hans": "广南县适合以更慢的县级节奏，作为探索文山壮族苗族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Guangnan's altitude, services distance to Wenshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较广南县的海拔、到文山壮族苗族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "wenshan-funing": {
+      "parentSlug": "wenshan",
+      "altitude_m": 680,
+      "names": {
+        "zh-Hans": "富宁县",
+        "en": "Funing",
+        "zh-Hant": "富宁县",
+        "ja": "Funing",
+        "ko": "Funing"
+      },
+      "summary": {
+        "en": "Funing sits in Wenshan around 680 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "富宁县位于文山壮族苗族自治州，海拔约 680 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "富宁县位於文山壮族苗族自治州，海拔約 680 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "FuningはWenshanにあり、標高約680m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Funing은(는) Wenshan에 있으며 해발 약 680m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Funing follow Wenshan flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "富宁县的餐桌贴近文山壮族苗族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Funing is a practical base for exploring Wenshan's landscapes at a slower county pace.",
+        "zh-Hans": "富宁县适合以更慢的县级节奏，作为探索文山壮族苗族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Funing's altitude, services distance to Wenshan center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较富宁县的海拔、到文山壮族苗族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "xishuangbanna-jinghong": {
+      "parentSlug": "xishuangbanna",
+      "altitude_m": 550,
+      "names": {
+        "zh-Hans": "景洪市",
+        "en": "Jinghong",
+        "zh-Hant": "景洪市",
+        "ja": "Jinghong",
+        "ko": "Jinghong"
+      },
+      "summary": {
+        "en": "Jinghong sits in Xishuangbanna around 550 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "景洪市位于西双版纳傣族自治州，海拔约 550 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "景洪市位於西双版纳傣族自治州，海拔約 550 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "JinghongはXishuangbannaにあり、標高約550m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Jinghong은(는) Xishuangbanna에 있으며 해발 약 550m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Jinghong follow Xishuangbanna flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "景洪市的餐桌贴近西双版纳傣族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Jinghong is a practical base for exploring Xishuangbanna's landscapes at a slower county pace.",
+        "zh-Hans": "景洪市适合以更慢的县级节奏，作为探索西双版纳傣族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Jinghong's altitude, services distance to Xishuangbanna center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较景洪市的海拔、到西双版纳傣族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "xishuangbanna-menghai": {
+      "parentSlug": "xishuangbanna",
+      "altitude_m": 1170,
+      "names": {
+        "zh-Hans": "勐海县",
+        "en": "Menghai",
+        "zh-Hant": "勐海县",
+        "ja": "Menghai",
+        "ko": "Menghai"
+      },
+      "summary": {
+        "en": "Menghai sits in Xishuangbanna around 1170 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "勐海县位于西双版纳傣族自治州，海拔约 1170 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "勐海县位於西双版纳傣族自治州，海拔約 1170 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MenghaiはXishuangbannaにあり、標高約1170m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Menghai은(는) Xishuangbanna에 있으며 해발 약 1170m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Menghai follow Xishuangbanna flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "勐海县的餐桌贴近西双版纳傣族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Menghai is a practical base for exploring Xishuangbanna's landscapes at a slower county pace.",
+        "zh-Hans": "勐海县适合以更慢的县级节奏，作为探索西双版纳傣族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Menghai's altitude, services distance to Xishuangbanna center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较勐海县的海拔、到西双版纳傣族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "xishuangbanna-mengla": {
+      "parentSlug": "xishuangbanna",
+      "altitude_m": 640,
+      "names": {
+        "zh-Hans": "勐腊县",
+        "en": "Mengla",
+        "zh-Hant": "勐腊县",
+        "ja": "Mengla",
+        "ko": "Mengla"
+      },
+      "summary": {
+        "en": "Mengla sits in Xishuangbanna around 640 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "勐腊县位于西双版纳傣族自治州，海拔约 640 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "勐腊县位於西双版纳傣族自治州，海拔約 640 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MenglaはXishuangbannaにあり、標高約640m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Mengla은(는) Xishuangbanna에 있으며 해발 약 640m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Mengla follow Xishuangbanna flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "勐腊县的餐桌贴近西双版纳傣族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Mengla is a practical base for exploring Xishuangbanna's landscapes at a slower county pace.",
+        "zh-Hans": "勐腊县适合以更慢的县级节奏，作为探索西双版纳傣族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Mengla's altitude, services distance to Xishuangbanna center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较勐腊县的海拔、到西双版纳傣族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-city": {
+      "parentSlug": "dali",
+      "altitude_m": 1976,
+      "names": {
+        "zh-Hans": "大理市",
+        "en": "Dali City",
+        "zh-Hant": "大理市",
+        "ja": "Dali City",
+        "ko": "Dali City"
+      },
+      "summary": {
+        "en": "Dali City sits in Dali around 1976 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "大理市位于大理白族自治州，海拔约 1976 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "大理市位於大理白族自治州，海拔約 1976 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "Dali CityはDaliにあり、標高約1976m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Dali City은(는) Dali에 있으며 해발 약 1976m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Dali City follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "大理市的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Dali City is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "大理市适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Dali City's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较大理市的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-yangbi": {
+      "parentSlug": "dali",
+      "altitude_m": 1560,
+      "names": {
+        "zh-Hans": "漾濞彝族自治县",
+        "en": "Yangbi",
+        "zh-Hant": "漾濞彝族自治县",
+        "ja": "Yangbi",
+        "ko": "Yangbi"
+      },
+      "summary": {
+        "en": "Yangbi sits in Dali around 1560 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "漾濞彝族自治县位于大理白族自治州，海拔约 1560 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "漾濞彝族自治县位於大理白族自治州，海拔約 1560 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YangbiはDaliにあり、標高約1560m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yangbi은(는) Dali에 있으며 해발 약 1560m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yangbi follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "漾濞彝族自治县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yangbi is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "漾濞彝族自治县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yangbi's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较漾濞彝族自治县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-xiangyun": {
+      "parentSlug": "dali",
+      "altitude_m": 2000,
+      "names": {
+        "zh-Hans": "祥云县",
+        "en": "Xiangyun",
+        "zh-Hant": "祥云县",
+        "ja": "Xiangyun",
+        "ko": "Xiangyun"
+      },
+      "summary": {
+        "en": "Xiangyun sits in Dali around 2000 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "祥云县位于大理白族自治州，海拔约 2000 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "祥云县位於大理白族自治州，海拔約 2000 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "XiangyunはDaliにあり、標高約2000m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Xiangyun은(는) Dali에 있으며 해발 약 2000m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Xiangyun follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "祥云县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Xiangyun is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "祥云县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Xiangyun's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较祥云县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-binchuan": {
+      "parentSlug": "dali",
+      "altitude_m": 1440,
+      "names": {
+        "zh-Hans": "宾川县",
+        "en": "Binchuan",
+        "zh-Hant": "宾川县",
+        "ja": "Binchuan",
+        "ko": "Binchuan"
+      },
+      "summary": {
+        "en": "Binchuan sits in Dali around 1440 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "宾川县位于大理白族自治州，海拔约 1440 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "宾川县位於大理白族自治州，海拔約 1440 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "BinchuanはDaliにあり、標高約1440m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Binchuan은(는) Dali에 있으며 해발 약 1440m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Binchuan follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "宾川县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Binchuan is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "宾川县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Binchuan's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较宾川县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-midu": {
+      "parentSlug": "dali",
+      "altitude_m": 1670,
+      "names": {
+        "zh-Hans": "弥渡县",
+        "en": "Midu",
+        "zh-Hant": "弥渡县",
+        "ja": "Midu",
+        "ko": "Midu"
+      },
+      "summary": {
+        "en": "Midu sits in Dali around 1670 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "弥渡县位于大理白族自治州，海拔约 1670 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "弥渡县位於大理白族自治州，海拔約 1670 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MiduはDaliにあり、標高約1670m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Midu은(는) Dali에 있으며 해발 약 1670m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Midu follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "弥渡县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Midu is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "弥渡县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Midu's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较弥渡县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-nanjian": {
+      "parentSlug": "dali",
+      "altitude_m": 1400,
+      "names": {
+        "zh-Hans": "南涧彝族自治县",
+        "en": "Nanjian",
+        "zh-Hant": "南涧彝族自治县",
+        "ja": "Nanjian",
+        "ko": "Nanjian"
+      },
+      "summary": {
+        "en": "Nanjian sits in Dali around 1400 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "南涧彝族自治县位于大理白族自治州，海拔约 1400 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "南涧彝族自治县位於大理白族自治州，海拔約 1400 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "NanjianはDaliにあり、標高約1400m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Nanjian은(는) Dali에 있으며 해발 약 1400m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Nanjian follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "南涧彝族自治县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Nanjian is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "南涧彝族自治县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Nanjian's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较南涧彝族自治县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-weishan": {
+      "parentSlug": "dali",
+      "altitude_m": 1720,
+      "names": {
+        "zh-Hans": "巍山彝族回族自治县",
+        "en": "Weishan",
+        "zh-Hant": "巍山彝族回族自治县",
+        "ja": "Weishan",
+        "ko": "Weishan"
+      },
+      "summary": {
+        "en": "Weishan sits in Dali around 1720 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "巍山彝族回族自治县位于大理白族自治州，海拔约 1720 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "巍山彝族回族自治县位於大理白族自治州，海拔約 1720 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "WeishanはDaliにあり、標高約1720m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Weishan은(는) Dali에 있으며 해발 약 1720m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Weishan follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "巍山彝族回族自治县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Weishan is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "巍山彝族回族自治县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Weishan's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较巍山彝族回族自治县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-yongping": {
+      "parentSlug": "dali",
+      "altitude_m": 1620,
+      "names": {
+        "zh-Hans": "永平县",
+        "en": "Yongping",
+        "zh-Hant": "永平县",
+        "ja": "Yongping",
+        "ko": "Yongping"
+      },
+      "summary": {
+        "en": "Yongping sits in Dali around 1620 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "永平县位于大理白族自治州，海拔约 1620 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "永平县位於大理白族自治州，海拔約 1620 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YongpingはDaliにあり、標高約1620m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yongping은(는) Dali에 있으며 해발 약 1620m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yongping follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "永平县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yongping is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "永平县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yongping's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较永平县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-yunlong": {
+      "parentSlug": "dali",
+      "altitude_m": 1660,
+      "names": {
+        "zh-Hans": "云龙县",
+        "en": "Yunlong",
+        "zh-Hant": "云龙县",
+        "ja": "Yunlong",
+        "ko": "Yunlong"
+      },
+      "summary": {
+        "en": "Yunlong sits in Dali around 1660 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "云龙县位于大理白族自治州，海拔约 1660 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "云龙县位於大理白族自治州，海拔約 1660 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YunlongはDaliにあり、標高約1660m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yunlong은(는) Dali에 있으며 해발 약 1660m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yunlong follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "云龙县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yunlong is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "云龙县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yunlong's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较云龙县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-eryuan": {
+      "parentSlug": "dali",
+      "altitude_m": 2060,
+      "names": {
+        "zh-Hans": "洱源县",
+        "en": "Eryuan",
+        "zh-Hant": "洱源县",
+        "ja": "Eryuan",
+        "ko": "Eryuan"
+      },
+      "summary": {
+        "en": "Eryuan sits in Dali around 2060 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "洱源县位于大理白族自治州，海拔约 2060 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "洱源县位於大理白族自治州，海拔約 2060 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "EryuanはDaliにあり、標高約2060m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Eryuan은(는) Dali에 있으며 해발 약 2060m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Eryuan follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "洱源县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Eryuan is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "洱源县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Eryuan's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较洱源县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-jianchuan": {
+      "parentSlug": "dali",
+      "altitude_m": 2200,
+      "names": {
+        "zh-Hans": "剑川县",
+        "en": "Jianchuan",
+        "zh-Hant": "剑川县",
+        "ja": "Jianchuan",
+        "ko": "Jianchuan"
+      },
+      "summary": {
+        "en": "Jianchuan sits in Dali around 2200 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "剑川县位于大理白族自治州，海拔约 2200 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "剑川县位於大理白族自治州，海拔約 2200 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "JianchuanはDaliにあり、標高約2200m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Jianchuan은(는) Dali에 있으며 해발 약 2200m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Jianchuan follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "剑川县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Jianchuan is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "剑川县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Jianchuan's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较剑川县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dali-heqing": {
+      "parentSlug": "dali",
+      "altitude_m": 2200,
+      "names": {
+        "zh-Hans": "鹤庆县",
+        "en": "Heqing",
+        "zh-Hant": "鹤庆县",
+        "ja": "Heqing",
+        "ko": "Heqing"
+      },
+      "summary": {
+        "en": "Heqing sits in Dali around 2200 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "鹤庆县位于大理白族自治州，海拔约 2200 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "鹤庆县位於大理白族自治州，海拔約 2200 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "HeqingはDaliにあり、標高約2200m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Heqing은(는) Dali에 있으며 해발 약 2200m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Heqing follow Dali flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "鹤庆县的餐桌贴近大理白族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Heqing is a practical base for exploring Dali's landscapes at a slower county pace.",
+        "zh-Hans": "鹤庆县适合以更慢的县级节奏，作为探索大理白族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Heqing's altitude, services distance to Dali center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较鹤庆县的海拔、到大理白族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dehong-ruili": {
+      "parentSlug": "dehong",
+      "altitude_m": 780,
+      "names": {
+        "zh-Hans": "瑞丽市",
+        "en": "Ruili",
+        "zh-Hant": "瑞丽市",
+        "ja": "Ruili",
+        "ko": "Ruili"
+      },
+      "summary": {
+        "en": "Ruili sits in Dehong around 780 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "瑞丽市位于德宏傣族景颇族自治州，海拔约 780 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "瑞丽市位於德宏傣族景颇族自治州，海拔約 780 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "RuiliはDehongにあり、標高約780m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Ruili은(는) Dehong에 있으며 해발 약 780m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Ruili follow Dehong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "瑞丽市的餐桌贴近德宏傣族景颇族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Ruili is a practical base for exploring Dehong's landscapes at a slower county pace.",
+        "zh-Hans": "瑞丽市适合以更慢的县级节奏，作为探索德宏傣族景颇族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Ruili's altitude, services distance to Dehong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较瑞丽市的海拔、到德宏傣族景颇族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dehong-mangshi": {
+      "parentSlug": "dehong",
+      "altitude_m": 920,
+      "names": {
+        "zh-Hans": "芒市",
+        "en": "Mangshi",
+        "zh-Hant": "芒市",
+        "ja": "Mangshi",
+        "ko": "Mangshi"
+      },
+      "summary": {
+        "en": "Mangshi sits in Dehong around 920 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "芒市位于德宏傣族景颇族自治州，海拔约 920 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "芒市位於德宏傣族景颇族自治州，海拔約 920 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "MangshiはDehongにあり、標高約920m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Mangshi은(는) Dehong에 있으며 해발 약 920m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Mangshi follow Dehong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "芒市的餐桌贴近德宏傣族景颇族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Mangshi is a practical base for exploring Dehong's landscapes at a slower county pace.",
+        "zh-Hans": "芒市适合以更慢的县级节奏，作为探索德宏傣族景颇族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Mangshi's altitude, services distance to Dehong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较芒市的海拔、到德宏傣族景颇族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dehong-lianghe": {
+      "parentSlug": "dehong",
+      "altitude_m": 1100,
+      "names": {
+        "zh-Hans": "梁河县",
+        "en": "Lianghe",
+        "zh-Hant": "梁河县",
+        "ja": "Lianghe",
+        "ko": "Lianghe"
+      },
+      "summary": {
+        "en": "Lianghe sits in Dehong around 1100 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "梁河县位于德宏傣族景颇族自治州，海拔约 1100 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "梁河县位於德宏傣族景颇族自治州，海拔約 1100 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LiangheはDehongにあり、標高約1100m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Lianghe은(는) Dehong에 있으며 해발 약 1100m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Lianghe follow Dehong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "梁河县的餐桌贴近德宏傣族景颇族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Lianghe is a practical base for exploring Dehong's landscapes at a slower county pace.",
+        "zh-Hans": "梁河县适合以更慢的县级节奏，作为探索德宏傣族景颇族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Lianghe's altitude, services distance to Dehong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较梁河县的海拔、到德宏傣族景颇族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dehong-yingjiang": {
+      "parentSlug": "dehong",
+      "altitude_m": 830,
+      "names": {
+        "zh-Hans": "盈江县",
+        "en": "Yingjiang",
+        "zh-Hant": "盈江县",
+        "ja": "Yingjiang",
+        "ko": "Yingjiang"
+      },
+      "summary": {
+        "en": "Yingjiang sits in Dehong around 830 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "盈江县位于德宏傣族景颇族自治州，海拔约 830 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "盈江县位於德宏傣族景颇族自治州，海拔約 830 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "YingjiangはDehongにあり、標高約830m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Yingjiang은(는) Dehong에 있으며 해발 약 830m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Yingjiang follow Dehong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "盈江县的餐桌贴近德宏傣族景颇族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Yingjiang is a practical base for exploring Dehong's landscapes at a slower county pace.",
+        "zh-Hans": "盈江县适合以更慢的县级节奏，作为探索德宏傣族景颇族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Yingjiang's altitude, services distance to Dehong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较盈江县的海拔、到德宏傣族景颇族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "dehong-longchuan": {
+      "parentSlug": "dehong",
+      "altitude_m": 970,
+      "names": {
+        "zh-Hans": "陇川县",
+        "en": "Longchuan",
+        "zh-Hant": "陇川县",
+        "ja": "Longchuan",
+        "ko": "Longchuan"
+      },
+      "summary": {
+        "en": "Longchuan sits in Dehong around 970 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "陇川县位于德宏傣族景颇族自治州，海拔约 970 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "陇川县位於德宏傣族景颇族自治州，海拔約 970 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LongchuanはDehongにあり、標高約970m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Longchuan은(는) Dehong에 있으며 해발 약 970m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Longchuan follow Dehong flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "陇川县的餐桌贴近德宏傣族景颇族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Longchuan is a practical base for exploring Dehong's landscapes at a slower county pace.",
+        "zh-Hans": "陇川县适合以更慢的县级节奏，作为探索德宏傣族景颇族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Longchuan's altitude, services distance to Dehong center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较陇川县的海拔、到德宏傣族景颇族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "nujiang-lushui": {
+      "parentSlug": "nujiang",
+      "altitude_m": 1170,
+      "names": {
+        "zh-Hans": "泸水市",
+        "en": "Lushui",
+        "zh-Hant": "泸水市",
+        "ja": "Lushui",
+        "ko": "Lushui"
+      },
+      "summary": {
+        "en": "Lushui sits in Nujiang around 1170 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "泸水市位于怒江傈僳族自治州，海拔约 1170 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "泸水市位於怒江傈僳族自治州，海拔約 1170 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LushuiはNujiangにあり、標高約1170m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Lushui은(는) Nujiang에 있으며 해발 약 1170m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Lushui follow Nujiang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "泸水市的餐桌贴近怒江傈僳族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Lushui is a practical base for exploring Nujiang's landscapes at a slower county pace.",
+        "zh-Hans": "泸水市适合以更慢的县级节奏，作为探索怒江傈僳族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Lushui's altitude, services distance to Nujiang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较泸水市的海拔、到怒江傈僳族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "nujiang-fugong": {
+      "parentSlug": "nujiang",
+      "altitude_m": 1190,
+      "names": {
+        "zh-Hans": "福贡县",
+        "en": "Fugong",
+        "zh-Hant": "福贡县",
+        "ja": "Fugong",
+        "ko": "Fugong"
+      },
+      "summary": {
+        "en": "Fugong sits in Nujiang around 1190 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "福贡县位于怒江傈僳族自治州，海拔约 1190 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "福贡县位於怒江傈僳族自治州，海拔約 1190 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "FugongはNujiangにあり、標高約1190m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Fugong은(는) Nujiang에 있으며 해발 약 1190m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Fugong follow Nujiang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "福贡县的餐桌贴近怒江傈僳族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Fugong is a practical base for exploring Nujiang's landscapes at a slower county pace.",
+        "zh-Hans": "福贡县适合以更慢的县级节奏，作为探索怒江傈僳族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Fugong's altitude, services distance to Nujiang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较福贡县的海拔、到怒江傈僳族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "nujiang-gongshan": {
+      "parentSlug": "nujiang",
+      "altitude_m": 1500,
+      "names": {
+        "zh-Hans": "贡山独龙族怒族自治县",
+        "en": "Gongshan",
+        "zh-Hant": "贡山独龙族怒族自治县",
+        "ja": "Gongshan",
+        "ko": "Gongshan"
+      },
+      "summary": {
+        "en": "Gongshan sits in Nujiang around 1500 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "贡山独龙族怒族自治县位于怒江傈僳族自治州，海拔约 1500 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "贡山独龙族怒族自治县位於怒江傈僳族自治州，海拔約 1500 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "GongshanはNujiangにあり、標高約1500m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Gongshan은(는) Nujiang에 있으며 해발 약 1500m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Gongshan follow Nujiang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "贡山独龙族怒族自治县的餐桌贴近怒江傈僳族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Gongshan is a practical base for exploring Nujiang's landscapes at a slower county pace.",
+        "zh-Hans": "贡山独龙族怒族自治县适合以更慢的县级节奏，作为探索怒江傈僳族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Gongshan's altitude, services distance to Nujiang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较贡山独龙族怒族自治县的海拔、到怒江傈僳族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "nujiang-lanping": {
+      "parentSlug": "nujiang",
+      "altitude_m": 2400,
+      "names": {
+        "zh-Hans": "兰坪白族普米族自治县",
+        "en": "Lanping",
+        "zh-Hant": "兰坪白族普米族自治县",
+        "ja": "Lanping",
+        "ko": "Lanping"
+      },
+      "summary": {
+        "en": "Lanping sits in Nujiang around 2400 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "兰坪白族普米族自治县位于怒江傈僳族自治州，海拔约 2400 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "兰坪白族普米族自治县位於怒江傈僳族自治州，海拔約 2400 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "LanpingはNujiangにあり、標高約2400m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Lanping은(는) Nujiang에 있으며 해발 약 2400m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Lanping follow Nujiang flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "兰坪白族普米族自治县的餐桌贴近怒江傈僳族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Lanping is a practical base for exploring Nujiang's landscapes at a slower county pace.",
+        "zh-Hans": "兰坪白族普米族自治县适合以更慢的县级节奏，作为探索怒江傈僳族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Lanping's altitude, services distance to Nujiang center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较兰坪白族普米族自治县的海拔、到怒江傈僳族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "diqing-shangri-la": {
+      "parentSlug": "diqing",
+      "altitude_m": 3280,
+      "names": {
+        "zh-Hans": "香格里拉市",
+        "en": "Shangri-La",
+        "zh-Hant": "香格里拉市",
+        "ja": "Shangri-La",
+        "ko": "Shangri-La"
+      },
+      "summary": {
+        "en": "Shangri-La sits in Diqing around 3280 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "香格里拉市位于迪庆藏族自治州，海拔约 3280 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "香格里拉市位於迪庆藏族自治州，海拔約 3280 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "Shangri-LaはDiqingにあり、標高約3280m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Shangri-La은(는) Diqing에 있으며 해발 약 3280m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Shangri-La follow Diqing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "香格里拉市的餐桌贴近迪庆藏族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Shangri-La is a practical base for exploring Diqing's landscapes at a slower county pace.",
+        "zh-Hans": "香格里拉市适合以更慢的县级节奏，作为探索迪庆藏族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Shangri-La's altitude, services distance to Diqing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较香格里拉市的海拔、到迪庆藏族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "diqing-deqin": {
+      "parentSlug": "diqing",
+      "altitude_m": 3400,
+      "names": {
+        "zh-Hans": "德钦县",
+        "en": "Deqin",
+        "zh-Hant": "德钦县",
+        "ja": "Deqin",
+        "ko": "Deqin"
+      },
+      "summary": {
+        "en": "Deqin sits in Diqing around 3400 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "德钦县位于迪庆藏族自治州，海拔约 3400 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "德钦县位於迪庆藏族自治州，海拔約 3400 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "DeqinはDiqingにあり、標高約3400m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Deqin은(는) Diqing에 있으며 해발 약 3400m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Deqin follow Diqing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "德钦县的餐桌贴近迪庆藏族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Deqin is a practical base for exploring Diqing's landscapes at a slower county pace.",
+        "zh-Hans": "德钦县适合以更慢的县级节奏，作为探索迪庆藏族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Deqin's altitude, services distance to Diqing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较德钦县的海拔、到迪庆藏族自治州中心的配套距离，以及雨季通行。"
+      }
+    },
+    "diqing-weixi": {
+      "parentSlug": "diqing",
+      "altitude_m": 2320,
+      "names": {
+        "zh-Hans": "维西傈僳族自治县",
+        "en": "Weixi",
+        "zh-Hant": "维西傈僳族自治县",
+        "ja": "Weixi",
+        "ko": "Weixi"
+      },
+      "summary": {
+        "en": "Weixi sits in Diqing around 2320 m. Use this page for weather, lifestyle, food cues, and local guide leads before you plan a longer stay.",
+        "zh-Hans": "维西傈僳族自治县位于迪庆藏族自治州，海拔约 2320 米。这里适合先看天气、生活节奏、美食线索和本地向导，再决定停留多久。",
+        "zh-Hant": "维西傈僳族自治县位於迪庆藏族自治州，海拔約 2320 公尺。適合先看天氣、生活節奏、美食與在地向導，再決定停留多久。",
+        "ja": "WeixiはDiqingにあり、標高約2320m。天気・暮らし・食・現地ガイドを確認してから滞在計画を立てましょう。",
+        "ko": "Weixi은(는) Diqing에 있으며 해발 약 2320m. 날씨, 생활 리듬, 음식, 현지 가이드를 먼저 확인한 뒤 체류를 계획하세요."
+      },
+      "food": {
+        "en": "Local tables around Weixi follow Diqing flavors: market breakfasts, regional noodles/rice dishes, and seasonal produce.",
+        "zh-Hans": "维西傈僳族自治县的餐桌贴近迪庆藏族自治州风味：早市、地方米线/米饭和应季食材。"
+      },
+      "scenery": {
+        "en": "Weixi is a practical base for exploring Diqing's landscapes at a slower county pace.",
+        "zh-Hans": "维西傈僳族自治县适合以更慢的县级节奏，作为探索迪庆藏族自治州风景的落脚点。"
+      },
+      "migration": {
+        "en": "For relocation scouting, compare Weixi's altitude, services distance to Diqing center, and rainy-season access.",
+        "zh-Hans": "若考虑移居踩点，先比较维西傈僳族自治县的海拔、到迪庆藏族自治州中心的配套距离，以及雨季通行。"
+      }
+    }
+  }
+}

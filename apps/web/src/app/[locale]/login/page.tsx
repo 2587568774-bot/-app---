@@ -8,7 +8,16 @@ export default async function LoginPage({ params }: { params: Promise<{ locale: 
   return (
     <div className="space-y-6">
       <h1 className="text-center text-3xl font-semibold">{t('title')}</h1>
-      <LoginForm labels={{ email: t('email'), send: t('send'), google: t('google'), hint: t('hint') }} />
+      <LoginForm
+        labels={{
+          email: t('email'),
+          send: t('send'),
+          google: t('google'),
+          hint: t('hint'),
+          magicSent: t('magicSent'),
+          failed: t('failed'),
+        }}
+      />
     </div>
   );
 }

@@ -1,9 +1,10 @@
 ﻿-- See Yunnan initial schema (M0)
 -- Province -> city -> county regions, guides, subscriptions, offline packs
+-- Fixed order: tables first, then helper functions that reference them
 
 create extension if not exists pgcrypto;
 
--- helpers
+-- helpers (no table dependency)
 create or replace function public.set_updated_at()
 returns trigger
 language plpgsql
@@ -12,34 +13,6 @@ begin
   new.updated_at = now();
   return new;
 end;
-$$;
-
-create or replace function public.is_admin()
-returns boolean
-language sql
-stable
-security definer
-set search_path = public
-as $$
-  select exists (
-    select 1 from public.profiles p
-    where p.id = auth.uid() and p.role = 'admin'
-  );
-$$;
-
-create or replace function public.is_premium(uid uuid default auth.uid())
-returns boolean
-language sql
-stable
-security definer
-set search_path = public
-as $$
-  select exists (
-    select 1 from public.subscriptions s
-    where s.user_id = uid
-      and s.status = 'active'
-      and (s.current_period_end is null or s.current_period_end > now())
-  );
 $$;
 
 -- profiles
@@ -53,6 +26,7 @@ create table if not exists public.profiles (
   updated_at timestamptz not null default now()
 );
 
+drop trigger if exists profiles_set_updated_at on public.profiles;
 create trigger profiles_set_updated_at
 before update on public.profiles
 for each row execute function public.set_updated_at();
@@ -77,6 +51,7 @@ create table if not exists public.regions (
 create index if not exists regions_parent_id_idx on public.regions (parent_id);
 create index if not exists regions_level_status_idx on public.regions (level, status);
 
+drop trigger if exists regions_set_updated_at on public.regions;
 create trigger regions_set_updated_at
 before update on public.regions
 for each row execute function public.set_updated_at();
@@ -96,6 +71,7 @@ create table if not exists public.region_i18n (
   unique (region_id, locale)
 );
 
+drop trigger if exists region_i18n_set_updated_at on public.region_i18n;
 create trigger region_i18n_set_updated_at
 before update on public.region_i18n
 for each row execute function public.set_updated_at();
@@ -143,6 +119,7 @@ create table if not exists public.guides (
 
 create index if not exists guides_status_idx on public.guides (status);
 
+drop trigger if exists guides_set_updated_at on public.guides;
 create trigger guides_set_updated_at
 before update on public.guides
 for each row execute function public.set_updated_at();
@@ -150,42 +127,41 @@ for each row execute function public.set_updated_at();
 create table if not exists public.guide_applications (
   id uuid primary key default gen_random_uuid(),
   user_id uuid not null references public.profiles (id) on delete cascade,
-  guide_id uuid references public.guides (id) on delete set null,
   payload jsonb not null default '{}'::jsonb,
   status text not null default 'pending' check (status in ('pending', 'approved', 'rejected')),
-  reject_reason text,
-  reviewed_by uuid references public.profiles (id),
-  reviewed_at timestamptz,
-  created_at timestamptz not null default now()
+  reviewer_note text,
+  created_at timestamptz not null default now(),
+  reviewed_at timestamptz
 );
 
 create table if not exists public.guide_inquiries (
   id uuid primary key default gen_random_uuid(),
-  user_id uuid not null references public.profiles (id) on delete cascade,
   guide_id uuid not null references public.guides (id) on delete cascade,
+  user_id uuid not null references public.profiles (id) on delete cascade,
   region_id uuid references public.regions (id) on delete set null,
   message text not null,
-  contact_email text not null,
-  status text not null default 'new' check (status in ('new', 'contacted', 'closed')),
+  status text not null default 'new' check (status in ('new', 'replied', 'closed')),
   created_at timestamptz not null default now(),
   updated_at timestamptz not null default now()
 );
 
+drop trigger if exists guide_inquiries_set_updated_at on public.guide_inquiries;
 create trigger guide_inquiries_set_updated_at
 before update on public.guide_inquiries
 for each row execute function public.set_updated_at();
 
--- subscriptions / offline / settings
+-- subscriptions / offline packs
 create table if not exists public.subscriptions (
   id uuid primary key default gen_random_uuid(),
   user_id uuid not null references public.profiles (id) on delete cascade,
-  status text not null check (status in ('active', 'canceled', 'past_due', 'expired')),
-  plan text not null default 'monthly' check (plan in ('monthly')),
-  price_usd numeric(10,2) not null default 19.90,
-  current_period_end timestamptz,
-  provider text not null default 'manual' check (provider in ('stripe', 'manual')),
+  provider text not null check (provider in ('stripe', 'apple', 'google', 'manual')),
   provider_customer_id text,
   provider_subscription_id text,
+  plan_code text not null default 'premium_monthly',
+  status text not null default 'inactive' check (status in ('inactive', 'active', 'past_due', 'canceled', 'trialing')),
+  current_period_start timestamptz,
+  current_period_end timestamptz,
+  cancel_at_period_end boolean not null default false,
   created_at timestamptz not null default now(),
   updated_at timestamptz not null default now()
 );
@@ -193,6 +169,7 @@ create table if not exists public.subscriptions (
 create index if not exists subscriptions_user_id_idx on public.subscriptions (user_id);
 create index if not exists subscriptions_status_idx on public.subscriptions (status);
 
+drop trigger if exists subscriptions_set_updated_at on public.subscriptions;
 create trigger subscriptions_set_updated_at
 before update on public.subscriptions
 for each row execute function public.set_updated_at();
@@ -201,25 +178,48 @@ create table if not exists public.offline_packs (
   id uuid primary key default gen_random_uuid(),
   user_id uuid not null references public.profiles (id) on delete cascade,
   region_id uuid not null references public.regions (id) on delete cascade,
-  version integer not null default 1,
-  payload_path text,
-  downloaded_at timestamptz not null default now(),
+  pack_version integer not null default 1,
+  payload jsonb not null default '{}'::jsonb,
+  created_at timestamptz not null default now(),
   unique (user_id, region_id)
 );
 
 create table if not exists public.app_settings (
   key text primary key,
-  value jsonb not null,
+  value jsonb not null default '{}'::jsonb,
   updated_at timestamptz not null default now()
 );
 
-insert into public.app_settings (key, value) values
-  ('premium_price_usd', '19.90'::jsonb),
-  ('platform_commission_rate', '0.15'::jsonb),
-  ('ads_enabled', 'true'::jsonb)
-on conflict (key) do nothing;
+-- helper functions AFTER tables exist
+create or replace function public.is_admin()
+returns boolean
+language sql
+stable
+security definer
+set search_path = public
+as $$
+  select exists (
+    select 1 from public.profiles p
+    where p.id = auth.uid() and p.role = 'admin'
+  );
+$$;
 
--- auth -> profile
+create or replace function public.is_premium(uid uuid default auth.uid())
+returns boolean
+language sql
+stable
+security definer
+set search_path = public
+as $$
+  select exists (
+    select 1 from public.subscriptions s
+    where s.user_id = uid
+      and s.status = 'active'
+      and (s.current_period_end is null or s.current_period_end > now())
+  );
+$$;
+
+-- auto profile on signup
 create or replace function public.handle_new_user()
 returns trigger
 language plpgsql
@@ -230,7 +230,7 @@ begin
   insert into public.profiles (id, display_name, preferred_locale)
   values (
     new.id,
-    coalesce(new.raw_user_meta_data ->> 'full_name', new.email),
+    coalesce(new.raw_user_meta_data ->> 'display_name', split_part(new.email, '@', 1)),
     coalesce(new.raw_user_meta_data ->> 'preferred_locale', 'en')
   )
   on conflict (id) do nothing;
@@ -255,6 +255,34 @@ alter table public.guide_inquiries enable row level security;
 alter table public.subscriptions enable row level security;
 alter table public.offline_packs enable row level security;
 alter table public.app_settings enable row level security;
+
+-- drop old policies so this script can be re-run safely
+drop policy if exists profiles_select_own_or_admin on public.profiles;
+drop policy if exists profiles_update_own on public.profiles;
+drop policy if exists profiles_admin_all on public.profiles;
+drop policy if exists regions_public_read on public.regions;
+drop policy if exists regions_admin_write on public.regions;
+drop policy if exists region_i18n_public_read on public.region_i18n;
+drop policy if exists region_i18n_admin_write on public.region_i18n;
+drop policy if exists region_metrics_public_read on public.region_metrics;
+drop policy if exists region_metrics_admin_write on public.region_metrics;
+drop policy if exists region_media_public_read on public.region_media;
+drop policy if exists region_media_admin_write on public.region_media;
+drop policy if exists guides_public_read_approved on public.guides;
+drop policy if exists guides_owner_update on public.guides;
+drop policy if exists guides_insert_own on public.guides;
+drop policy if exists guides_admin_all on public.guides;
+drop policy if exists guide_applications_owner on public.guide_applications;
+drop policy if exists guide_applications_insert_own on public.guide_applications;
+drop policy if exists guide_applications_admin_all on public.guide_applications;
+drop policy if exists guide_inquiries_participants on public.guide_inquiries;
+drop policy if exists guide_inquiries_insert_own on public.guide_inquiries;
+drop policy if exists guide_inquiries_update_participants on public.guide_inquiries;
+drop policy if exists subscriptions_owner_read on public.subscriptions;
+drop policy if exists subscriptions_admin_write on public.subscriptions;
+drop policy if exists offline_packs_owner on public.offline_packs;
+drop policy if exists app_settings_public_read on public.app_settings;
+drop policy if exists app_settings_admin_write on public.app_settings;
 
 -- profiles policies
 create policy profiles_select_own_or_admin on public.profiles
