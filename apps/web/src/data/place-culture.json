@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T02:39:31.670Z",
-  "note": "Indicative ethnic shares for product UX (not official census). Food/culture images via Unsplash placeholders; replace with licensed field photos later.",
+  "generated_at": "2026-07-14T11:42:53.265Z",
+  "note": "Food/culture images from 游云南 mofang guides (no portraits).",
   "cities": {
     "kunming": {
       "foodItems": [
@@ -13,7 +13,7 @@
             "zh-Hans": "高汤、薄肉片与时令配菜分层上桌。",
             "en": "Hot broth, thin meats, and seasonal toppings served tableside."
           },
-          "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/kunming/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -24,7 +24,7 @@
             "zh-Hans": "汽锅慢炖，汤清肉香。",
             "en": "Slow steam-pot chicken with clear aromatic broth."
           },
-          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/kunming/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -35,14 +35,14 @@
             "zh-Hans": "皮脆肉嫩，宜良本地招牌。",
             "en": "Crisp-skinned roast duck, a Yiliang classic."
           },
-          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/kunming/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/kunming/mofang-land-01.jpg",
+        "/uploads/promo/kunming/mofang-land-02.jpg",
+        "/uploads/promo/kunming/mofang-land-03.jpg",
+        "/uploads/promo/kunming/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -97,7 +97,7 @@
             "zh-Hans": "白族奶制品，烤制或生食皆可。",
             "en": "Bai dairy snack, grilled or fresh."
           },
-          "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/dali/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -108,7 +108,7 @@
             "zh-Hans": "洱海风味，酸辣开胃。",
             "en": "Erhai-style fish with bright sour heat."
           },
-          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/dali/mofang-food-02.png"
         },
         {
           "name": {
@@ -119,14 +119,14 @@
             "zh-Hans": "一苦二甜三回味。",
             "en": "Bitter, sweet, then lingering aftertaste."
           },
-          "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/dali/mofang-food-03.png"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/dali/mofang-land-01.jpg",
+        "/uploads/promo/dali/mofang-land-02.jpg",
+        "/uploads/promo/dali/mofang-land-03.png",
+        "/uploads/promo/dali/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -181,7 +181,7 @@
             "zh-Hans": "外脆内软，街头常见。",
             "en": "Crisp outside, soft inside — a street staple."
           },
-          "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/lijiang/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -192,7 +192,7 @@
             "zh-Hans": "纳西风味，高海拔暖身。",
             "en": "Naxi-style cured ribs for high-altitude evenings."
           },
-          "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/lijiang/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -203,14 +203,14 @@
             "zh-Hans": "清爽解腻的本地小吃。",
             "en": "Cool chickpea jelly snack."
           },
-          "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/lijiang/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1483921020237-2ff51e8e4b22?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/lijiang/mofang-land-01.jpg",
+        "/uploads/promo/lijiang/mofang-land-02.jpg",
+        "/uploads/promo/lijiang/mofang-land-03.jpg",
+        "/uploads/promo/lijiang/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -265,7 +265,7 @@
             "zh-Hans": "香茅、辣酱与热带香料。",
             "en": "Lemongrass, chili, and tropical spices."
           },
-          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/xishuangbanna/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -276,7 +276,7 @@
             "zh-Hans": "酸甜果香配糯米。",
             "en": "Sweet-tart pineapple with sticky rice."
           },
-          "image": "https://images.unsplash.com/photo-1516684669134-de6f7c473a2a?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/xishuangbanna/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -287,14 +287,14 @@
             "zh-Hans": "傣族风味，酸辣开胃。",
             "en": "Dai pounded chicken feet, sour and spicy."
           },
-          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/xishuangbanna/mofang-food-03.png"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/xishuangbanna/mofang-land-01.jpg",
+        "/uploads/promo/xishuangbanna/mofang-land-02.jpg",
+        "/uploads/promo/xishuangbanna/mofang-land-03.jpg",
+        "/uploads/promo/xishuangbanna/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -349,7 +349,7 @@
             "zh-Hans": "高原日常饮品，暖胃。",
             "en": "Daily highland drink for warmth."
           },
-          "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/diqing/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -360,7 +360,7 @@
             "zh-Hans": "炖煮或风干，藏餐核心。",
             "en": "Stewed or dried — a Tibetan staple."
           },
-          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/diqing/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -371,14 +371,14 @@
             "zh-Hans": "青稞炒面，方便便携。",
             "en": "Roasted barley flour, portable energy."
           },
-          "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/diqing/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1483921020237-2ff51e8e4b22?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/diqing/mofang-land-01.jpg",
+        "/uploads/promo/diqing/mofang-land-02.jpg",
+        "/uploads/promo/diqing/mofang-land-03.jpg",
+        "/uploads/promo/diqing/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -433,7 +433,7 @@
             "zh-Hans": "豆腐、肉串与夜市烟火。",
             "en": "Tofu, skewers, and night-market heat."
           },
-          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/honghe/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -444,7 +444,7 @@
             "zh-Hans": "红河也是米线重镇。",
             "en": "Honghe is also a noodles stronghold."
           },
-          "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/honghe/mofang-food-02.png"
         },
         {
           "name": {
@@ -455,14 +455,14 @@
             "zh-Hans": "酸辣清爽，本地早餐。",
             "en": "Sour-spicy local breakfast rolls."
           },
-          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/honghe/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/honghe/mofang-land-01.png",
+        "/uploads/promo/honghe/mofang-land-02.jpg",
+        "/uploads/promo/honghe/mofang-land-03.png",
+        "/uploads/promo/honghe/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -517,7 +517,7 @@
             "zh-Hans": "山货、腊肉与火塘味道。",
             "en": "Mountain produce, cured meats, hearth flavors."
           },
-          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/chuxiong/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -528,7 +528,7 @@
             "zh-Hans": "雨季山珍，火锅或炒制。",
             "en": "Rainy-season mushrooms in hotpot or stir-fry."
           },
-          "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/chuxiong/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -539,14 +539,14 @@
             "zh-Hans": "彝区常见暖身菜。",
             "en": "Common warming dish in Yi areas."
           },
-          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/chuxiong/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/chuxiong/mofang-land-01.png",
+        "/uploads/promo/chuxiong/mofang-land-02.jpg",
+        "/uploads/promo/chuxiong/mofang-land-03.png",
+        "/uploads/promo/chuxiong/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -601,7 +601,7 @@
             "zh-Hans": "酸、香、辣与热带蔬菜。",
             "en": "Sour, fragrant, spicy tropical vegetables."
           },
-          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/dehong/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -612,7 +612,7 @@
             "zh-Hans": "山野菜与舂制调味。",
             "en": "Mountain greens and pounded seasonings."
           },
-          "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/dehong/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -623,14 +623,14 @@
             "zh-Hans": "节庆与家宴常见。",
             "en": "Common at festivals and family tables."
           },
-          "image": "https://images.unsplash.com/photo-1516684669134-de6f7c473a2a?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/dehong/mofang-food-03.png"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/dehong/mofang-land-01.jpg",
+        "/uploads/promo/dehong/mofang-land-02.jpg",
+        "/uploads/promo/dehong/mofang-land-03.jpg",
+        "/uploads/promo/dehong/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -685,7 +685,7 @@
             "zh-Hans": "峡谷特色，浓香暖身。",
             "en": "Canyon specialty, rich and warming."
           },
-          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/nujiang/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -696,7 +696,7 @@
             "zh-Hans": "菌类、野菜与河鱼。",
             "en": "Mushrooms, wild greens, river fish."
           },
-          "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/nujiang/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -707,14 +707,14 @@
             "zh-Hans": "山民待客常见。",
             "en": "Common hospitality spirit."
           },
-          "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/nujiang/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/nujiang/mofang-land-01.jpg",
+        "/uploads/promo/nujiang/mofang-land-02.jpg",
+        "/uploads/promo/nujiang/mofang-land-03.jpg",
+        "/uploads/promo/nujiang/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -769,7 +769,7 @@
             "zh-Hans": "酸香开胃，本地家常。",
             "en": "Bright sour soup chicken, everyday local food."
           },
-          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/wenshan/mofang-food-01.png"
         },
         {
           "name": {
@@ -780,7 +780,7 @@
             "zh-Hans": "文山特产入汤。",
             "en": "Local notoginseng cooked into soup."
           },
-          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/wenshan/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -791,14 +791,14 @@
             "zh-Hans": "节庆五色糯米。",
             "en": "Festival five-color sticky rice."
           },
-          "image": "https://images.unsplash.com/photo-1516684669134-de6f7c473a2a?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/wenshan/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/wenshan/mofang-land-01.jpg",
+        "/uploads/promo/wenshan/mofang-land-02.jpg",
+        "/uploads/promo/wenshan/mofang-land-03.png",
+        "/uploads/promo/wenshan/mofang-land-04.png"
       ],
       "ethnicGroups": [
         {
@@ -853,7 +853,7 @@
             "zh-Hans": "晒青与陈化，茶马古道遗产。",
             "en": "Sun-dried and aged — Tea Horse Road legacy."
           },
-          "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/puer/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -864,7 +864,7 @@
             "zh-Hans": "滇南风味零食/下酒菜。",
             "en": "Southern Yunnan dried beef snack."
           },
-          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/puer/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -875,14 +875,14 @@
             "zh-Hans": "山野菜与酸辣搭配。",
             "en": "Mountain greens with sour-spicy notes."
           },
-          "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/puer/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/puer/mofang-land-01.jpg",
+        "/uploads/promo/puer/mofang-land-02.jpg",
+        "/uploads/promo/puer/mofang-land-03.png",
+        "/uploads/promo/puer/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -937,7 +937,7 @@
             "zh-Hans": "凤庆等地红茶闻名。",
             "en": "Famous black tea from Fengqing area."
           },
-          "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/lincang/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -948,7 +948,7 @@
             "zh-Hans": "核桃等山货丰富。",
             "en": "Walnuts and mountain produce."
           },
-          "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/lincang/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -959,14 +959,14 @@
             "zh-Hans": "酸辣鲜明，山野风味。",
             "en": "Bold sour-spicy mountain flavors."
           },
-          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/lincang/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/lincang/mofang-land-01.jpg",
+        "/uploads/promo/lincang/mofang-land-02.jpg",
+        "/uploads/promo/lincang/mofang-land-03.jpg",
+        "/uploads/promo/lincang/mofang-land-04.png"
       ],
       "ethnicGroups": [
         {
@@ -1021,7 +1021,7 @@
             "zh-Hans": "炒饵块，传说与早午餐经典。",
             "en": "Stir-fried rice cakes — a legendary breakfast/lunch classic."
           },
-          "image": "https://images.unsplash.com/photo-1516684669134-de6f7c473a2a?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/baoshan/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -1032,7 +1032,7 @@
             "zh-Hans": "当季水果清甜。",
             "en": "Seasonal sweet pears."
           },
-          "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/baoshan/mofang-food-02.png"
         },
         {
           "name": {
@@ -1043,14 +1043,14 @@
             "zh-Hans": "清汤或浇头，日常主食。",
             "en": "Clear broth or topped noodles for everyday meals."
           },
-          "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/baoshan/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/baoshan/mofang-land-01.png",
+        "/uploads/promo/baoshan/mofang-land-02.jpg",
+        "/uploads/promo/baoshan/mofang-land-03.jpg",
+        "/uploads/promo/baoshan/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -1105,7 +1105,7 @@
             "zh-Hans": "湖鲜鲜甜，铜锅慢煮。",
             "en": "Fresh lake fish slow-cooked in copper pot."
           },
-          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/yuxi/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -1116,7 +1116,7 @@
             "zh-Hans": "清甜小吃，送礼常见。",
             "en": "Sweet lotus starch snack, popular gift."
           },
-          "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/yuxi/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -1127,14 +1127,14 @@
             "zh-Hans": "本地传统甜食。",
             "en": "Local traditional sweet."
           },
-          "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/yuxi/mofang-food-03.png"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/yuxi/mofang-land-01.jpg",
+        "/uploads/promo/yuxi/mofang-land-02.jpg",
+        "/uploads/promo/yuxi/mofang-land-03.jpg",
+        "/uploads/promo/yuxi/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -1189,7 +1189,7 @@
             "zh-Hans": "云南火腿代表产地。",
             "en": "Signature Yunnan ham origin."
           },
-          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/qujing/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -1200,7 +1200,7 @@
             "zh-Hans": "麻辣干香，下饭神器。",
             "en": "Dry-spicy chili chicken, perfect with rice."
           },
-          "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/qujing/mofang-food-02.png"
         },
         {
           "name": {
@@ -1211,14 +1211,14 @@
             "zh-Hans": "曲靖早餐经典。",
             "en": "Classic Qujing breakfast noodles."
           },
-          "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/qujing/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/qujing/mofang-land-01.jpg",
+        "/uploads/promo/qujing/mofang-land-02.jpg",
+        "/uploads/promo/qujing/mofang-land-03.png",
+        "/uploads/promo/qujing/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
@@ -1273,7 +1273,7 @@
             "zh-Hans": "昭通特产入药膳。",
             "en": "Local gastrodia in medicinal chicken soup."
           },
-          "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/zhaotong/mofang-food-01.jpg"
         },
         {
           "name": {
@@ -1284,7 +1284,7 @@
             "zh-Hans": "高海拔果品清甜。",
             "en": "High-altitude sweet apples."
           },
-          "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/zhaotong/mofang-food-02.jpg"
         },
         {
           "name": {
@@ -1295,14 +1295,14 @@
             "zh-Hans": "家常下饭，烟火气足。",
             "en": "Home-style cured meat with deep flavor."
           },
-          "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1200&q=80"
+          "image": "/uploads/food/zhaotong/mofang-food-03.jpg"
         }
       ],
       "cultureImages": [
-        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80"
+        "/uploads/promo/zhaotong/mofang-land-01.jpg",
+        "/uploads/promo/zhaotong/mofang-land-02.jpg",
+        "/uploads/promo/zhaotong/mofang-land-03.png",
+        "/uploads/promo/zhaotong/mofang-land-04.jpg"
       ],
       "ethnicGroups": [
         {
