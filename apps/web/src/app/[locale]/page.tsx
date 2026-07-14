@@ -4,7 +4,7 @@ import { PlaceCard } from '@/components/place-card';
 import { SearchBox } from '@/components/search-box';
 import { AdSlot } from '@/components/ad-slot';
 import { getFeaturedCities, stats } from '@/lib/regions/data-server';
-import { getPlaceVisual, resolvePlaceImages } from '@/lib/regions/visuals';
+import { resolvePlaceImages } from '@/lib/regions/visuals';
 
 export default async function HomePage({
   params,

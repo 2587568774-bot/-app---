@@ -24,7 +24,7 @@ export function MetricChips({
   if (bestMonths && bestMonths.length > 0) {
     chips.push(
       t('best', {
-        months: bestMonths.map((m) => t(`months.${m}` as any)).join(' '),
+        months: bestMonths.map((m) => t(('months.' + m) as 'months.1')).join(' '),
       }),
     );
   }

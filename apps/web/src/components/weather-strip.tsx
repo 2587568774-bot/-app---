@@ -65,7 +65,7 @@ export function WeatherStrip({ lat, lng }: { lat: number; lng: number }) {
   const label =
     data.weathercode != null
       ? weatherKeyByCode[data.weathercode]
-        ? t(weatherKeyByCode[data.weathercode] as any)
+        ? t(weatherKeyByCode[data.weathercode] as 'clear')
         : t('code', { code: data.weathercode })
       : '—';
 

@@ -4,7 +4,7 @@ import { FormEvent, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 
-export function GuideApplyForm({ locale }: { locale: string }) {
+export function GuideApplyForm({ locale: _locale }: { locale: string }) {
   const router = useRouter();
   const t = useTranslations('guides');
   const [loading, setLoading] = useState(false);
